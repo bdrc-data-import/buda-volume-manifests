@@ -1,0 +1,138 @@
+{
+  "latestChangeLogItem" : {
+    "user" : "bdr:U0002",
+    "message" : {
+      "@value" : "initial version",
+      "@language" : "en"
+    },
+    "time" : 1580729730.000000000
+  },
+  "rev" : "b8ea0418-71f8-427c-a1bf-739e42c94d4b",
+  "for-volume" : "bdr:ITEST",
+  "spec-version" : "0.1.0",
+  "default-view" : "view1",
+  "attribution" : [ {
+    "@value" : "data contributed by rKTs",
+    "@language" : "en"
+  } ],
+  "note" : [ {
+    "@value" : "not sure about the order of page 2"
+  } ],
+  "changes" : [ {
+    "user" : "bdr:U0002",
+    "message" : {
+      "@value" : "initial version",
+      "@language" : "en"
+    },
+    "time" : 1580729730.000000000
+  } ],
+  "view" : {
+    "view1" : {
+      "imagelist" : [ {
+        "filename" : "I1KG9128001.tif",
+        "note" : [ {
+          "@value" : "this is an intro page, some editions would have that before the scans",
+          "@language" : "en"
+        } ],
+        "display" : true,
+        "pagination" : {
+          "pgfolios" : {
+            "value" : "1a",
+            "section" : "intro"
+          }
+        }
+      }, {
+        "tags" : [ "T0021", "T0011" ],
+        "filename" : "I1KG9128002.tif",
+        "indication" : {
+          "@value" : "kha",
+          "@language" : "bo-x-ewts"
+        },
+        "display" : true,
+        "pagination" : {
+          "pgfolios" : {
+            "value" : "1a",
+            "section" : "intro"
+          }
+        }
+      }, {
+        "tags" : [ "T0020" ],
+        "display" : true,
+        "pagination" : {
+          "pgfolios" : {
+            "value" : "1a",
+            "section" : null
+          }
+        }
+      }, {
+        "filename" : "I1KG9128003.tif",
+        "display" : true,
+        "pagination" : {
+          "pgfolios" : {
+            "value" : "1b",
+            "section" : "intro"
+          },
+          "bates" : {
+            "value" : "2",
+            "section" : null
+          }
+        }
+      }, {
+        "filename" : "I1KG9128005.tif",
+        "of" : "I1KG9128004.tif"
+      }, {
+        "filename" : "I1KG9128004.tif",
+        "rotation" : 180,
+        "display" : true,
+        "pagination" : {
+          "pgfolios" : {
+            "value" : "1'a",
+            "section" : "intro"
+          }
+        }
+      } ]
+    }
+  },
+  "sections" : [ {
+    "id" : "intro",
+    "name" : {
+      "@value" : "intro",
+      "@language" : "en"
+    }
+  }, {
+    "id" : "s1",
+    "name" : {
+      "@value" : "section1",
+      "@language" : "bo-x-ewts"
+    }
+  }, {
+    "id" : "s2",
+    "name" : {
+      "@value" : "section2",
+      "@language" : "bo-x-ewts"
+    }
+  } ],
+  "pagination" : [ {
+    "id" : "pgfolios",
+    "type" : "folios",
+    "note" : [ {
+      "@value" : "from the original blockprint",
+      "@language" : "en"
+    } ]
+  }, {
+    "id" : "bates",
+    "type" : "simple",
+    "note" : [ {
+      "@value" : "bates numbers added on the xerox reprint",
+      "@language" : "en"
+    } ]
+  } ],
+  "viewing-direction" : "left-to-right",
+  "appData" : {
+    "default-string-lang" : "en",
+    "show-checked-images" : true,
+    "show-hidden-images" : true,
+    "margin-indication-odd" : "{volname}-{sectionname}-{pagenum:bo}",
+    "margin-indication-even" : ""
+  }
+}
