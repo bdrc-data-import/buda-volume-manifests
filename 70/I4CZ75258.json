@@ -35,15 +35,15 @@
   "view1":{
    "imagelist":[
     {
-     "display":false,
      "filename":"I4CZ752580001.tif",
+     "hidden":true,
      "tags":[
       "T0005"
      ]
     },
     {
-     "display":false,
      "filename":"I4CZ752580002.tif",
+     "hidden":true,
      "tags":[
       "T0005"
      ]
@@ -3369,8 +3369,8 @@
      }
     },
     {
-     "display":false,
-     "filename":"I4CZ752580353.jpg"
+     "filename":"I4CZ752580353.jpg",
+     "hidden":true
     },
     {
      "pagination":{
