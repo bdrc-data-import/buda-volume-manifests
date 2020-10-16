@@ -1,0 +1,5416 @@
+{
+ "appData":{
+  "bvmt":{
+   "default-vol-string-lang":"bo",
+   "metadata-for-bvmt-ver":"0.1.0"
+  }
+ },
+ "attribution":[
+  {
+   "@language":"en",
+   "@value":"Data provided by rKTs under the CC0 license"
+  }
+ ],
+ "changes":[
+  {
+   "message":{
+    "@language":"en",
+    "@value":"migration from rKTs data"
+   },
+   "time":"2020-10-03T11:35:30Z",
+   "user":"bdu:U1653882847"
+  }
+ ],
+ "default-view":"view1",
+ "imggroup":"bdr:I3CN20642",
+ "pagination":[
+  {
+   "id":"pgfolios",
+   "type":"folios"
+  }
+ ],
+ "sections":[
+  {
+   "id":"khri brgyad",
+   "name":{
+    "@language":"bo-x-ewts",
+    "@value":"khri brgyad"
+   }
+  },
+  {
+   "id":"khri pa",
+   "name":{
+    "@language":"bo-x-ewts",
+    "@value":"khri pa"
+   }
+  }
+ ],
+ "spec-version":"0.1.0",
+ "status":"released",
+ "view":{
+  "view1":{
+   "imagelist":[
+    {
+     "filename":"I3CN206420001.tif",
+     "hidden":true,
+     "tags":[
+      "T0005"
+     ]
+    },
+    {
+     "filename":"I3CN206420002.tif",
+     "hidden":true,
+     "tags":[
+      "T0005"
+     ]
+    },
+    {
+     "filename":"I3CN206420003.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"1a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420004.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"1b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420005.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"2a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420006.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"2b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420007.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"3a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420008.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"3b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420009.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"4a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420010.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"4b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420011.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"5a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420012.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"5b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420013.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"6a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420014.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"6b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420015.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"7a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420016.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"7b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420017.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"8a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420018.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"8b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420019.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"9a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420020.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"9b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420021.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"10a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420022.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"10b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420023.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"11a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420024.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"11b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420025.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"12a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420026.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"12b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420027.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"13a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420028.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"13b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420029.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"14a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420030.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"14b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420031.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"15a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420032.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"15b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420033.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"16a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420034.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"16b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420035.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"17a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420036.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"17b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420037.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"18a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420038.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"18b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420039.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"19a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420040.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"19b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420041.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"20a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420042.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"20b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420043.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"21a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420044.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"21b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420045.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"22a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420046.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"22b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420047.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"23a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420048.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"23b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420049.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"24a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420050.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"24b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420051.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"25a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420052.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"25b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420053.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"26a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420054.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"26b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420055.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"27a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420056.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"27b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420057.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"28a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420058.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"28b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420059.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"29a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420060.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"29b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420061.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"30a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420062.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"30b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420063.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"31a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420064.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"31b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420065.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"32a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420066.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"32b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420067.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"33a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420068.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"33b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420069.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"34a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420070.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"34b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420071.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"35a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420072.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"35b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420073.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"36a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420074.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"36b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420075.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"37a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420076.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"37b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420077.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"38a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420078.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"38b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420079.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"39a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420080.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"39b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420081.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"40a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420082.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"40b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420083.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"41a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420084.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"41b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420085.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"42a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420086.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"42b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420087.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"43a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420088.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"43b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420089.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"44a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420090.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"44b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420091.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"45a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420092.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"45b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420093.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"46a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420094.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"46b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420095.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"47a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420096.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"47b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420097.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"48a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420098.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"48b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420099.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"49a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420100.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"49b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420101.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"50a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420102.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"50b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420103.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"51a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420104.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"51b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420105.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"52a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420106.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"52b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420107.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"53a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420108.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"53b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420109.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"54a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420110.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"54b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420111.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"55a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420112.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"55b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420113.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"56a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420114.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"56b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420115.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"57a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420116.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"57b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420117.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"58a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420118.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"58b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420119.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"59a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420120.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"59b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420121.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"60a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420122.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"60b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420123.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"61a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420124.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"61b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420125.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"62a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420126.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"62b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420127.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"63a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420128.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"63b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420129.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"64a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420130.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"64b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420131.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"65a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420132.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"65b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420133.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"66a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420134.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"66b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420135.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"67a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420136.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"67b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420137.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"68a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420138.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"68b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420139.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"69a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420140.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"69b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420141.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"70a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420142.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"70b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420143.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"71a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420144.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"71b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420145.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"72a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420146.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"72b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420147.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"73a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420148.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"73b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420149.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"74a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420150.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"74b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420151.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"75a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420152.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"75b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420153.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"76a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420154.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"76b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420155.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"77a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420156.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"77b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420157.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"78a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420158.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"78b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420159.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"79a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420160.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"79b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420161.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"80a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420162.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"80b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420163.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"81a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420164.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"81b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420165.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"82a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420166.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"82b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420167.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"83a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420168.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"83b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420169.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"84a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420170.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"84b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420171.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"85a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420172.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"85b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420173.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"86a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420174.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"86b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420175.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"87a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420176.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"87b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420177.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"88a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420178.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"88b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420179.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"89a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420180.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"89b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420181.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"90a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420182.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"90b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420183.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"91a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420184.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"91b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420185.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"92a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420186.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"92b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420187.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"93a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420188.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"93b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420189.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"94a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420190.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"94b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420191.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"95a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420192.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"95b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420193.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"96a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420194.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"96b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420195.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"97a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420196.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"97b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420197.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"98a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420198.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"98b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420199.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"99a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420200.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"99b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420201.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"100a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420202.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"100b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420203.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"101a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420204.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"101b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420205.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"102a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420206.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"102b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420207.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"103a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420208.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"103b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420209.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"104a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420210.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"104b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420211.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"105a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420212.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"105b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420213.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"106a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420214.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"106b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420215.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"107a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420216.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"107b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420217.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"108a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420218.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"108b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420219.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"109a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420220.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"109b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420221.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"110a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420222.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"110b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420223.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"111a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420224.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"111b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420225.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"112a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420226.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"112b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420227.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"113a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420228.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"113b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420229.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"114a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420230.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"114b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420231.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"115a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420232.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"115b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420233.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"116a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420234.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"116b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420235.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"117a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420236.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"117b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420237.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"118a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420238.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"118b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420239.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"119a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420240.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"119b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420241.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"120a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420242.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"120b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420243.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"121a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420244.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"121b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420245.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"122a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420246.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"122b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420247.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"123a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420248.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"123b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420249.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"124a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420250.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"124b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420251.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"125a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420252.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"125b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420253.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"126a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420254.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"126b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420255.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"127a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420256.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"127b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420257.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"128a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420258.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"128b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420259.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"129a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420260.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"129b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420261.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"130a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420262.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"130b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420263.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"131a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420264.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"131b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420265.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"132a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420266.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"132b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420267.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"133a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420268.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"133b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420269.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"134a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420270.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"134b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420271.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"135a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420272.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"135b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420273.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"136a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420274.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"136b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420275.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"137a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420276.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"137b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420277.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"138a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420278.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"138b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420279.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"139a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420280.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"139b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420281.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"140a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420282.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"140b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420283.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"141a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420284.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"141b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420285.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"142a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420286.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"142b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420287.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"143a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420288.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"143b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420289.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"144a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420290.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"144b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420291.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"145a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420292.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"145b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420293.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"146a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420294.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"146b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420295.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"147a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420296.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"147b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420297.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"148a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420298.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"148b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420299.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"149a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420300.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"149b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420301.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"150a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420302.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"150b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420303.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"151a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420304.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"151b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420305.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"152a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420306.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"152b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420307.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"153a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420308.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"153b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420309.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"154a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420310.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"154b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420311.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"155a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420312.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"155b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420313.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"156a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420314.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"156b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420315.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"157a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420316.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"157b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420317.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"158a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420318.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"158b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420319.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"159a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420320.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"159b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420321.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"160a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420322.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"160b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420323.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"161a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420324.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"161b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420325.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"162a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420326.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"162b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420327.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"163a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420328.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"163b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420329.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"164a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420330.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"164b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420331.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"165a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420332.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"165b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420333.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"166a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420334.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"166b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420335.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"167a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420336.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"167b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420337.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"168a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420338.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"168b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420339.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"169a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420340.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"169b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420341.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"170a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420342.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"170b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420343.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"171a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420344.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"171b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420345.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"172a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420346.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"172b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420347.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"173a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420348.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"173b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420349.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"174a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420350.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"174b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420351.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"175a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420352.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"175b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420353.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"176a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420354.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"176b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420355.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"177a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420356.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"177b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420357.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"178a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420358.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"178b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420359.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"179a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420360.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"179b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420361.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"180a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420362.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"180b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420363.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"181a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420364.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"181b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420365.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"182a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420366.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"182b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420367.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"183a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420368.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"183b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420369.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"184a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420370.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"184b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420371.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"185a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420372.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"185b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420373.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"186a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420374.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"186b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420375.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"187a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420376.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"187b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420377.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"188a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420378.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"188b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420379.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"189a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420380.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"189b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420381.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"190a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420382.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"190b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420383.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"191a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420384.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"191b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420385.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"192a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420386.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"192b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420387.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"193a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420388.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"193b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420389.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"194a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420390.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"194b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420391.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"195a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420392.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"195b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420393.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"196a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420394.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"196b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420395.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"197a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420396.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"197b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420397.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"198a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420398.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"198b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420399.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"199a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420400.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"199b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420401.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"200a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420402.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"200b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420403.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"201a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420404.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"201b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420405.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"202a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420406.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"202b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420407.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"203a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420408.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"203b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420409.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"204a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420410.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"204b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420411.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"205a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420412.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"205b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420413.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad",
+       "value":"206a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420414.jpg",
+     "hidden":true
+    },
+    {
+     "filename":"I3CN206420415.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"1a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420416.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"1b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420417.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"2a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420418.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"2b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420419.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"3a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420420.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"3b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420421.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"4a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420422.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"4b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420423.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"5a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420424.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"5b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420425.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"6a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420426.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"6b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420427.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"7a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420428.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"7b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420429.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"8a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420430.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"8b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420431.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"9a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420432.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"9b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420433.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"10a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420434.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"10b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420435.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"11a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420436.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"11b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420437.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"12a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420438.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"12b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420439.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"13a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420440.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"13b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420441.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"14a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420442.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"14b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420443.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"15a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420444.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"15b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420445.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"16a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420446.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"16b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420447.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"17a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420448.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"17b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420449.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"18a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420450.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"18b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420451.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"19a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420452.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"19b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420453.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"20a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420454.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"20b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420455.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"21a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420456.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"21b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420457.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"22a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420458.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"22b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420459.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"23a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420460.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"23b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420461.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"24a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420462.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"24b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420463.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"25a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420464.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"25b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420465.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"26a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420466.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"26b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420467.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"27a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420468.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"27b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420469.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"28a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420470.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"28b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420471.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"29a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420472.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"29b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420473.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"30a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420474.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"30b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420475.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"31a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420476.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"31b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420477.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"32a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420478.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"32b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420479.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"33a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420480.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"33b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420481.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"34a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420482.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"34b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420483.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"35a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420484.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"35b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420485.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"36a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420486.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"36b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420487.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"37a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420488.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"37b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420489.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"38a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420490.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"38b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420491.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"39a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420492.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"39b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420493.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"40a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420494.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"40b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420495.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"41a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420496.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"41b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420497.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"42a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420498.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"42b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420499.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"43a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420500.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"43b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420501.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"44a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420502.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"44b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420503.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"45a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420504.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"45b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420505.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"46a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420506.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"46b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420507.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"47a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420508.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"47b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420509.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"48a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420510.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"48b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420511.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"49a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420512.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"49b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420513.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"50a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420514.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"50b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420515.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"51a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420516.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"51b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420517.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"52a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420518.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"52b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420519.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"53a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420520.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"53b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420521.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"54a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420522.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"54b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420523.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"55a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420524.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"55b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420525.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"56a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420526.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"56b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420527.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"57a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420528.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"57b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420529.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"58a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420530.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"58b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420531.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"59a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420532.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"59b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420533.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"60a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420534.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"60b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420535.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"61a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420536.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"61b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420537.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"62a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420538.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"62b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420539.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"63a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420540.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"63b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420541.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"64a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420542.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"64b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420543.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"65a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420544.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"65b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420545.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"66a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420546.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"66b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420547.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"67a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420548.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"67b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420549.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"68a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420550.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"68b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420551.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"69a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420552.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"69b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420553.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"70a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420554.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"70b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420555.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"71a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420556.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"71b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420557.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"72a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420558.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"72b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420559.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"73a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420560.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"73b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420561.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"74a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420562.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"74b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420563.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"75a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420564.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"75b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420565.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"76a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420566.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"76b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420567.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"77a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420568.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"77b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420569.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"78a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420570.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"78b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420571.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"79a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420572.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"79b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420573.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"80a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420574.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"80b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420575.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"81a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420576.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"81b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420577.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"82a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420578.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"82b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420579.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"83a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420580.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"83b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420581.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"84a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420582.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"84b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420583.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"85a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420584.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"85b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420585.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"86a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420586.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"86b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420587.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"87a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420588.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"87b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420589.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"88a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420590.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"88b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420591.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"89a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420592.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"89b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420593.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"90a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420594.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"90b"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420595.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"91a"
+      }
+     }
+    },
+    {
+     "filename":"I3CN206420596.jpg",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"91b"
+      }
+     }
+    },
+    {
+     "filename":"dimensions.json",
+     "hidden":true
+    }
+   ]
+  }
+ },
+ "viewing-direction":"top-to-bottom"
+}

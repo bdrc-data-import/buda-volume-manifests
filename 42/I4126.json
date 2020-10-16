@@ -1,0 +1,10125 @@
+{
+ "appData":{
+  "bvmt":{
+   "default-vol-string-lang":"bo",
+   "metadata-for-bvmt-ver":"0.1.0"
+  }
+ },
+ "attribution":[
+  {
+   "@language":"en",
+   "@value":"Data provided by rKTs under the CC0 license"
+  }
+ ],
+ "changes":[
+  {
+   "message":{
+    "@language":"en",
+    "@value":"migration from rKTs data"
+   },
+   "time":"2020-10-03T11:35:30Z",
+   "user":"bdu:U1653882847"
+  }
+ ],
+ "default-view":"view1",
+ "imggroup":"bdr:I4126",
+ "pagination":[
+  {
+   "id":"pgfolios",
+   "type":"folios"
+  }
+ ],
+ "sections":[
+  {
+   "id":"dkar chag",
+   "name":{
+    "@language":"bo-x-ewts",
+    "@value":"dkar chag"
+   }
+  },
+  {
+   "id":"dkar chag2",
+   "name":{
+    "@language":"bo-x-ewts",
+    "@value":"dkar chag2"
+   }
+  }
+ ],
+ "spec-version":"0.1.0",
+ "status":"released",
+ "view":{
+  "view1":{
+   "imagelist":[
+    {
+     "filename":"41260001.tif",
+     "hidden":true,
+     "tags":[
+      "T0005"
+     ]
+    },
+    {
+     "filename":"41260002.tif",
+     "hidden":true,
+     "tags":[
+      "T0005"
+     ]
+    },
+    {
+     "filename":"41260003.tif",
+     "hidden":true,
+     "tags":[
+      "T0005"
+     ]
+    },
+    {
+     "filename":"41260004.tif"
+    },
+    {
+     "filename":"41260005.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"1a"
+      }
+     }
+    },
+    {
+     "filename":"41260006.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"1b"
+      }
+     }
+    },
+    {
+     "filename":"41260007.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"2a"
+      }
+     }
+    },
+    {
+     "filename":"41260008.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"2b"
+      }
+     }
+    },
+    {
+     "filename":"41260009.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"3a"
+      }
+     }
+    },
+    {
+     "filename":"41260010.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"3b"
+      }
+     }
+    },
+    {
+     "filename":"41260011.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"4a"
+      }
+     }
+    },
+    {
+     "filename":"41260012.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"4b"
+      }
+     }
+    },
+    {
+     "filename":"41260013.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"5a"
+      }
+     }
+    },
+    {
+     "filename":"41260014.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"5b"
+      }
+     }
+    },
+    {
+     "filename":"41260015.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"6a"
+      }
+     }
+    },
+    {
+     "filename":"41260016.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"6b"
+      }
+     }
+    },
+    {
+     "filename":"41260017.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"7a"
+      }
+     }
+    },
+    {
+     "filename":"41260018.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"7b"
+      }
+     }
+    },
+    {
+     "filename":"41260019.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"8a"
+      }
+     }
+    },
+    {
+     "filename":"41260020.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"8b"
+      }
+     }
+    },
+    {
+     "filename":"41260021.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"9a"
+      }
+     }
+    },
+    {
+     "filename":"41260022.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"9b"
+      }
+     }
+    },
+    {
+     "filename":"41260023.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"10a"
+      }
+     }
+    },
+    {
+     "filename":"41260024.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"10b"
+      }
+     }
+    },
+    {
+     "filename":"41260025.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"11a"
+      }
+     }
+    },
+    {
+     "filename":"41260026.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"11b"
+      }
+     }
+    },
+    {
+     "filename":"41260027.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"12a"
+      }
+     }
+    },
+    {
+     "filename":"41260028.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"12b"
+      }
+     }
+    },
+    {
+     "filename":"41260029.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"13a"
+      }
+     }
+    },
+    {
+     "filename":"41260030.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"13b"
+      }
+     }
+    },
+    {
+     "filename":"41260031.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"14a"
+      }
+     }
+    },
+    {
+     "filename":"41260032.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"14b"
+      }
+     }
+    },
+    {
+     "filename":"41260033.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"15a"
+      }
+     }
+    },
+    {
+     "filename":"41260034.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"15b"
+      }
+     }
+    },
+    {
+     "filename":"41260035.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"16a"
+      }
+     }
+    },
+    {
+     "filename":"41260036.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"16b"
+      }
+     }
+    },
+    {
+     "filename":"41260037.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"17a"
+      }
+     }
+    },
+    {
+     "filename":"41260038.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"17b"
+      }
+     }
+    },
+    {
+     "filename":"41260039.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"18a"
+      }
+     }
+    },
+    {
+     "filename":"41260040.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"18b"
+      }
+     }
+    },
+    {
+     "filename":"41260041.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"19a"
+      }
+     }
+    },
+    {
+     "filename":"41260042.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"19b"
+      }
+     }
+    },
+    {
+     "filename":"41260043.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"20a"
+      }
+     }
+    },
+    {
+     "filename":"41260044.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"20b"
+      }
+     }
+    },
+    {
+     "filename":"41260045.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"21a"
+      }
+     }
+    },
+    {
+     "filename":"41260046.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"21b"
+      }
+     }
+    },
+    {
+     "filename":"41260047.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"22a"
+      }
+     }
+    },
+    {
+     "filename":"41260048.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"22b"
+      }
+     }
+    },
+    {
+     "filename":"41260049.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"23a"
+      }
+     }
+    },
+    {
+     "filename":"41260050.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"23b"
+      }
+     }
+    },
+    {
+     "filename":"41260051.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"24a"
+      }
+     }
+    },
+    {
+     "filename":"41260052.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"24b"
+      }
+     }
+    },
+    {
+     "filename":"41260053.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"25a"
+      }
+     }
+    },
+    {
+     "filename":"41260054.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"25b"
+      }
+     }
+    },
+    {
+     "filename":"41260055.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"26a"
+      }
+     }
+    },
+    {
+     "filename":"41260056.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"26b"
+      }
+     }
+    },
+    {
+     "filename":"41260057.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"27a"
+      }
+     }
+    },
+    {
+     "filename":"41260058.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"27b"
+      }
+     }
+    },
+    {
+     "filename":"41260059.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"28a"
+      }
+     }
+    },
+    {
+     "filename":"41260060.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"28b"
+      }
+     }
+    },
+    {
+     "filename":"41260061.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"29a"
+      }
+     }
+    },
+    {
+     "filename":"41260062.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"29b"
+      }
+     }
+    },
+    {
+     "filename":"41260063.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"30a"
+      }
+     }
+    },
+    {
+     "filename":"41260064.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"30b"
+      }
+     }
+    },
+    {
+     "filename":"41260065.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"31a"
+      }
+     }
+    },
+    {
+     "filename":"41260066.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"31b"
+      }
+     }
+    },
+    {
+     "filename":"41260067.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"32a"
+      }
+     }
+    },
+    {
+     "filename":"41260068.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"32b"
+      }
+     }
+    },
+    {
+     "filename":"41260069.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"33a"
+      }
+     }
+    },
+    {
+     "filename":"41260070.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"33b"
+      }
+     }
+    },
+    {
+     "filename":"41260071.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"34a"
+      }
+     }
+    },
+    {
+     "filename":"41260072.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"34b"
+      }
+     }
+    },
+    {
+     "filename":"41260073.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"35a"
+      }
+     }
+    },
+    {
+     "filename":"41260074.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"35b"
+      }
+     }
+    },
+    {
+     "filename":"41260075.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"36a"
+      }
+     }
+    },
+    {
+     "filename":"41260076.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"36b"
+      }
+     }
+    },
+    {
+     "filename":"41260077.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"37a"
+      }
+     }
+    },
+    {
+     "filename":"41260078.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"37b"
+      }
+     }
+    },
+    {
+     "filename":"41260079.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"38a"
+      }
+     }
+    },
+    {
+     "filename":"41260080.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"38b"
+      }
+     }
+    },
+    {
+     "filename":"41260081.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"39a"
+      }
+     }
+    },
+    {
+     "filename":"41260082.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"39b"
+      }
+     }
+    },
+    {
+     "filename":"41260083.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"40a"
+      }
+     }
+    },
+    {
+     "filename":"41260084.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"40b"
+      }
+     }
+    },
+    {
+     "filename":"41260085.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"41a"
+      }
+     }
+    },
+    {
+     "filename":"41260086.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"41b"
+      }
+     }
+    },
+    {
+     "filename":"41260087.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"42a"
+      }
+     }
+    },
+    {
+     "filename":"41260088.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"42b"
+      }
+     }
+    },
+    {
+     "filename":"41260089.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"43a"
+      }
+     }
+    },
+    {
+     "filename":"41260090.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"43b"
+      }
+     }
+    },
+    {
+     "filename":"41260091.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"44a"
+      }
+     }
+    },
+    {
+     "filename":"41260092.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"44b"
+      }
+     }
+    },
+    {
+     "filename":"41260093.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"45a"
+      }
+     }
+    },
+    {
+     "filename":"41260094.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"45b"
+      }
+     }
+    },
+    {
+     "filename":"41260095.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"46a"
+      }
+     }
+    },
+    {
+     "filename":"41260096.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"46b"
+      }
+     }
+    },
+    {
+     "filename":"41260097.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"47a"
+      }
+     }
+    },
+    {
+     "filename":"41260098.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"47b"
+      }
+     }
+    },
+    {
+     "filename":"41260099.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"48a"
+      }
+     }
+    },
+    {
+     "filename":"41260100.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"48b"
+      }
+     }
+    },
+    {
+     "filename":"41260101.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"49a"
+      }
+     }
+    },
+    {
+     "filename":"41260102.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"49b"
+      }
+     }
+    },
+    {
+     "filename":"41260103.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"50a"
+      }
+     }
+    },
+    {
+     "filename":"41260104.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"50b"
+      }
+     }
+    },
+    {
+     "filename":"41260105.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"51a"
+      }
+     }
+    },
+    {
+     "filename":"41260106.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"51b"
+      }
+     }
+    },
+    {
+     "filename":"41260107.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"52a"
+      }
+     }
+    },
+    {
+     "filename":"41260108.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"52b"
+      }
+     }
+    },
+    {
+     "filename":"41260109.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"53a"
+      }
+     }
+    },
+    {
+     "filename":"41260110.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"53b"
+      }
+     }
+    },
+    {
+     "filename":"41260111.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"54a"
+      }
+     }
+    },
+    {
+     "filename":"41260112.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"54b"
+      }
+     }
+    },
+    {
+     "filename":"41260113.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"55a"
+      }
+     }
+    },
+    {
+     "filename":"41260114.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"55b"
+      }
+     }
+    },
+    {
+     "filename":"41260115.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"56a"
+      }
+     }
+    },
+    {
+     "filename":"41260116.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"56b"
+      }
+     }
+    },
+    {
+     "filename":"41260117.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"57a"
+      }
+     }
+    },
+    {
+     "filename":"41260118.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"57b"
+      }
+     }
+    },
+    {
+     "filename":"41260119.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"58a"
+      }
+     }
+    },
+    {
+     "filename":"41260120.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"58b"
+      }
+     }
+    },
+    {
+     "filename":"41260121.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"59a"
+      }
+     }
+    },
+    {
+     "filename":"41260122.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"59b"
+      }
+     }
+    },
+    {
+     "filename":"41260123.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"60a"
+      }
+     }
+    },
+    {
+     "filename":"41260124.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"60b"
+      }
+     }
+    },
+    {
+     "filename":"41260125.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"61a"
+      }
+     }
+    },
+    {
+     "filename":"41260126.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"61b"
+      }
+     }
+    },
+    {
+     "filename":"41260127.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"62a"
+      }
+     }
+    },
+    {
+     "filename":"41260128.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"62b"
+      }
+     }
+    },
+    {
+     "filename":"41260129.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"63a"
+      }
+     }
+    },
+    {
+     "filename":"41260130.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"63b"
+      }
+     }
+    },
+    {
+     "filename":"41260131.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"64a"
+      }
+     }
+    },
+    {
+     "filename":"41260132.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"64b"
+      }
+     }
+    },
+    {
+     "filename":"41260133.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"65a"
+      }
+     }
+    },
+    {
+     "filename":"41260134.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"65b"
+      }
+     }
+    },
+    {
+     "filename":"41260135.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"66a"
+      }
+     }
+    },
+    {
+     "filename":"41260136.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"66b"
+      }
+     }
+    },
+    {
+     "filename":"41260137.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"67a"
+      }
+     }
+    },
+    {
+     "filename":"41260138.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"67b"
+      }
+     }
+    },
+    {
+     "filename":"41260139.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"68a"
+      }
+     }
+    },
+    {
+     "filename":"41260140.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"68b"
+      }
+     }
+    },
+    {
+     "filename":"41260141.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"69a"
+      }
+     }
+    },
+    {
+     "filename":"41260142.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"69b"
+      }
+     }
+    },
+    {
+     "filename":"41260143.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"70a"
+      }
+     }
+    },
+    {
+     "filename":"41260144.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"70b"
+      }
+     }
+    },
+    {
+     "filename":"41260145.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"71a"
+      }
+     }
+    },
+    {
+     "filename":"41260146.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"71b"
+      }
+     }
+    },
+    {
+     "filename":"41260147.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"72a"
+      }
+     }
+    },
+    {
+     "filename":"41260148.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"72b"
+      }
+     }
+    },
+    {
+     "filename":"41260149.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"73a"
+      }
+     }
+    },
+    {
+     "filename":"41260150.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"73b"
+      }
+     }
+    },
+    {
+     "filename":"41260151.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"74a"
+      }
+     }
+    },
+    {
+     "filename":"41260152.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"74b"
+      }
+     }
+    },
+    {
+     "filename":"41260153.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"75a"
+      }
+     }
+    },
+    {
+     "filename":"41260154.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"75b"
+      }
+     }
+    },
+    {
+     "filename":"41260155.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"76a"
+      }
+     }
+    },
+    {
+     "filename":"41260156.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"76b"
+      }
+     }
+    },
+    {
+     "filename":"41260157.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"77a"
+      }
+     }
+    },
+    {
+     "filename":"41260158.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"77b"
+      }
+     }
+    },
+    {
+     "filename":"41260159.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"78a"
+      }
+     }
+    },
+    {
+     "filename":"41260160.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"78b"
+      }
+     }
+    },
+    {
+     "filename":"41260161.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"79a"
+      }
+     }
+    },
+    {
+     "filename":"41260162.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"79b"
+      }
+     }
+    },
+    {
+     "filename":"41260163.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"80a"
+      }
+     }
+    },
+    {
+     "filename":"41260164.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"80b"
+      }
+     }
+    },
+    {
+     "filename":"41260165.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"81a"
+      }
+     }
+    },
+    {
+     "filename":"41260166.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"81b"
+      }
+     }
+    },
+    {
+     "filename":"41260167.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"82a"
+      }
+     }
+    },
+    {
+     "filename":"41260168.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"82b"
+      }
+     }
+    },
+    {
+     "filename":"41260169.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"83a"
+      }
+     }
+    },
+    {
+     "filename":"41260170.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"83b"
+      }
+     }
+    },
+    {
+     "filename":"41260171.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"84a"
+      }
+     }
+    },
+    {
+     "filename":"41260172.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"84b"
+      }
+     }
+    },
+    {
+     "filename":"41260173.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"85a"
+      }
+     }
+    },
+    {
+     "filename":"41260174.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"85b"
+      }
+     }
+    },
+    {
+     "filename":"41260175.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"86a"
+      }
+     }
+    },
+    {
+     "filename":"41260176.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"86b"
+      }
+     }
+    },
+    {
+     "filename":"41260177.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"87a"
+      }
+     }
+    },
+    {
+     "filename":"41260178.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"87b"
+      }
+     }
+    },
+    {
+     "filename":"41260179.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"88a"
+      }
+     }
+    },
+    {
+     "filename":"41260180.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"88b"
+      }
+     }
+    },
+    {
+     "filename":"41260181.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"89a"
+      }
+     }
+    },
+    {
+     "filename":"41260182.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"89b"
+      }
+     }
+    },
+    {
+     "filename":"41260183.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"90a"
+      }
+     }
+    },
+    {
+     "filename":"41260184.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"90b"
+      }
+     }
+    },
+    {
+     "filename":"41260185.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"91a"
+      }
+     }
+    },
+    {
+     "filename":"41260186.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"91b"
+      }
+     }
+    },
+    {
+     "filename":"41260187.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"92a"
+      }
+     }
+    },
+    {
+     "filename":"41260188.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"92b"
+      }
+     }
+    },
+    {
+     "filename":"41260189.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"93a"
+      }
+     }
+    },
+    {
+     "filename":"41260190.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"93b"
+      }
+     }
+    },
+    {
+     "filename":"41260191.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"94a"
+      }
+     }
+    },
+    {
+     "filename":"41260192.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"94b"
+      }
+     }
+    },
+    {
+     "filename":"41260193.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"95a"
+      }
+     }
+    },
+    {
+     "filename":"41260194.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"95b"
+      }
+     }
+    },
+    {
+     "filename":"41260195.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"96a"
+      }
+     }
+    },
+    {
+     "filename":"41260196.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"96b"
+      }
+     }
+    },
+    {
+     "filename":"41260197.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"97a"
+      }
+     }
+    },
+    {
+     "filename":"41260198.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"97b"
+      }
+     }
+    },
+    {
+     "filename":"41260199.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"98a"
+      }
+     }
+    },
+    {
+     "filename":"41260200.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"98b"
+      }
+     }
+    },
+    {
+     "filename":"41260201.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"99a"
+      }
+     }
+    },
+    {
+     "filename":"41260202.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"99b"
+      }
+     }
+    },
+    {
+     "filename":"41260203.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"100a"
+      }
+     }
+    },
+    {
+     "filename":"41260204.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"100b"
+      }
+     }
+    },
+    {
+     "filename":"41260205.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"101a"
+      }
+     }
+    },
+    {
+     "filename":"41260206.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"101b"
+      }
+     }
+    },
+    {
+     "filename":"41260207.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"102a"
+      }
+     }
+    },
+    {
+     "filename":"41260208.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"102b"
+      }
+     }
+    },
+    {
+     "filename":"41260209.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"103a"
+      }
+     }
+    },
+    {
+     "filename":"41260210.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"103b"
+      }
+     }
+    },
+    {
+     "filename":"41260211.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"104a"
+      }
+     }
+    },
+    {
+     "filename":"41260212.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"104b"
+      }
+     }
+    },
+    {
+     "filename":"41260213.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"105a"
+      }
+     }
+    },
+    {
+     "filename":"41260214.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"105b"
+      }
+     }
+    },
+    {
+     "filename":"41260215.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"106a"
+      }
+     }
+    },
+    {
+     "filename":"41260216.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"106b"
+      }
+     }
+    },
+    {
+     "filename":"41260217.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"107a"
+      }
+     }
+    },
+    {
+     "filename":"41260218.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"107b"
+      }
+     }
+    },
+    {
+     "filename":"41260219.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"108a"
+      }
+     }
+    },
+    {
+     "filename":"41260220.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"108b"
+      }
+     }
+    },
+    {
+     "filename":"41260221.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"109a"
+      }
+     }
+    },
+    {
+     "filename":"41260222.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"109b"
+      }
+     }
+    },
+    {
+     "filename":"41260223.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"110a"
+      }
+     }
+    },
+    {
+     "filename":"41260224.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"110b"
+      }
+     }
+    },
+    {
+     "filename":"41260225.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"111a"
+      }
+     }
+    },
+    {
+     "filename":"41260226.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"111b"
+      }
+     }
+    },
+    {
+     "filename":"41260227.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"112a"
+      }
+     }
+    },
+    {
+     "filename":"41260228.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"112b"
+      }
+     }
+    },
+    {
+     "filename":"41260229.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"113a"
+      }
+     }
+    },
+    {
+     "filename":"41260230.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"113b"
+      }
+     }
+    },
+    {
+     "filename":"41260231.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"114a"
+      }
+     }
+    },
+    {
+     "filename":"41260232.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"114b"
+      }
+     }
+    },
+    {
+     "filename":"41260233.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"115a"
+      }
+     }
+    },
+    {
+     "filename":"41260234.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"115b"
+      }
+     }
+    },
+    {
+     "filename":"41260235.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"116a"
+      }
+     }
+    },
+    {
+     "filename":"41260236.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"116b"
+      }
+     }
+    },
+    {
+     "filename":"41260237.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"117a"
+      }
+     }
+    },
+    {
+     "filename":"41260238.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"117b"
+      }
+     }
+    },
+    {
+     "filename":"41260239.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"118a"
+      }
+     }
+    },
+    {
+     "filename":"41260240.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"118b"
+      }
+     }
+    },
+    {
+     "filename":"41260241.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"119a"
+      }
+     }
+    },
+    {
+     "filename":"41260242.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"119b"
+      }
+     }
+    },
+    {
+     "filename":"41260243.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"120a"
+      }
+     }
+    },
+    {
+     "filename":"41260244.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"120b"
+      }
+     }
+    },
+    {
+     "filename":"41260245.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"121a"
+      }
+     }
+    },
+    {
+     "filename":"41260246.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"121b"
+      }
+     }
+    },
+    {
+     "filename":"41260247.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"122a"
+      }
+     }
+    },
+    {
+     "filename":"41260248.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"122b"
+      }
+     }
+    },
+    {
+     "filename":"41260249.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"123a"
+      }
+     }
+    },
+    {
+     "filename":"41260250.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"123b"
+      }
+     }
+    },
+    {
+     "filename":"41260251.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"124a"
+      }
+     }
+    },
+    {
+     "filename":"41260252.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"124b"
+      }
+     }
+    },
+    {
+     "filename":"41260253.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"125a"
+      }
+     }
+    },
+    {
+     "filename":"41260254.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"125b"
+      }
+     }
+    },
+    {
+     "filename":"41260255.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"126a"
+      }
+     }
+    },
+    {
+     "filename":"41260256.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"126b"
+      }
+     }
+    },
+    {
+     "filename":"41260257.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"127a"
+      }
+     }
+    },
+    {
+     "filename":"41260258.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"127b"
+      }
+     }
+    },
+    {
+     "filename":"41260259.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"128a"
+      }
+     }
+    },
+    {
+     "filename":"41260260.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"128b"
+      }
+     }
+    },
+    {
+     "filename":"41260261.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"129a"
+      }
+     }
+    },
+    {
+     "filename":"41260262.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"129b"
+      }
+     }
+    },
+    {
+     "filename":"41260263.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"130a"
+      }
+     }
+    },
+    {
+     "filename":"41260264.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"130b"
+      }
+     }
+    },
+    {
+     "filename":"41260265.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"131a"
+      }
+     }
+    },
+    {
+     "filename":"41260266.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"131b"
+      }
+     }
+    },
+    {
+     "filename":"41260267.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"132a"
+      }
+     }
+    },
+    {
+     "filename":"41260268.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"132b"
+      }
+     }
+    },
+    {
+     "filename":"41260269.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"133a"
+      }
+     }
+    },
+    {
+     "filename":"41260270.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"133b"
+      }
+     }
+    },
+    {
+     "filename":"41260271.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"134a"
+      }
+     }
+    },
+    {
+     "filename":"41260272.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"134b"
+      }
+     }
+    },
+    {
+     "filename":"41260273.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"135a"
+      }
+     }
+    },
+    {
+     "filename":"41260274.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"135b"
+      }
+     }
+    },
+    {
+     "filename":"41260275.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"136a"
+      }
+     }
+    },
+    {
+     "filename":"41260276.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"136b"
+      }
+     }
+    },
+    {
+     "filename":"41260277.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"137a"
+      }
+     }
+    },
+    {
+     "filename":"41260278.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"137b"
+      }
+     }
+    },
+    {
+     "filename":"41260279.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"138a"
+      }
+     }
+    },
+    {
+     "filename":"41260280.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"138b"
+      }
+     }
+    },
+    {
+     "filename":"41260281.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"139a"
+      }
+     }
+    },
+    {
+     "filename":"41260282.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"139b"
+      }
+     }
+    },
+    {
+     "filename":"41260283.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"140a"
+      }
+     }
+    },
+    {
+     "filename":"41260284.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"140b"
+      }
+     }
+    },
+    {
+     "filename":"41260285.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"141a"
+      }
+     }
+    },
+    {
+     "filename":"41260286.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"141b"
+      }
+     }
+    },
+    {
+     "filename":"41260287.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"142a"
+      }
+     }
+    },
+    {
+     "filename":"41260288.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"142b"
+      }
+     }
+    },
+    {
+     "filename":"41260289.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"143a"
+      }
+     }
+    },
+    {
+     "filename":"41260290.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"143b"
+      }
+     }
+    },
+    {
+     "filename":"41260291.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"144a"
+      }
+     }
+    },
+    {
+     "filename":"41260292.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"144b"
+      }
+     }
+    },
+    {
+     "filename":"41260293.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"145a"
+      }
+     }
+    },
+    {
+     "filename":"41260294.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"145b"
+      }
+     }
+    },
+    {
+     "filename":"41260295.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"146a"
+      }
+     }
+    },
+    {
+     "filename":"41260296.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"146b"
+      }
+     }
+    },
+    {
+     "filename":"41260297.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"147a"
+      }
+     }
+    },
+    {
+     "filename":"41260298.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"147b"
+      }
+     }
+    },
+    {
+     "filename":"41260299.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"148a"
+      }
+     }
+    },
+    {
+     "filename":"41260300.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"148b"
+      }
+     }
+    },
+    {
+     "filename":"41260301.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"149a"
+      }
+     }
+    },
+    {
+     "filename":"41260302.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"149b"
+      }
+     }
+    },
+    {
+     "filename":"41260303.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"150a"
+      }
+     }
+    },
+    {
+     "filename":"41260304.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"150b"
+      }
+     }
+    },
+    {
+     "filename":"41260305.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"151a"
+      }
+     }
+    },
+    {
+     "filename":"41260306.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"151b"
+      }
+     }
+    },
+    {
+     "filename":"41260307.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"152a"
+      }
+     }
+    },
+    {
+     "filename":"41260308.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"152b"
+      }
+     }
+    },
+    {
+     "filename":"41260309.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"153a"
+      }
+     }
+    },
+    {
+     "filename":"41260310.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"153b"
+      }
+     }
+    },
+    {
+     "filename":"41260311.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"154a"
+      }
+     }
+    },
+    {
+     "filename":"41260312.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"154b"
+      }
+     }
+    },
+    {
+     "filename":"41260313.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"155a"
+      }
+     }
+    },
+    {
+     "filename":"41260314.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"155b"
+      }
+     }
+    },
+    {
+     "filename":"41260315.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"156a"
+      }
+     }
+    },
+    {
+     "filename":"41260316.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"156b"
+      }
+     }
+    },
+    {
+     "filename":"41260317.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"157a"
+      }
+     }
+    },
+    {
+     "filename":"41260318.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"157b"
+      }
+     }
+    },
+    {
+     "filename":"41260319.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"158a"
+      }
+     }
+    },
+    {
+     "filename":"41260320.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"158b"
+      }
+     }
+    },
+    {
+     "filename":"41260321.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"159a"
+      }
+     }
+    },
+    {
+     "filename":"41260322.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"159b"
+      }
+     }
+    },
+    {
+     "filename":"41260323.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"160a"
+      }
+     }
+    },
+    {
+     "filename":"41260324.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"160b"
+      }
+     }
+    },
+    {
+     "filename":"41260325.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"161a"
+      }
+     }
+    },
+    {
+     "filename":"41260326.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"161b"
+      }
+     }
+    },
+    {
+     "filename":"41260327.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"162a"
+      }
+     }
+    },
+    {
+     "filename":"41260328.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"162b"
+      }
+     }
+    },
+    {
+     "filename":"41260329.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"163a"
+      }
+     }
+    },
+    {
+     "filename":"41260330.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"163b"
+      }
+     }
+    },
+    {
+     "filename":"41260331.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"164a"
+      }
+     }
+    },
+    {
+     "filename":"41260332.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"164b"
+      }
+     }
+    },
+    {
+     "filename":"41260333.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"165a"
+      }
+     }
+    },
+    {
+     "filename":"41260334.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"165b"
+      }
+     }
+    },
+    {
+     "filename":"41260335.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"166a"
+      }
+     }
+    },
+    {
+     "filename":"41260336.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"166b"
+      }
+     }
+    },
+    {
+     "filename":"41260337.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"167a"
+      }
+     }
+    },
+    {
+     "filename":"41260338.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"167b"
+      }
+     }
+    },
+    {
+     "filename":"41260339.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"168a"
+      }
+     }
+    },
+    {
+     "filename":"41260340.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"168b"
+      }
+     }
+    },
+    {
+     "filename":"41260341.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"169a"
+      }
+     }
+    },
+    {
+     "filename":"41260342.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"169b"
+      }
+     }
+    },
+    {
+     "filename":"41260343.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"170a"
+      }
+     }
+    },
+    {
+     "filename":"41260344.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"170b"
+      }
+     }
+    },
+    {
+     "filename":"41260345.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"171a"
+      }
+     }
+    },
+    {
+     "filename":"41260346.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"171b"
+      }
+     }
+    },
+    {
+     "filename":"41260347.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"172a"
+      }
+     }
+    },
+    {
+     "filename":"41260348.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"172b"
+      }
+     }
+    },
+    {
+     "filename":"41260349.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"173a"
+      }
+     }
+    },
+    {
+     "filename":"41260350.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"173b"
+      }
+     }
+    },
+    {
+     "filename":"41260351.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"174a"
+      }
+     }
+    },
+    {
+     "filename":"41260352.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"174b"
+      }
+     }
+    },
+    {
+     "filename":"41260353.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"175a"
+      }
+     }
+    },
+    {
+     "filename":"41260354.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"175b"
+      }
+     }
+    },
+    {
+     "filename":"41260355.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"176a"
+      }
+     }
+    },
+    {
+     "filename":"41260356.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"176b"
+      }
+     }
+    },
+    {
+     "filename":"41260357.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"177a"
+      }
+     }
+    },
+    {
+     "filename":"41260358.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"177b"
+      }
+     }
+    },
+    {
+     "filename":"41260359.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"178a"
+      }
+     }
+    },
+    {
+     "filename":"41260360.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"178b"
+      }
+     }
+    },
+    {
+     "filename":"41260361.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"179a"
+      }
+     }
+    },
+    {
+     "filename":"41260362.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"179b"
+      }
+     }
+    },
+    {
+     "filename":"41260363.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"180a"
+      }
+     }
+    },
+    {
+     "filename":"41260364.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"180b"
+      }
+     }
+    },
+    {
+     "filename":"41260365.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"181a"
+      }
+     }
+    },
+    {
+     "filename":"41260366.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"181b"
+      }
+     }
+    },
+    {
+     "filename":"41260367.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"182a"
+      }
+     }
+    },
+    {
+     "filename":"41260368.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"182b"
+      }
+     }
+    },
+    {
+     "filename":"41260369.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"183a"
+      }
+     }
+    },
+    {
+     "filename":"41260370.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"183b"
+      }
+     }
+    },
+    {
+     "filename":"41260371.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"184a"
+      }
+     }
+    },
+    {
+     "filename":"41260372.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"184b"
+      }
+     }
+    },
+    {
+     "filename":"41260373.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"185a"
+      }
+     }
+    },
+    {
+     "filename":"41260374.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"185b"
+      }
+     }
+    },
+    {
+     "filename":"41260375.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"186a"
+      }
+     }
+    },
+    {
+     "filename":"41260376.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"186b"
+      }
+     }
+    },
+    {
+     "filename":"41260377.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"187a"
+      }
+     }
+    },
+    {
+     "filename":"41260378.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"187b"
+      }
+     }
+    },
+    {
+     "filename":"41260379.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"188a"
+      }
+     }
+    },
+    {
+     "filename":"41260380.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"188b"
+      }
+     }
+    },
+    {
+     "filename":"41260381.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"189a"
+      }
+     }
+    },
+    {
+     "filename":"41260382.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"189b"
+      }
+     }
+    },
+    {
+     "filename":"41260383.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"190a"
+      }
+     }
+    },
+    {
+     "filename":"41260384.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"190b"
+      }
+     }
+    },
+    {
+     "filename":"41260385.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"191a"
+      }
+     }
+    },
+    {
+     "filename":"41260386.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"191b"
+      }
+     }
+    },
+    {
+     "filename":"41260387.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"192a"
+      }
+     }
+    },
+    {
+     "filename":"41260388.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"192b"
+      }
+     }
+    },
+    {
+     "filename":"41260389.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"193a"
+      }
+     }
+    },
+    {
+     "filename":"41260390.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"193b"
+      }
+     }
+    },
+    {
+     "filename":"41260391.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"194a"
+      }
+     }
+    },
+    {
+     "filename":"41260392.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"194b"
+      }
+     }
+    },
+    {
+     "filename":"41260393.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"195a"
+      }
+     }
+    },
+    {
+     "filename":"41260394.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"195b"
+      }
+     }
+    },
+    {
+     "filename":"41260395.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"196a"
+      }
+     }
+    },
+    {
+     "filename":"41260396.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"196b"
+      }
+     }
+    },
+    {
+     "filename":"41260397.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"197a"
+      }
+     }
+    },
+    {
+     "filename":"41260398.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"197b"
+      }
+     }
+    },
+    {
+     "filename":"41260399.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"198a"
+      }
+     }
+    },
+    {
+     "filename":"41260400.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"198b"
+      }
+     }
+    },
+    {
+     "filename":"41260401.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"199a"
+      }
+     }
+    },
+    {
+     "filename":"41260402.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"199b"
+      }
+     }
+    },
+    {
+     "filename":"41260403.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"200a"
+      }
+     }
+    },
+    {
+     "filename":"41260404.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"200b"
+      }
+     }
+    },
+    {
+     "filename":"41260405.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"201a"
+      }
+     }
+    },
+    {
+     "filename":"41260406.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"201b"
+      }
+     }
+    },
+    {
+     "filename":"41260407.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"202a"
+      }
+     }
+    },
+    {
+     "filename":"41260408.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"202b"
+      }
+     }
+    },
+    {
+     "filename":"41260409.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"203a"
+      }
+     }
+    },
+    {
+     "filename":"41260410.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"203b"
+      }
+     }
+    },
+    {
+     "filename":"41260411.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"204a"
+      }
+     }
+    },
+    {
+     "filename":"41260412.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"204b"
+      }
+     }
+    },
+    {
+     "filename":"41260413.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"205a"
+      }
+     }
+    },
+    {
+     "filename":"41260414.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"205b"
+      }
+     }
+    },
+    {
+     "filename":"41260415.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"206a"
+      }
+     }
+    },
+    {
+     "filename":"41260416.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"206b"
+      }
+     }
+    },
+    {
+     "filename":"41260417.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"207a"
+      }
+     }
+    },
+    {
+     "filename":"41260418.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"207b"
+      }
+     }
+    },
+    {
+     "filename":"41260419.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"208a"
+      }
+     }
+    },
+    {
+     "filename":"41260420.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"208b"
+      }
+     }
+    },
+    {
+     "filename":"41260421.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"209a"
+      }
+     }
+    },
+    {
+     "filename":"41260422.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"209b"
+      }
+     }
+    },
+    {
+     "filename":"41260423.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"210a"
+      }
+     }
+    },
+    {
+     "filename":"41260424.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"210b"
+      }
+     }
+    },
+    {
+     "filename":"41260425.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"211a"
+      }
+     }
+    },
+    {
+     "filename":"41260426.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"211b"
+      }
+     }
+    },
+    {
+     "filename":"41260427.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"212a"
+      }
+     }
+    },
+    {
+     "filename":"41260428.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"212b"
+      }
+     }
+    },
+    {
+     "filename":"41260429.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"213a"
+      }
+     }
+    },
+    {
+     "filename":"41260430.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"213b"
+      }
+     }
+    },
+    {
+     "filename":"41260431.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"214a"
+      }
+     }
+    },
+    {
+     "filename":"41260432.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"214b"
+      }
+     }
+    },
+    {
+     "filename":"41260433.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"215a"
+      }
+     }
+    },
+    {
+     "filename":"41260434.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"215b"
+      }
+     }
+    },
+    {
+     "filename":"41260435.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"216a"
+      }
+     }
+    },
+    {
+     "filename":"41260436.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"216b"
+      }
+     }
+    },
+    {
+     "filename":"41260437.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"217a"
+      }
+     }
+    },
+    {
+     "filename":"41260438.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"217b"
+      }
+     }
+    },
+    {
+     "filename":"41260439.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"218a"
+      }
+     }
+    },
+    {
+     "filename":"41260440.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"218b"
+      }
+     }
+    },
+    {
+     "filename":"41260441.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"219a"
+      }
+     }
+    },
+    {
+     "filename":"41260442.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"219b"
+      }
+     }
+    },
+    {
+     "filename":"41260443.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"220a"
+      }
+     }
+    },
+    {
+     "filename":"41260444.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"220b"
+      }
+     }
+    },
+    {
+     "filename":"41260445.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"221a"
+      }
+     }
+    },
+    {
+     "filename":"41260446.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"221b"
+      }
+     }
+    },
+    {
+     "filename":"41260447.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"222a"
+      }
+     }
+    },
+    {
+     "filename":"41260448.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"222b"
+      }
+     }
+    },
+    {
+     "filename":"41260449.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"223a"
+      }
+     }
+    },
+    {
+     "filename":"41260450.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"223b"
+      }
+     }
+    },
+    {
+     "filename":"41260451.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"224a"
+      }
+     }
+    },
+    {
+     "filename":"41260452.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"224b"
+      }
+     }
+    },
+    {
+     "filename":"41260453.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"225a"
+      }
+     }
+    },
+    {
+     "filename":"41260454.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"225b"
+      }
+     }
+    },
+    {
+     "filename":"41260455.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"226a"
+      }
+     }
+    },
+    {
+     "filename":"41260456.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"226b"
+      }
+     }
+    },
+    {
+     "filename":"41260457.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"227a"
+      }
+     }
+    },
+    {
+     "filename":"41260458.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"227b"
+      }
+     }
+    },
+    {
+     "filename":"41260459.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"228a"
+      }
+     }
+    },
+    {
+     "filename":"41260460.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"228b"
+      }
+     }
+    },
+    {
+     "filename":"41260461.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"229a"
+      }
+     }
+    },
+    {
+     "filename":"41260462.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"229b"
+      }
+     }
+    },
+    {
+     "filename":"41260463.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"230a"
+      }
+     }
+    },
+    {
+     "filename":"41260464.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"230b"
+      }
+     }
+    },
+    {
+     "filename":"41260465.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"231a"
+      }
+     }
+    },
+    {
+     "filename":"41260466.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"231b"
+      }
+     }
+    },
+    {
+     "filename":"41260467.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"232a"
+      }
+     }
+    },
+    {
+     "filename":"41260468.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"232b"
+      }
+     }
+    },
+    {
+     "filename":"41260469.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"233a"
+      }
+     }
+    },
+    {
+     "filename":"41260470.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"233b"
+      }
+     }
+    },
+    {
+     "filename":"41260471.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"234a"
+      }
+     }
+    },
+    {
+     "filename":"41260472.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"234b"
+      }
+     }
+    },
+    {
+     "filename":"41260473.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"235a"
+      }
+     }
+    },
+    {
+     "filename":"41260474.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"235b"
+      }
+     }
+    },
+    {
+     "filename":"41260475.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"236a"
+      }
+     }
+    },
+    {
+     "filename":"41260476.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"236b"
+      }
+     }
+    },
+    {
+     "filename":"41260477.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"237a"
+      }
+     }
+    },
+    {
+     "filename":"41260478.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"237b"
+      }
+     }
+    },
+    {
+     "filename":"41260479.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"238a"
+      }
+     }
+    },
+    {
+     "filename":"41260480.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"238b"
+      }
+     }
+    },
+    {
+     "filename":"41260481.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"239a"
+      }
+     }
+    },
+    {
+     "filename":"41260482.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"239b"
+      }
+     }
+    },
+    {
+     "filename":"41260483.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"240a"
+      }
+     }
+    },
+    {
+     "filename":"41260484.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"240b"
+      }
+     }
+    },
+    {
+     "filename":"41260485.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"241a"
+      }
+     }
+    },
+    {
+     "filename":"41260486.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"241b"
+      }
+     }
+    },
+    {
+     "filename":"41260487.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"242a"
+      }
+     }
+    },
+    {
+     "filename":"41260488.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"242b"
+      }
+     }
+    },
+    {
+     "filename":"41260489.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"243a"
+      }
+     }
+    },
+    {
+     "filename":"41260490.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"243b"
+      }
+     }
+    },
+    {
+     "filename":"41260491.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"244a"
+      }
+     }
+    },
+    {
+     "filename":"41260492.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"244b"
+      }
+     }
+    },
+    {
+     "filename":"41260493.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"245a"
+      }
+     }
+    },
+    {
+     "filename":"41260494.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"245b"
+      }
+     }
+    },
+    {
+     "filename":"41260495.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"246a"
+      }
+     }
+    },
+    {
+     "filename":"41260496.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"246b"
+      }
+     }
+    },
+    {
+     "filename":"41260497.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"247a"
+      }
+     }
+    },
+    {
+     "filename":"41260498.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"247b"
+      }
+     }
+    },
+    {
+     "filename":"41260499.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"248a"
+      }
+     }
+    },
+    {
+     "filename":"41260500.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"248b"
+      }
+     }
+    },
+    {
+     "filename":"41260501.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"249a"
+      }
+     }
+    },
+    {
+     "filename":"41260502.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"249b"
+      }
+     }
+    },
+    {
+     "filename":"41260503.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"250a"
+      }
+     }
+    },
+    {
+     "filename":"41260504.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"250b"
+      }
+     }
+    },
+    {
+     "filename":"41260505.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"251a"
+      }
+     }
+    },
+    {
+     "filename":"41260506.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"251b"
+      }
+     }
+    },
+    {
+     "filename":"41260507.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"252a"
+      }
+     }
+    },
+    {
+     "filename":"41260508.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"252b"
+      }
+     }
+    },
+    {
+     "filename":"41260509.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"253a"
+      }
+     }
+    },
+    {
+     "filename":"41260510.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"253b"
+      }
+     }
+    },
+    {
+     "filename":"41260511.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"254a"
+      }
+     }
+    },
+    {
+     "filename":"41260512.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"254b"
+      }
+     }
+    },
+    {
+     "filename":"41260513.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"255a"
+      }
+     }
+    },
+    {
+     "filename":"41260514.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"255b"
+      }
+     }
+    },
+    {
+     "filename":"41260515.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"256a"
+      }
+     }
+    },
+    {
+     "filename":"41260516.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"256b"
+      }
+     }
+    },
+    {
+     "filename":"41260517.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"257a"
+      }
+     }
+    },
+    {
+     "filename":"41260518.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"257b"
+      }
+     }
+    },
+    {
+     "filename":"41260519.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"258a"
+      }
+     }
+    },
+    {
+     "filename":"41260520.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"258b"
+      }
+     }
+    },
+    {
+     "filename":"41260521.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"259a"
+      }
+     }
+    },
+    {
+     "filename":"41260522.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"259b"
+      }
+     }
+    },
+    {
+     "filename":"41260523.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"260a"
+      }
+     }
+    },
+    {
+     "filename":"41260524.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"260b"
+      }
+     }
+    },
+    {
+     "filename":"41260525.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"261a"
+      }
+     }
+    },
+    {
+     "filename":"41260526.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"261b"
+      }
+     }
+    },
+    {
+     "filename":"41260527.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"262a"
+      }
+     }
+    },
+    {
+     "filename":"41260528.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"262b"
+      }
+     }
+    },
+    {
+     "filename":"41260529.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"263a"
+      }
+     }
+    },
+    {
+     "filename":"41260530.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"263b"
+      }
+     }
+    },
+    {
+     "filename":"41260531.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"264a"
+      }
+     }
+    },
+    {
+     "filename":"41260532.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"264b"
+      }
+     }
+    },
+    {
+     "filename":"41260533.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"265a"
+      }
+     }
+    },
+    {
+     "filename":"41260534.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"265b"
+      }
+     }
+    },
+    {
+     "filename":"41260535.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"266a"
+      }
+     }
+    },
+    {
+     "filename":"41260536.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"266b"
+      }
+     }
+    },
+    {
+     "filename":"41260537.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"267a"
+      }
+     }
+    },
+    {
+     "filename":"41260538.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"267b"
+      }
+     }
+    },
+    {
+     "filename":"41260539.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"268a"
+      }
+     }
+    },
+    {
+     "filename":"41260540.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"268b"
+      }
+     }
+    },
+    {
+     "filename":"41260541.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"269a"
+      }
+     }
+    },
+    {
+     "filename":"41260542.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"269b"
+      }
+     }
+    },
+    {
+     "filename":"41260543.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"270a"
+      }
+     }
+    },
+    {
+     "filename":"41260544.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"270b"
+      }
+     }
+    },
+    {
+     "filename":"41260545.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"271a"
+      }
+     }
+    },
+    {
+     "filename":"41260546.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"271b"
+      }
+     }
+    },
+    {
+     "filename":"41260547.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"272a"
+      }
+     }
+    },
+    {
+     "filename":"41260548.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"272b"
+      }
+     }
+    },
+    {
+     "filename":"41260549.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"273a"
+      }
+     }
+    },
+    {
+     "filename":"41260550.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"273b"
+      }
+     }
+    },
+    {
+     "filename":"41260551.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"274a"
+      }
+     }
+    },
+    {
+     "filename":"41260552.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"274b"
+      }
+     }
+    },
+    {
+     "filename":"41260553.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"275a"
+      }
+     }
+    },
+    {
+     "filename":"41260554.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"275b"
+      }
+     }
+    },
+    {
+     "filename":"41260555.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"276a"
+      }
+     }
+    },
+    {
+     "filename":"41260556.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"276b"
+      }
+     }
+    },
+    {
+     "filename":"41260557.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"277a"
+      }
+     }
+    },
+    {
+     "filename":"41260558.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"277b"
+      }
+     }
+    },
+    {
+     "filename":"41260559.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"278a"
+      }
+     }
+    },
+    {
+     "filename":"41260560.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"278b"
+      }
+     }
+    },
+    {
+     "filename":"41260561.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"279a"
+      }
+     }
+    },
+    {
+     "filename":"41260562.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"279b"
+      }
+     }
+    },
+    {
+     "filename":"41260563.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"280a"
+      }
+     }
+    },
+    {
+     "filename":"41260564.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"280b"
+      }
+     }
+    },
+    {
+     "filename":"41260565.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"281a"
+      }
+     }
+    },
+    {
+     "filename":"41260566.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"281b"
+      }
+     }
+    },
+    {
+     "filename":"41260567.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"282a"
+      }
+     }
+    },
+    {
+     "filename":"41260568.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"282b"
+      }
+     }
+    },
+    {
+     "filename":"41260569.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"283a"
+      }
+     }
+    },
+    {
+     "filename":"41260570.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"283b"
+      }
+     }
+    },
+    {
+     "filename":"41260571.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"284a"
+      }
+     }
+    },
+    {
+     "filename":"41260572.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"284b"
+      }
+     }
+    },
+    {
+     "filename":"41260573.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"285a"
+      }
+     }
+    },
+    {
+     "filename":"41260574.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"285b"
+      }
+     }
+    },
+    {
+     "filename":"41260575.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"286a"
+      }
+     }
+    },
+    {
+     "filename":"41260576.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"286b"
+      }
+     }
+    },
+    {
+     "filename":"41260577.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"287a"
+      }
+     }
+    },
+    {
+     "filename":"41260578.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"287b"
+      }
+     }
+    },
+    {
+     "filename":"41260579.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"288a"
+      }
+     }
+    },
+    {
+     "filename":"41260580.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"288b"
+      }
+     }
+    },
+    {
+     "filename":"41260581.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"289a"
+      }
+     }
+    },
+    {
+     "filename":"41260582.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"289b"
+      }
+     }
+    },
+    {
+     "filename":"41260583.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"290a"
+      }
+     }
+    },
+    {
+     "filename":"41260584.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"290b"
+      }
+     }
+    },
+    {
+     "filename":"41260585.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"291a"
+      }
+     }
+    },
+    {
+     "filename":"41260586.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"291b"
+      }
+     }
+    },
+    {
+     "filename":"41260587.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"292a"
+      }
+     }
+    },
+    {
+     "filename":"41260588.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"292b"
+      }
+     }
+    },
+    {
+     "filename":"41260589.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"293a"
+      }
+     }
+    },
+    {
+     "filename":"41260590.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"293b"
+      }
+     }
+    },
+    {
+     "filename":"41260591.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"294a"
+      }
+     }
+    },
+    {
+     "filename":"41260592.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"294b"
+      }
+     }
+    },
+    {
+     "filename":"41260593.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"295a"
+      }
+     }
+    },
+    {
+     "filename":"41260594.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"295b"
+      }
+     }
+    },
+    {
+     "filename":"41260595.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"296a"
+      }
+     }
+    },
+    {
+     "filename":"41260596.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"296b"
+      }
+     }
+    },
+    {
+     "filename":"41260597.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"297a"
+      }
+     }
+    },
+    {
+     "filename":"41260598.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"297b"
+      }
+     }
+    },
+    {
+     "filename":"41260599.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"298a"
+      }
+     }
+    },
+    {
+     "filename":"41260600.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"298b"
+      }
+     }
+    },
+    {
+     "filename":"41260601.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"299a"
+      }
+     }
+    },
+    {
+     "filename":"41260602.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"299b"
+      }
+     }
+    },
+    {
+     "filename":"41260603.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"300a"
+      }
+     }
+    },
+    {
+     "filename":"41260604.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"300b"
+      }
+     }
+    },
+    {
+     "filename":"41260605.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"301a"
+      }
+     }
+    },
+    {
+     "filename":"41260606.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"301b"
+      }
+     }
+    },
+    {
+     "filename":"41260607.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"302a"
+      }
+     }
+    },
+    {
+     "filename":"41260608.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"302b"
+      }
+     }
+    },
+    {
+     "filename":"41260609.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"303a"
+      }
+     }
+    },
+    {
+     "filename":"41260610.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"303b"
+      }
+     }
+    },
+    {
+     "filename":"41260611.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"304a"
+      }
+     }
+    },
+    {
+     "filename":"41260612.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"304b"
+      }
+     }
+    },
+    {
+     "filename":"41260613.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"305a"
+      }
+     }
+    },
+    {
+     "filename":"41260614.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"305b"
+      }
+     }
+    },
+    {
+     "filename":"41260615.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"306a"
+      }
+     }
+    },
+    {
+     "filename":"41260616.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"306b"
+      }
+     }
+    },
+    {
+     "filename":"41260617.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"307a"
+      }
+     }
+    },
+    {
+     "filename":"41260618.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"307b"
+      }
+     }
+    },
+    {
+     "filename":"41260619.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"308a"
+      }
+     }
+    },
+    {
+     "filename":"41260620.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"308b"
+      }
+     }
+    },
+    {
+     "filename":"41260621.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"309a"
+      }
+     }
+    },
+    {
+     "filename":"41260622.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"309b"
+      }
+     }
+    },
+    {
+     "filename":"41260623.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"310a"
+      }
+     }
+    },
+    {
+     "filename":"41260624.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"310b"
+      }
+     }
+    },
+    {
+     "filename":"41260625.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"311a"
+      }
+     }
+    },
+    {
+     "filename":"41260626.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"311b"
+      }
+     }
+    },
+    {
+     "filename":"41260627.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"312a"
+      }
+     }
+    },
+    {
+     "filename":"41260628.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"312b"
+      }
+     }
+    },
+    {
+     "filename":"41260629.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"313a"
+      }
+     }
+    },
+    {
+     "filename":"41260630.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"313b"
+      }
+     }
+    },
+    {
+     "filename":"41260631.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"314a"
+      }
+     }
+    },
+    {
+     "filename":"41260632.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"314b"
+      }
+     }
+    },
+    {
+     "filename":"41260633.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"315a"
+      }
+     }
+    },
+    {
+     "filename":"41260634.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"315b"
+      }
+     }
+    },
+    {
+     "filename":"41260635.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"316a"
+      }
+     }
+    },
+    {
+     "filename":"41260636.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"316b"
+      }
+     }
+    },
+    {
+     "filename":"41260637.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"317a"
+      }
+     }
+    },
+    {
+     "filename":"41260638.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"317b"
+      }
+     }
+    },
+    {
+     "filename":"41260639.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"318a"
+      }
+     }
+    },
+    {
+     "filename":"41260640.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"318b"
+      }
+     }
+    },
+    {
+     "filename":"41260641.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"319a"
+      }
+     }
+    },
+    {
+     "filename":"41260642.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"319b"
+      }
+     }
+    },
+    {
+     "filename":"41260643.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"320a"
+      }
+     }
+    },
+    {
+     "filename":"41260644.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"320b"
+      }
+     }
+    },
+    {
+     "filename":"41260645.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"321a"
+      }
+     }
+    },
+    {
+     "filename":"41260646.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"321b"
+      }
+     }
+    },
+    {
+     "filename":"41260647.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"322a"
+      }
+     }
+    },
+    {
+     "filename":"41260648.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"322b"
+      }
+     }
+    },
+    {
+     "filename":"41260649.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"323a"
+      }
+     }
+    },
+    {
+     "filename":"41260650.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"323b"
+      }
+     }
+    },
+    {
+     "filename":"41260651.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"324a"
+      }
+     }
+    },
+    {
+     "filename":"41260652.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"324b"
+      }
+     }
+    },
+    {
+     "filename":"41260653.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"325a"
+      }
+     }
+    },
+    {
+     "filename":"41260654.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"325b"
+      }
+     }
+    },
+    {
+     "filename":"41260655.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"326a"
+      }
+     }
+    },
+    {
+     "filename":"41260656.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"326b"
+      }
+     }
+    },
+    {
+     "filename":"41260657.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"327a"
+      }
+     }
+    },
+    {
+     "filename":"41260658.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"327b"
+      }
+     }
+    },
+    {
+     "filename":"41260659.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"328a"
+      }
+     }
+    },
+    {
+     "filename":"41260660.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"328b"
+      }
+     }
+    },
+    {
+     "filename":"41260661.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"329a"
+      }
+     }
+    },
+    {
+     "filename":"41260662.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"329b"
+      }
+     }
+    },
+    {
+     "filename":"41260663.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"330a"
+      }
+     }
+    },
+    {
+     "filename":"41260664.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"330b"
+      }
+     }
+    },
+    {
+     "filename":"41260665.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"331a"
+      }
+     }
+    },
+    {
+     "filename":"41260666.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"331b"
+      }
+     }
+    },
+    {
+     "filename":"41260667.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"332a"
+      }
+     }
+    },
+    {
+     "filename":"41260668.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"332b"
+      }
+     }
+    },
+    {
+     "filename":"41260669.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"333a"
+      }
+     }
+    },
+    {
+     "filename":"41260670.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"333b"
+      }
+     }
+    },
+    {
+     "filename":"41260671.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"334a"
+      }
+     }
+    },
+    {
+     "filename":"41260672.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"334b"
+      }
+     }
+    },
+    {
+     "filename":"41260673.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"335a"
+      }
+     }
+    },
+    {
+     "filename":"41260674.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"335b"
+      }
+     }
+    },
+    {
+     "filename":"41260675.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"336a"
+      }
+     }
+    },
+    {
+     "filename":"41260676.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"336b"
+      }
+     }
+    },
+    {
+     "filename":"41260677.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"337a"
+      }
+     }
+    },
+    {
+     "filename":"41260678.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"337b"
+      }
+     }
+    },
+    {
+     "filename":"41260679.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"338a"
+      }
+     }
+    },
+    {
+     "filename":"41260680.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"338b"
+      }
+     }
+    },
+    {
+     "filename":"41260681.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"339a"
+      }
+     }
+    },
+    {
+     "filename":"41260682.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"339b"
+      }
+     }
+    },
+    {
+     "filename":"41260683.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"340a"
+      }
+     }
+    },
+    {
+     "filename":"41260684.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"340b"
+      }
+     }
+    },
+    {
+     "filename":"41260685.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"341a"
+      }
+     }
+    },
+    {
+     "filename":"41260686.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"341b"
+      }
+     }
+    },
+    {
+     "filename":"41260687.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"342a"
+      }
+     }
+    },
+    {
+     "filename":"41260688.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"342b"
+      }
+     }
+    },
+    {
+     "filename":"41260689.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"343a"
+      }
+     }
+    },
+    {
+     "filename":"41260690.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"343b"
+      }
+     }
+    },
+    {
+     "filename":"41260691.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"344a"
+      }
+     }
+    },
+    {
+     "filename":"41260692.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"344b"
+      }
+     }
+    },
+    {
+     "filename":"41260693.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"345a"
+      }
+     }
+    },
+    {
+     "filename":"41260694.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"345b"
+      }
+     }
+    },
+    {
+     "filename":"41260695.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"346a"
+      }
+     }
+    },
+    {
+     "filename":"41260696.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"346b"
+      }
+     }
+    },
+    {
+     "filename":"41260697.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"347a"
+      }
+     }
+    },
+    {
+     "filename":"41260698.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"347b"
+      }
+     }
+    },
+    {
+     "filename":"41260699.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"348a"
+      }
+     }
+    },
+    {
+     "filename":"41260700.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"348b"
+      }
+     }
+    },
+    {
+     "filename":"41260701.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"349a"
+      }
+     }
+    },
+    {
+     "filename":"41260702.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"349b"
+      }
+     }
+    },
+    {
+     "filename":"41260703.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"350a"
+      }
+     }
+    },
+    {
+     "filename":"41260704.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"350b"
+      }
+     }
+    },
+    {
+     "filename":"41260705.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"351a"
+      }
+     }
+    },
+    {
+     "filename":"41260706.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"351b"
+      }
+     }
+    },
+    {
+     "filename":"41260707.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"352a"
+      }
+     }
+    },
+    {
+     "filename":"41260708.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"352b"
+      }
+     }
+    },
+    {
+     "filename":"41260709.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"353a"
+      }
+     }
+    },
+    {
+     "filename":"41260710.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"353b"
+      }
+     }
+    },
+    {
+     "filename":"41260711.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"354a"
+      }
+     }
+    },
+    {
+     "filename":"41260712.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"354b"
+      }
+     }
+    },
+    {
+     "filename":"41260713.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"355a"
+      }
+     }
+    },
+    {
+     "filename":"41260714.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"355b"
+      }
+     }
+    },
+    {
+     "filename":"41260715.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"356a"
+      }
+     }
+    },
+    {
+     "filename":"41260716.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"356b"
+      }
+     }
+    },
+    {
+     "filename":"41260717.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"357a"
+      }
+     }
+    },
+    {
+     "filename":"41260718.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"357b"
+      }
+     }
+    },
+    {
+     "filename":"41260719.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"358a"
+      }
+     }
+    },
+    {
+     "filename":"41260720.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"358b"
+      }
+     }
+    },
+    {
+     "filename":"41260721.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"359a"
+      }
+     }
+    },
+    {
+     "filename":"41260722.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"359b"
+      }
+     }
+    },
+    {
+     "filename":"41260723.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"360a"
+      }
+     }
+    },
+    {
+     "filename":"41260724.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"360b"
+      }
+     }
+    },
+    {
+     "filename":"41260725.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"361a"
+      }
+     }
+    },
+    {
+     "filename":"41260726.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"361b"
+      }
+     }
+    },
+    {
+     "filename":"41260727.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"362a"
+      }
+     }
+    },
+    {
+     "filename":"41260728.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"362b"
+      }
+     }
+    },
+    {
+     "filename":"41260729.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"363a"
+      }
+     }
+    },
+    {
+     "filename":"41260730.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"363b"
+      }
+     }
+    },
+    {
+     "filename":"41260731.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"364a"
+      }
+     }
+    },
+    {
+     "filename":"41260732.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"364b"
+      }
+     }
+    },
+    {
+     "filename":"41260733.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"365a"
+      }
+     }
+    },
+    {
+     "filename":"41260734.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"365b"
+      }
+     }
+    },
+    {
+     "filename":"41260735.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"366a"
+      }
+     }
+    },
+    {
+     "filename":"41260736.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"366b"
+      }
+     }
+    },
+    {
+     "filename":"41260737.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"367a"
+      }
+     }
+    },
+    {
+     "filename":"41260738.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"367b"
+      }
+     }
+    },
+    {
+     "filename":"41260739.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"368a"
+      }
+     }
+    },
+    {
+     "filename":"41260740.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"368b"
+      }
+     }
+    },
+    {
+     "filename":"41260741.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"369a"
+      }
+     }
+    },
+    {
+     "filename":"41260742.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"369b"
+      }
+     }
+    },
+    {
+     "filename":"41260743.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"370a"
+      }
+     }
+    },
+    {
+     "filename":"41260744.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"370b"
+      }
+     }
+    },
+    {
+     "filename":"41260745.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"371a"
+      }
+     }
+    },
+    {
+     "filename":"41260746.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"371b"
+      }
+     }
+    },
+    {
+     "filename":"41260747.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"372a"
+      }
+     }
+    },
+    {
+     "filename":"41260748.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"372b"
+      }
+     }
+    },
+    {
+     "filename":"41260749.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"373a"
+      }
+     }
+    },
+    {
+     "filename":"41260750.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"373b"
+      }
+     }
+    },
+    {
+     "filename":"41260751.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"374a"
+      }
+     }
+    },
+    {
+     "filename":"41260752.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"374b"
+      }
+     }
+    },
+    {
+     "filename":"41260753.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"375a"
+      }
+     }
+    },
+    {
+     "filename":"41260754.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"375b"
+      }
+     }
+    },
+    {
+     "filename":"41260755.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"376a"
+      }
+     }
+    },
+    {
+     "filename":"41260756.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"376b"
+      }
+     }
+    },
+    {
+     "filename":"41260757.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"377a"
+      }
+     }
+    },
+    {
+     "filename":"41260758.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"377b"
+      }
+     }
+    },
+    {
+     "filename":"41260759.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"378a"
+      }
+     }
+    },
+    {
+     "filename":"41260760.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"378b"
+      }
+     }
+    },
+    {
+     "filename":"41260761.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"379a"
+      }
+     }
+    },
+    {
+     "filename":"41260762.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"379b"
+      }
+     }
+    },
+    {
+     "filename":"41260763.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"380a"
+      }
+     }
+    },
+    {
+     "filename":"41260764.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"380b"
+      }
+     }
+    },
+    {
+     "filename":"41260765.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"381a"
+      }
+     }
+    },
+    {
+     "filename":"41260766.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"381b"
+      }
+     }
+    },
+    {
+     "filename":"41260767.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"382a"
+      }
+     }
+    },
+    {
+     "filename":"41260768.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"382b"
+      }
+     }
+    },
+    {
+     "filename":"41260769.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"383a"
+      }
+     }
+    },
+    {
+     "filename":"41260770.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"383b"
+      }
+     }
+    },
+    {
+     "filename":"41260771.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"384a"
+      }
+     }
+    },
+    {
+     "filename":"41260772.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"384b"
+      }
+     }
+    },
+    {
+     "filename":"41260773.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"385a"
+      }
+     }
+    },
+    {
+     "filename":"41260774.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"385b"
+      }
+     }
+    },
+    {
+     "filename":"41260775.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"386a"
+      }
+     }
+    },
+    {
+     "filename":"41260776.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"386b"
+      }
+     }
+    },
+    {
+     "filename":"41260777.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"387a"
+      }
+     }
+    },
+    {
+     "filename":"41260778.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"387b"
+      }
+     }
+    },
+    {
+     "filename":"41260779.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"388a"
+      }
+     }
+    },
+    {
+     "filename":"41260780.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"388b"
+      }
+     }
+    },
+    {
+     "filename":"41260781.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"389a"
+      }
+     }
+    },
+    {
+     "filename":"41260782.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"389b"
+      }
+     }
+    },
+    {
+     "filename":"41260783.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"390a"
+      }
+     }
+    },
+    {
+     "filename":"41260784.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"390b"
+      }
+     }
+    },
+    {
+     "filename":"41260785.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"391a"
+      }
+     }
+    },
+    {
+     "filename":"41260786.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"391b"
+      }
+     }
+    },
+    {
+     "filename":"41260787.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"392a"
+      }
+     }
+    },
+    {
+     "filename":"41260788.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"392b"
+      }
+     }
+    },
+    {
+     "filename":"41260789.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"393a"
+      }
+     }
+    },
+    {
+     "filename":"41260790.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"393b"
+      }
+     }
+    },
+    {
+     "filename":"41260791.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"394a"
+      }
+     }
+    },
+    {
+     "filename":"41260792.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"394b"
+      }
+     }
+    },
+    {
+     "filename":"41260793.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"395a"
+      }
+     }
+    },
+    {
+     "filename":"41260794.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"395b"
+      }
+     }
+    },
+    {
+     "filename":"41260795.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"396a"
+      }
+     }
+    },
+    {
+     "filename":"41260796.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"396b"
+      }
+     }
+    },
+    {
+     "filename":"41260797.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"397a"
+      }
+     }
+    },
+    {
+     "filename":"41260798.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"397b"
+      }
+     }
+    },
+    {
+     "filename":"41260799.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"398a"
+      }
+     }
+    },
+    {
+     "filename":"41260800.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"398b"
+      }
+     }
+    },
+    {
+     "filename":"41260801.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"399a"
+      }
+     }
+    },
+    {
+     "filename":"41260802.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"399b"
+      }
+     }
+    },
+    {
+     "filename":"41260803.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"400a"
+      }
+     }
+    },
+    {
+     "filename":"41260804.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"400b"
+      }
+     }
+    },
+    {
+     "filename":"41260805.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"401a"
+      }
+     }
+    },
+    {
+     "filename":"41260806.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"401b"
+      }
+     }
+    },
+    {
+     "filename":"41260807.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"402a"
+      }
+     }
+    },
+    {
+     "filename":"41260808.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"402b"
+      }
+     }
+    },
+    {
+     "filename":"41260809.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"403a"
+      }
+     }
+    },
+    {
+     "filename":"41260810.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"403b"
+      }
+     }
+    },
+    {
+     "filename":"41260811.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"404a"
+      }
+     }
+    },
+    {
+     "filename":"41260812.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"404b"
+      }
+     }
+    },
+    {
+     "filename":"41260813.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"405a"
+      }
+     }
+    },
+    {
+     "filename":"41260814.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"405b"
+      }
+     }
+    },
+    {
+     "filename":"41260815.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"406a"
+      }
+     }
+    },
+    {
+     "filename":"41260816.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"406b"
+      }
+     }
+    },
+    {
+     "filename":"41260817.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"407a"
+      }
+     }
+    },
+    {
+     "filename":"41260818.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"407b"
+      }
+     }
+    },
+    {
+     "filename":"41260819.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"408a"
+      }
+     }
+    },
+    {
+     "filename":"41260820.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"408b"
+      }
+     }
+    },
+    {
+     "filename":"41260821.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"409a"
+      }
+     }
+    },
+    {
+     "filename":"41260822.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"409b"
+      }
+     }
+    },
+    {
+     "filename":"41260823.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"410a"
+      }
+     }
+    },
+    {
+     "filename":"41260824.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"410b"
+      }
+     }
+    },
+    {
+     "filename":"41260825.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"411a"
+      }
+     }
+    },
+    {
+     "filename":"41260826.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"411b"
+      }
+     }
+    },
+    {
+     "filename":"41260827.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"412a"
+      }
+     }
+    },
+    {
+     "filename":"41260828.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"412b"
+      }
+     }
+    },
+    {
+     "filename":"41260829.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"413a"
+      }
+     }
+    },
+    {
+     "filename":"41260830.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"413b"
+      }
+     }
+    },
+    {
+     "filename":"41260831.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"414a"
+      }
+     }
+    },
+    {
+     "filename":"41260832.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"414b"
+      }
+     }
+    },
+    {
+     "filename":"41260833.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"415a"
+      }
+     }
+    },
+    {
+     "filename":"41260834.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"415b"
+      }
+     }
+    },
+    {
+     "filename":"41260835.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"416a"
+      }
+     }
+    },
+    {
+     "filename":"41260836.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"416b"
+      }
+     }
+    },
+    {
+     "filename":"41260837.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"417a"
+      }
+     }
+    },
+    {
+     "filename":"41260838.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"417b"
+      }
+     }
+    },
+    {
+     "filename":"41260839.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"418a"
+      }
+     }
+    },
+    {
+     "filename":"41260840.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"418b"
+      }
+     }
+    },
+    {
+     "filename":"41260841.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"419a"
+      }
+     }
+    },
+    {
+     "filename":"41260842.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"419b"
+      }
+     }
+    },
+    {
+     "filename":"41260843.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"420a"
+      }
+     }
+    },
+    {
+     "filename":"41260844.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"420b"
+      }
+     }
+    },
+    {
+     "filename":"41260845.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"421a"
+      }
+     }
+    },
+    {
+     "filename":"41260846.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"421b"
+      }
+     }
+    },
+    {
+     "filename":"41260847.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"422a"
+      }
+     }
+    },
+    {
+     "filename":"41260848.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"422b"
+      }
+     }
+    },
+    {
+     "filename":"41260849.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"423a"
+      }
+     }
+    },
+    {
+     "filename":"41260850.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"423b"
+      }
+     }
+    },
+    {
+     "filename":"41260851.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"424a"
+      }
+     }
+    },
+    {
+     "filename":"41260852.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"424b"
+      }
+     }
+    },
+    {
+     "filename":"41260853.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"425a"
+      }
+     }
+    },
+    {
+     "filename":"41260854.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"425b"
+      }
+     }
+    },
+    {
+     "filename":"41260855.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"426a"
+      }
+     }
+    },
+    {
+     "filename":"41260856.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"426b"
+      }
+     }
+    },
+    {
+     "filename":"41260857.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"427a"
+      }
+     }
+    },
+    {
+     "filename":"41260858.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"427b"
+      }
+     }
+    },
+    {
+     "filename":"41260859.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"428a"
+      }
+     }
+    },
+    {
+     "filename":"41260860.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"428b"
+      }
+     }
+    },
+    {
+     "filename":"41260861.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"429a"
+      }
+     }
+    },
+    {
+     "filename":"41260862.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"429b"
+      }
+     }
+    },
+    {
+     "filename":"41260863.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"430a"
+      }
+     }
+    },
+    {
+     "filename":"41260864.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"430b"
+      }
+     }
+    },
+    {
+     "filename":"41260865.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"431a"
+      }
+     }
+    },
+    {
+     "filename":"41260866.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"431b"
+      }
+     }
+    },
+    {
+     "filename":"41260867.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"432a"
+      }
+     }
+    },
+    {
+     "filename":"41260868.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"432b"
+      }
+     }
+    },
+    {
+     "filename":"41260869.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"433a"
+      }
+     }
+    },
+    {
+     "filename":"41260870.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"433b"
+      }
+     }
+    },
+    {
+     "filename":"41260871.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"434a"
+      }
+     }
+    },
+    {
+     "filename":"41260872.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"434b"
+      }
+     }
+    },
+    {
+     "filename":"41260873.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"435a"
+      }
+     }
+    },
+    {
+     "filename":"41260874.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"435b"
+      }
+     }
+    },
+    {
+     "filename":"41260875.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"436a"
+      }
+     }
+    },
+    {
+     "filename":"41260876.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"436b"
+      }
+     }
+    },
+    {
+     "filename":"41260877.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"437a"
+      }
+     }
+    },
+    {
+     "filename":"41260878.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"437b"
+      }
+     }
+    },
+    {
+     "filename":"41260879.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"438a"
+      }
+     }
+    },
+    {
+     "filename":"41260880.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"438b"
+      }
+     }
+    },
+    {
+     "filename":"41260881.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"439a"
+      }
+     }
+    },
+    {
+     "filename":"41260882.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"439b"
+      }
+     }
+    },
+    {
+     "filename":"41260883.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"440a"
+      }
+     }
+    },
+    {
+     "filename":"41260884.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"440b"
+      }
+     }
+    },
+    {
+     "filename":"41260885.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"441a"
+      }
+     }
+    },
+    {
+     "filename":"41260886.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"441b"
+      }
+     }
+    },
+    {
+     "filename":"41260887.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"442a"
+      }
+     }
+    },
+    {
+     "filename":"41260888.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"442b"
+      }
+     }
+    },
+    {
+     "filename":"41260889.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"443a"
+      }
+     }
+    },
+    {
+     "filename":"41260890.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"443b"
+      }
+     }
+    },
+    {
+     "filename":"41260891.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"444a"
+      }
+     }
+    },
+    {
+     "filename":"41260892.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"444b"
+      }
+     }
+    },
+    {
+     "filename":"41260893.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"445a"
+      }
+     }
+    },
+    {
+     "filename":"41260894.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"445b"
+      }
+     }
+    },
+    {
+     "filename":"41260895.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"446a"
+      }
+     }
+    },
+    {
+     "filename":"41260896.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"446b"
+      }
+     }
+    },
+    {
+     "filename":"41260897.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"447a"
+      }
+     }
+    },
+    {
+     "filename":"41260898.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"447b"
+      }
+     }
+    },
+    {
+     "filename":"41260899.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"448a"
+      }
+     }
+    },
+    {
+     "filename":"41260900.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"448b"
+      }
+     }
+    },
+    {
+     "filename":"41260901.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"449a"
+      }
+     }
+    },
+    {
+     "filename":"41260902.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"449b"
+      }
+     }
+    },
+    {
+     "filename":"41260903.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"450a"
+      }
+     }
+    },
+    {
+     "filename":"41260904.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"450b"
+      }
+     }
+    },
+    {
+     "filename":"41260905.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"451a"
+      }
+     }
+    },
+    {
+     "filename":"41260906.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"451b"
+      }
+     }
+    },
+    {
+     "filename":"41260907.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"452a"
+      }
+     }
+    },
+    {
+     "filename":"41260908.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"452b"
+      }
+     }
+    },
+    {
+     "filename":"41260909.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"453a"
+      }
+     }
+    },
+    {
+     "filename":"41260910.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"453b"
+      }
+     }
+    },
+    {
+     "filename":"41260911.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"454a"
+      }
+     }
+    },
+    {
+     "filename":"41260912.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"454b"
+      }
+     }
+    },
+    {
+     "filename":"41260913.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"455a"
+      }
+     }
+    },
+    {
+     "filename":"41260914.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"455b"
+      }
+     }
+    },
+    {
+     "filename":"41260915.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"456a"
+      }
+     }
+    },
+    {
+     "filename":"41260916.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"456b"
+      }
+     }
+    },
+    {
+     "filename":"41260917.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"457a"
+      }
+     }
+    },
+    {
+     "filename":"41260918.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"457b"
+      }
+     }
+    },
+    {
+     "filename":"41260919.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"458a"
+      }
+     }
+    },
+    {
+     "filename":"41260920.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"458b"
+      }
+     }
+    },
+    {
+     "filename":"41260921.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"459a"
+      }
+     }
+    },
+    {
+     "filename":"41260922.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"459b"
+      }
+     }
+    },
+    {
+     "filename":"41260923.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"460a"
+      }
+     }
+    },
+    {
+     "filename":"41260924.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"460b"
+      }
+     }
+    },
+    {
+     "filename":"41260925.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"461a"
+      }
+     }
+    },
+    {
+     "filename":"41260926.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"461b"
+      }
+     }
+    },
+    {
+     "filename":"41260927.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"462a"
+      }
+     }
+    },
+    {
+     "filename":"41260928.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"462b"
+      }
+     }
+    },
+    {
+     "filename":"41260929.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"463a"
+      }
+     }
+    },
+    {
+     "filename":"41260930.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"463b"
+      }
+     }
+    },
+    {
+     "filename":"41260931.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"464a"
+      }
+     }
+    },
+    {
+     "filename":"41260932.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"464b"
+      }
+     }
+    },
+    {
+     "filename":"41260933.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"465a"
+      }
+     }
+    },
+    {
+     "filename":"41260934.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"465b"
+      }
+     }
+    },
+    {
+     "filename":"41260935.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"466a"
+      }
+     }
+    },
+    {
+     "filename":"41260936.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"466b"
+      }
+     }
+    },
+    {
+     "filename":"41260937.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"467a"
+      }
+     }
+    },
+    {
+     "filename":"41260938.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"467b"
+      }
+     }
+    },
+    {
+     "filename":"41260939.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"468a"
+      }
+     }
+    },
+    {
+     "filename":"41260940.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"468b"
+      }
+     }
+    },
+    {
+     "filename":"41260941.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"469a"
+      }
+     }
+    },
+    {
+     "filename":"41260942.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"469b"
+      }
+     }
+    },
+    {
+     "filename":"41260943.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"470a"
+      }
+     }
+    },
+    {
+     "filename":"41260944.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"470b"
+      }
+     }
+    },
+    {
+     "filename":"41260945.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"471a"
+      }
+     }
+    },
+    {
+     "filename":"41260946.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"471b"
+      }
+     }
+    },
+    {
+     "filename":"41260947.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"472a"
+      }
+     }
+    },
+    {
+     "filename":"41260948.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"472b"
+      }
+     }
+    },
+    {
+     "filename":"41260949.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"473a"
+      }
+     }
+    },
+    {
+     "filename":"41260950.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"473b"
+      }
+     }
+    },
+    {
+     "filename":"41260951.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"474a"
+      }
+     }
+    },
+    {
+     "filename":"41260952.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"474b"
+      }
+     }
+    },
+    {
+     "filename":"41260953.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"475a"
+      }
+     }
+    },
+    {
+     "filename":"41260954.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"475b"
+      }
+     }
+    },
+    {
+     "filename":"41260955.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"476a"
+      }
+     }
+    },
+    {
+     "filename":"41260956.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"476b"
+      }
+     }
+    },
+    {
+     "filename":"41260957.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"477a"
+      }
+     }
+    },
+    {
+     "filename":"41260958.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"477b"
+      }
+     }
+    },
+    {
+     "filename":"41260959.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"478a"
+      }
+     }
+    },
+    {
+     "filename":"41260960.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"478b"
+      }
+     }
+    },
+    {
+     "filename":"41260961.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"479a"
+      }
+     }
+    },
+    {
+     "filename":"41260962.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"479b"
+      }
+     }
+    },
+    {
+     "filename":"41260963.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"480a"
+      }
+     }
+    },
+    {
+     "filename":"41260964.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"480b"
+      }
+     }
+    },
+    {
+     "filename":"41260965.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"481a"
+      }
+     }
+    },
+    {
+     "filename":"41260966.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"481b"
+      }
+     }
+    },
+    {
+     "filename":"41260967.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"482a"
+      }
+     }
+    },
+    {
+     "filename":"41260968.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"482b"
+      }
+     }
+    },
+    {
+     "filename":"41260969.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"483a"
+      }
+     }
+    },
+    {
+     "filename":"41260970.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"483b"
+      }
+     }
+    },
+    {
+     "filename":"41260971.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"484a"
+      }
+     }
+    },
+    {
+     "filename":"41260972.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"484b"
+      }
+     }
+    },
+    {
+     "filename":"41260973.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"485a"
+      }
+     }
+    },
+    {
+     "filename":"41260974.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"485b"
+      }
+     }
+    },
+    {
+     "filename":"41260975.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"486a"
+      }
+     }
+    },
+    {
+     "filename":"41260976.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"486b"
+      }
+     }
+    },
+    {
+     "filename":"41260977.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"487a"
+      }
+     }
+    },
+    {
+     "filename":"41260978.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"487b"
+      }
+     }
+    },
+    {
+     "filename":"41260979.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"488a"
+      }
+     }
+    },
+    {
+     "filename":"41260980.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"488b"
+      }
+     }
+    },
+    {
+     "filename":"41260981.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"489a"
+      }
+     }
+    },
+    {
+     "filename":"41260982.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"489b"
+      }
+     }
+    },
+    {
+     "filename":"41260983.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"490a"
+      }
+     }
+    },
+    {
+     "filename":"41260984.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"490b"
+      }
+     }
+    },
+    {
+     "filename":"41260985.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"491a"
+      }
+     }
+    },
+    {
+     "filename":"41260986.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"491b"
+      }
+     }
+    },
+    {
+     "filename":"41260987.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"492a"
+      }
+     }
+    },
+    {
+     "filename":"41260988.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"492b"
+      }
+     }
+    },
+    {
+     "filename":"41260989.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"493a"
+      }
+     }
+    },
+    {
+     "filename":"41260990.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"493b"
+      }
+     }
+    },
+    {
+     "filename":"41260991.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"494a"
+      }
+     }
+    },
+    {
+     "filename":"41260992.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"494b"
+      }
+     }
+    },
+    {
+     "filename":"41260993.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"495a"
+      }
+     }
+    },
+    {
+     "filename":"41260994.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"495b"
+      }
+     }
+    },
+    {
+     "filename":"41260995.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"496a"
+      }
+     }
+    },
+    {
+     "filename":"41260996.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"496b"
+      }
+     }
+    },
+    {
+     "filename":"41260997.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"497a"
+      }
+     }
+    },
+    {
+     "filename":"41260998.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"497b"
+      }
+     }
+    },
+    {
+     "filename":"41260999.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"498a"
+      }
+     }
+    },
+    {
+     "filename":"41261000.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"498b"
+      }
+     }
+    },
+    {
+     "filename":"41261001.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"499a"
+      }
+     }
+    },
+    {
+     "filename":"41261002.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"499b"
+      }
+     }
+    },
+    {
+     "filename":"41261003.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"500a"
+      }
+     }
+    },
+    {
+     "filename":"41261004.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"500b"
+      }
+     }
+    },
+    {
+     "filename":"41261005.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"501a"
+      }
+     }
+    },
+    {
+     "filename":"41261006.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"501b"
+      }
+     }
+    },
+    {
+     "filename":"41261007.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"502a"
+      }
+     }
+    },
+    {
+     "filename":"41261008.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"502b"
+      }
+     }
+    },
+    {
+     "filename":"41261009.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"503a"
+      }
+     }
+    },
+    {
+     "filename":"41261010.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"503b"
+      }
+     }
+    },
+    {
+     "filename":"41261011.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"504a"
+      }
+     }
+    },
+    {
+     "filename":"41261012.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"504b"
+      }
+     }
+    },
+    {
+     "filename":"41261013.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"505a"
+      }
+     }
+    },
+    {
+     "filename":"41261014.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"505b"
+      }
+     }
+    },
+    {
+     "filename":"41261015.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"506a"
+      }
+     }
+    },
+    {
+     "filename":"41261016.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"506b"
+      }
+     }
+    },
+    {
+     "filename":"41261017.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"507a"
+      }
+     }
+    },
+    {
+     "filename":"41261018.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"507b"
+      }
+     }
+    },
+    {
+     "filename":"41261019.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"508a"
+      }
+     }
+    },
+    {
+     "filename":"41261020.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"508b"
+      }
+     }
+    },
+    {
+     "filename":"41261021.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"509a"
+      }
+     }
+    },
+    {
+     "filename":"41261022.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag",
+       "value":"509b"
+      }
+     }
+    },
+    {
+     "filename":"41261023.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"1a"
+      }
+     }
+    },
+    {
+     "filename":"41261024.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"1b"
+      }
+     }
+    },
+    {
+     "filename":"41261025.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"2a"
+      }
+     }
+    },
+    {
+     "filename":"41261026.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"2b"
+      }
+     }
+    },
+    {
+     "filename":"41261027.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"3a"
+      }
+     }
+    },
+    {
+     "filename":"41261028.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"3b"
+      }
+     }
+    },
+    {
+     "filename":"41261029.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"4a"
+      }
+     }
+    },
+    {
+     "filename":"41261030.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"4b"
+      }
+     }
+    },
+    {
+     "filename":"41261031.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"5a"
+      }
+     }
+    },
+    {
+     "filename":"41261032.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"5b"
+      }
+     }
+    },
+    {
+     "filename":"41261033.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"6a"
+      }
+     }
+    },
+    {
+     "filename":"41261034.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"6b"
+      }
+     }
+    },
+    {
+     "filename":"41261035.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"7a"
+      }
+     }
+    },
+    {
+     "filename":"41261036.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"7b"
+      }
+     }
+    },
+    {
+     "filename":"41261037.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"8a"
+      }
+     }
+    },
+    {
+     "filename":"41261038.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"8b"
+      }
+     }
+    },
+    {
+     "filename":"41261039.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"9a"
+      }
+     }
+    },
+    {
+     "filename":"41261040.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"9b"
+      }
+     }
+    },
+    {
+     "filename":"41261041.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"10a"
+      }
+     }
+    },
+    {
+     "filename":"41261042.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"10b"
+      }
+     }
+    },
+    {
+     "filename":"41261043.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"11a"
+      }
+     }
+    },
+    {
+     "filename":"41261044.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"11b"
+      }
+     }
+    },
+    {
+     "filename":"41261045.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"12a"
+      }
+     }
+    },
+    {
+     "filename":"41261046.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"12b"
+      }
+     }
+    },
+    {
+     "filename":"41261047.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"13a"
+      }
+     }
+    },
+    {
+     "filename":"41261048.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"13b"
+      }
+     }
+    },
+    {
+     "filename":"41261049.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"14a"
+      }
+     }
+    },
+    {
+     "filename":"41261050.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"14b"
+      }
+     }
+    },
+    {
+     "filename":"41261051.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"15a"
+      }
+     }
+    },
+    {
+     "filename":"41261052.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"15b"
+      }
+     }
+    },
+    {
+     "filename":"41261053.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"16a"
+      }
+     }
+    },
+    {
+     "filename":"41261054.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"16b"
+      }
+     }
+    },
+    {
+     "filename":"41261055.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"17a"
+      }
+     }
+    },
+    {
+     "filename":"41261056.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"17b"
+      }
+     }
+    },
+    {
+     "filename":"41261057.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"18a"
+      }
+     }
+    },
+    {
+     "filename":"41261058.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"18b"
+      }
+     }
+    },
+    {
+     "filename":"41261059.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"19a"
+      }
+     }
+    },
+    {
+     "filename":"41261060.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"19b"
+      }
+     }
+    },
+    {
+     "filename":"41261061.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"20a"
+      }
+     }
+    },
+    {
+     "filename":"41261062.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"20b"
+      }
+     }
+    },
+    {
+     "filename":"41261063.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"21a"
+      }
+     }
+    },
+    {
+     "filename":"41261064.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"21b"
+      }
+     }
+    },
+    {
+     "filename":"41261065.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"22a"
+      }
+     }
+    },
+    {
+     "filename":"41261066.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"22b"
+      }
+     }
+    },
+    {
+     "filename":"41261067.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"23a"
+      }
+     }
+    },
+    {
+     "filename":"41261068.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"23b"
+      }
+     }
+    },
+    {
+     "filename":"41261069.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"24a"
+      }
+     }
+    },
+    {
+     "filename":"41261070.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"24b"
+      }
+     }
+    },
+    {
+     "filename":"41261071.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"25a"
+      }
+     }
+    },
+    {
+     "filename":"41261072.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"25b"
+      }
+     }
+    },
+    {
+     "filename":"41261073.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"26a"
+      }
+     }
+    },
+    {
+     "filename":"41261074.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"26b"
+      }
+     }
+    },
+    {
+     "filename":"41261075.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"27a"
+      }
+     }
+    },
+    {
+     "filename":"41261076.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"27b"
+      }
+     }
+    },
+    {
+     "filename":"41261077.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"28a"
+      }
+     }
+    },
+    {
+     "filename":"41261078.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"28b"
+      }
+     }
+    },
+    {
+     "filename":"41261079.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"29a"
+      }
+     }
+    },
+    {
+     "filename":"41261080.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"29b"
+      }
+     }
+    },
+    {
+     "filename":"41261081.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"30a"
+      }
+     }
+    },
+    {
+     "filename":"41261082.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"30b"
+      }
+     }
+    },
+    {
+     "filename":"41261083.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"31a"
+      }
+     }
+    },
+    {
+     "filename":"41261084.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"31b"
+      }
+     }
+    },
+    {
+     "filename":"41261085.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"32a"
+      }
+     }
+    },
+    {
+     "filename":"41261086.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"32b"
+      }
+     }
+    },
+    {
+     "filename":"41261087.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"33a"
+      }
+     }
+    },
+    {
+     "filename":"41261088.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"33b"
+      }
+     }
+    },
+    {
+     "filename":"41261089.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"34a"
+      }
+     }
+    },
+    {
+     "filename":"41261090.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"34b"
+      }
+     }
+    },
+    {
+     "filename":"41261091.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"35a"
+      }
+     }
+    },
+    {
+     "filename":"41261092.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"35b"
+      }
+     }
+    },
+    {
+     "filename":"41261093.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"36a"
+      }
+     }
+    },
+    {
+     "filename":"41261094.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"36b"
+      }
+     }
+    },
+    {
+     "filename":"41261095.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"37a"
+      }
+     }
+    },
+    {
+     "filename":"41261096.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"37b"
+      }
+     }
+    },
+    {
+     "filename":"41261097.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"38a"
+      }
+     }
+    },
+    {
+     "filename":"41261098.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"38b"
+      }
+     }
+    },
+    {
+     "filename":"41261099.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"39a"
+      }
+     }
+    },
+    {
+     "filename":"41261100.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"39b"
+      }
+     }
+    },
+    {
+     "filename":"41261101.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"40a"
+      }
+     }
+    },
+    {
+     "filename":"41261102.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"40b"
+      }
+     }
+    },
+    {
+     "filename":"41261103.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"41a"
+      }
+     }
+    },
+    {
+     "filename":"41261104.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"41b"
+      }
+     }
+    },
+    {
+     "filename":"41261105.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"42a"
+      }
+     }
+    },
+    {
+     "filename":"41261106.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"42b"
+      }
+     }
+    },
+    {
+     "filename":"41261107.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"43a"
+      }
+     }
+    },
+    {
+     "filename":"41261108.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"43b"
+      }
+     }
+    },
+    {
+     "filename":"41261109.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"44a"
+      }
+     }
+    },
+    {
+     "filename":"41261110.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"44b"
+      }
+     }
+    },
+    {
+     "filename":"41261111.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"45a"
+      }
+     }
+    },
+    {
+     "filename":"41261112.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"45b"
+      }
+     }
+    },
+    {
+     "filename":"41261113.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"46a"
+      }
+     }
+    },
+    {
+     "filename":"41261114.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"46b"
+      }
+     }
+    },
+    {
+     "filename":"41261115.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"47a"
+      }
+     }
+    },
+    {
+     "filename":"41261116.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"47b"
+      }
+     }
+    },
+    {
+     "filename":"41261117.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"48a"
+      }
+     }
+    },
+    {
+     "filename":"41261118.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"48b"
+      }
+     }
+    },
+    {
+     "filename":"41261119.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"49a"
+      }
+     }
+    },
+    {
+     "filename":"41261120.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"dkar chag2",
+       "value":"49b"
+      }
+     }
+    }
+   ]
+  }
+ },
+ "viewing-direction":"top-to-bottom"
+}

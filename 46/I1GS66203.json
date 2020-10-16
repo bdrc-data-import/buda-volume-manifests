@@ -1,0 +1,3747 @@
+{
+ "appData":{
+  "bvmt":{
+   "default-vol-string-lang":"bo",
+   "metadata-for-bvmt-ver":"0.1.0"
+  }
+ },
+ "attribution":[
+  {
+   "@language":"en",
+   "@value":"Data provided by Esukhia under the CC0 license"
+  }
+ ],
+ "changes":[
+  {
+   "message":{
+    "@language":"en",
+    "@value":"migration from rKTs data"
+   },
+   "time":"2020-10-03T11:35:30Z",
+   "user":"bdu:U1653882847"
+  }
+ ],
+ "default-view":"view1",
+ "imggroup":"bdr:I1GS66203",
+ "pagination":[
+  {
+   "id":"pgfolios",
+   "type":"folios"
+  }
+ ],
+ "sections":[
+  {
+   "id":"skyes rabs",
+   "name":{
+    "@language":"bo-x-ewts",
+    "@value":"skyes rabs"
+   }
+  },
+  {
+   "id":"spring yig",
+   "name":{
+    "@language":"bo-x-ewts",
+    "@value":"spring yig"
+   }
+  }
+ ],
+ "spec-version":"0.1.0",
+ "status":"released",
+ "view":{
+  "view1":{
+   "imagelist":[
+    {
+     "filename":"I1GS662030001.tif",
+     "hidden":true,
+     "tags":[
+      "T0005"
+     ]
+    },
+    {
+     "filename":"I1GS662030002.tif",
+     "hidden":true,
+     "tags":[
+      "T0005"
+     ]
+    },
+    {
+     "filename":"I1GS662030003.tif",
+     "hidden":true,
+     "tags":[
+      "T0005"
+     ]
+    },
+    {
+     "filename":"I1GS662030004.tif"
+    },
+    {
+     "filename":"I1GS662030005.tif"
+    },
+    {
+     "filename":"I1GS662030006.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"1b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030007.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"2a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030008.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"2b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030009.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"3a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030010.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"3b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030011.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"4a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030012.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"4b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030013.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"5a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030014.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"5b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030015.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"6a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030016.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"6b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030017.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"7a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030018.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"7b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030019.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"8a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030020.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"8b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030021.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"9a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030022.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"9b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030023.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"10a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030024.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"10b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030025.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"11a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030026.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"11b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030027.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"12a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030028.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"12b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030029.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"13a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030030.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"13b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030031.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"14a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030032.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"14b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030033.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"15a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030034.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"15b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030035.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"16a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030036.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"16b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030037.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"17a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030038.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"17b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030039.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"18a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030040.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"18b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030041.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"19a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030042.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"19b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030043.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"20a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030044.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"20b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030045.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"21a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030046.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"21b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030047.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"22a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030048.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"22b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030049.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"23a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030050.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"23b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030051.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"24a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030052.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"24b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030053.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"25a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030054.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"25b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030055.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"26a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030056.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"26b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030057.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"27a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030058.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"27b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030059.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"28a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030060.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"28b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030061.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"29a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030062.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"29b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030063.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"30a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030064.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"30b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030065.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"31a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030066.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"31b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030067.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"32a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030068.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"32b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030069.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"33a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030070.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"33b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030071.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"34a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030072.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"34b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030073.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"35a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030074.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"35b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030075.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"36a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030076.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"36b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030077.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"37a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030078.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"37b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030079.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"38a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030080.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"38b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030081.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"39a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030082.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"39b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030083.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"40a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030084.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"40b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030085.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"41a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030086.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"41b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030087.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"42a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030088.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"42b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030089.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"43a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030090.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"43b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030091.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"44a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030092.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"44b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030093.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"45a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030094.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"45b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030095.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"46a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030096.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"46b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030097.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"47a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030098.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"47b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030099.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"48a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030100.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"48b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030101.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"49a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030102.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"49b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030103.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"50a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030104.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"50b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030105.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"51a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030106.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"51b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030107.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"52a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030108.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"52b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030109.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"53a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030110.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"53b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030111.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"54a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030112.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"54b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030113.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"55a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030114.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"55b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030115.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"56a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030116.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"56b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030117.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"57a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030118.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"57b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030119.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"58a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030120.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"58b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030121.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"59a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030122.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"59b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030123.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"60a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030124.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"60b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030125.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"61a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030126.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"61b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030127.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"62a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030128.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"62b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030129.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"63a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030130.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"63b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030131.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"64a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030132.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"64b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030133.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"65a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030134.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"65b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030135.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"66a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030136.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"66b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030137.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"67a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030138.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"67b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030139.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"68a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030140.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"68b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030141.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"69a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030142.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"69b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030143.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"70a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030144.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"70b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030145.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"71a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030146.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"71b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030147.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"72a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030148.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"72b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030149.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"73a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030150.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"73b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030151.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"74a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030152.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"74b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030153.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"75a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030154.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"75b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030155.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"76a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030156.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"76b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030157.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"77a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030158.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"77b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030159.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"78a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030160.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"78b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030161.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"79a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030162.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"79b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030163.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"80a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030164.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"80b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030165.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"81a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030166.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"81b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030167.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"82a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030168.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"82b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030169.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"83a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030170.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"83b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030171.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"84a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030172.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"84b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030173.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"85a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030174.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"85b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030175.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"86a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030176.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"86b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030177.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"87a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030178.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"87b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030179.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"88a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030180.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"88b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030181.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"89a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030182.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"89b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030183.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"90a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030184.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"90b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030185.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"91a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030186.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"91b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030187.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"92a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030188.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"92b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030189.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"93a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030190.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"93b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030191.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"94a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030192.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"94b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030193.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"95a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030194.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"95b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030195.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"96a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030196.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"96b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030197.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"97a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030198.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"97b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030199.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"98a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030200.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"98b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030201.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"99a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030202.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"99b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030203.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"100a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030204.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"100b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030205.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"101a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030206.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"101b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030207.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"102a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030208.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"102b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030209.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"103a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030210.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"103b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030211.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"104a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030212.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"104b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030213.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"105a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030214.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"105b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030215.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"106a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030216.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"106b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030217.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"107a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030218.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"107b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030219.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"108a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030220.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"108b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030221.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"109a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030222.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"109b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030223.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"110a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030224.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"110b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030225.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"111a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030226.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"111b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030227.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"112a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030228.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"112b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030229.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"113a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030230.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"113b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030231.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"114a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030232.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"114b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030233.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"115a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030234.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"skyes rabs",
+       "value":"115b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030235.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"116a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030236.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"116b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030237.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"117a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030238.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"117b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030239.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"118a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030240.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"118b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030241.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"119a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030242.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"119b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030243.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"120a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030244.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"120b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030245.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"121a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030246.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"121b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030247.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"122a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030248.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"122b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030249.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"123a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030250.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"123b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030251.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"124a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030252.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"124b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030253.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"125a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030254.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"125b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030255.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"126a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030256.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"126b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030257.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"127a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030258.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"127b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030259.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"128a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030260.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"128b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030261.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"129a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030262.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"129b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030263.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"130a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030264.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"130b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030265.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"131a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030266.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"131b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030267.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"132a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030268.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"132b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030269.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"133a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030270.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"133b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030271.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"134a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030272.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"134b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030273.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"135a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030274.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"135b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030275.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"136a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030276.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"136b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030277.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"137a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030278.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"137b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030279.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"138a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030280.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"138b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030281.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"139a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030282.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"139b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030283.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"140a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030284.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"140b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030285.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"141a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030286.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"141b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030287.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"142a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030288.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"142b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030289.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"143a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030290.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"143b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030291.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"144a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030292.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"144b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030293.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"145a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030294.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"145b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030295.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"146a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030296.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"146b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030297.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"147a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030298.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"147b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030299.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"148a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030300.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"148b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030301.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"149a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030302.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"149b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030303.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"150a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030304.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"150b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030305.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"151a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030306.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"151b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030307.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"152a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030308.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"152b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030309.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"153a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030310.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"153b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030311.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"154a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030312.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"154b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030313.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"155a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030314.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"155b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030315.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"156a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030316.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"156b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030317.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"157a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030318.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"157b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030319.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"158a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030320.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"158b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030321.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"159a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030322.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"159b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030323.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"160a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030324.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"160b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030325.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"161a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030326.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"161b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030327.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"162a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030328.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"162b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030329.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"163a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030330.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"163b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030331.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"164a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030332.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"164b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030333.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"165a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030334.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"165b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030335.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"166a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030336.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"166b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030337.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"167a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030338.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"167b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030339.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"168a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030340.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"168b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030341.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"169a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030342.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"169b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030343.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"170a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030344.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"170b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030345.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"171a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030346.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"171b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030347.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"172a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030348.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"172b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030349.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"173a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030350.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"173b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030351.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"174a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030352.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"174b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030353.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"175a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030354.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"175b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030355.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"176a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030356.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"176b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030357.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"177a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030358.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"177b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030359.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"178a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030360.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"178b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030361.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"179a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030362.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"179b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030363.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"180a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030364.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"180b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030365.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"181a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030366.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"181b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030367.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"182a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030368.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"182b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030369.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"183a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030370.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"183b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030371.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"184a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030372.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"184b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030373.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"185a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030374.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"185b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030375.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"186a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030376.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"186b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030377.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"187a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030378.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"187b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030379.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"188a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030380.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"188b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030381.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"189a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030382.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"189b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030383.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"190a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030384.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"190b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030385.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"191a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030386.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"191b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030387.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"192a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030388.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"192b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030389.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"193a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030390.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"193b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030391.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"194a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030392.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"194b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030393.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"195a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030394.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"195b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030395.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"196a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030396.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"196b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030397.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"197a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030398.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"197b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030399.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"198a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030400.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"198b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030401.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"199a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030402.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"199b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030403.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"200a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030404.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"200b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030405.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"201a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030406.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"201b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030407.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"202a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030408.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"202b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030409.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"203a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030410.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"203b"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030411.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"204a"
+      }
+     }
+    },
+    {
+     "filename":"I1GS662030412.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"spring yig",
+       "value":"204b"
+      }
+     }
+    }
+   ]
+  }
+ },
+ "viewing-direction":"top-to-bottom"
+}
