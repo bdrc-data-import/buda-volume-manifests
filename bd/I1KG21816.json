@@ -1,0 +1,318 @@
+{
+  "rev" : "63952893-758f-4376-b588-4a95c3b5c784",
+  "imggroup" : "bdr:I1KG21816",
+  "spec-version" : "0.1.0",
+  "default-view" : "view1",
+  "attribution" : [ ],
+  "note" : [ ],
+  "volume-label" : [ ],
+  "changes" : [
+    {
+      "user" : "bdu:U1653882847",
+      "message" : {
+        "@value" : "no log message",
+        "@language" : "en"
+      },
+      "time" : "2021-07-01T09:05:50.639Z"
+    }
+  ],
+  "view" : {
+    "view1" : {
+      "imagelist" : [
+        {
+          "tags" : [
+            "T0005"
+          ],
+          "filename" : "I1KG218160001.tif"
+        },
+        {
+          "tags" : [
+            "T0005"
+          ],
+          "filename" : "I1KG218160002.tif"
+        },
+        {
+          "tags" : [
+            "T0001"
+          ],
+          "filename" : "I1KG218160003.jpg"
+        },
+        {
+          "filename" : "I1KG218160004.tif"
+        },
+        {
+          "filename" : "I1KG218160005.tif"
+        },
+        {
+          "filename" : "I1KG218160006.tif"
+        },
+        {
+          "filename" : "I1KG218160007.tif"
+        },
+        {
+          "filename" : "I1KG218160008.tif"
+        },
+        {
+          "filename" : "I1KG218160009.tif"
+        },
+        {
+          "filename" : "I1KG218160010.tif"
+        },
+        {
+          "filename" : "I1KG218160011.tif"
+        },
+        {
+          "filename" : "I1KG218160012.tif"
+        },
+        {
+          "filename" : "I1KG218160013.tif"
+        },
+        {
+          "filename" : "I1KG218160014.tif"
+        },
+        {
+          "filename" : "I1KG218160015.tif"
+        },
+        {
+          "filename" : "I1KG218160016.tif"
+        },
+        {
+          "filename" : "I1KG218160017.tif"
+        },
+        {
+          "filename" : "I1KG218160018.tif"
+        },
+        {
+          "filename" : "I1KG218160019.tif"
+        },
+        {
+          "filename" : "I1KG218160020.tif"
+        },
+        {
+          "filename" : "I1KG218160021.tif"
+        },
+        {
+          "filename" : "I1KG218160022.tif"
+        },
+        {
+          "filename" : "I1KG218160023.tif"
+        },
+        {
+          "filename" : "I1KG218160024.tif"
+        },
+        {
+          "filename" : "I1KG218160025.tif"
+        },
+        {
+          "filename" : "I1KG218160026.tif"
+        },
+        {
+          "filename" : "I1KG218160027.tif"
+        },
+        {
+          "filename" : "I1KG218160028.tif"
+        },
+        {
+          "filename" : "I1KG218160029.tif"
+        },
+        {
+          "filename" : "I1KG218160030.tif"
+        },
+        {
+          "filename" : "I1KG218160031.tif"
+        },
+        {
+          "filename" : "I1KG218160032.tif"
+        },
+        {
+          "filename" : "I1KG218160033.tif"
+        },
+        {
+          "filename" : "I1KG218160034.tif"
+        },
+        {
+          "filename" : "I1KG218160035.tif"
+        },
+        {
+          "filename" : "I1KG218160036.tif"
+        },
+        {
+          "filename" : "I1KG218160037.tif"
+        },
+        {
+          "filename" : "I1KG218160038.tif"
+        },
+        {
+          "filename" : "I1KG218160039.tif"
+        },
+        {
+          "filename" : "I1KG218160040.tif"
+        },
+        {
+          "filename" : "I1KG218160041.tif"
+        },
+        {
+          "filename" : "I1KG218160042.tif"
+        },
+        {
+          "filename" : "I1KG218160043.tif"
+        },
+        {
+          "filename" : "I1KG218160044.tif"
+        },
+        {
+          "filename" : "I1KG218160045.tif"
+        },
+        {
+          "filename" : "I1KG218160046.tif"
+        },
+        {
+          "filename" : "I1KG218160047.tif"
+        },
+        {
+          "filename" : "I1KG218160048.tif"
+        },
+        {
+          "filename" : "I1KG218160049.tif"
+        },
+        {
+          "filename" : "I1KG218160050.tif"
+        },
+        {
+          "filename" : "I1KG218160051.tif"
+        },
+        {
+          "filename" : "I1KG218160052.tif"
+        },
+        {
+          "filename" : "I1KG218160053.tif"
+        },
+        {
+          "filename" : "I1KG218160054.tif"
+        },
+        {
+          "filename" : "I1KG218160055.tif"
+        },
+        {
+          "filename" : "I1KG218160056.tif"
+        },
+        {
+          "filename" : "I1KG218160057.tif"
+        },
+        {
+          "filename" : "I1KG218160058.tif"
+        },
+        {
+          "filename" : "I1KG218160059.tif"
+        },
+        {
+          "filename" : "I1KG218160060.tif"
+        },
+        {
+          "filename" : "I1KG218160061.tif"
+        },
+        {
+          "filename" : "I1KG218160062.tif"
+        },
+        {
+          "filename" : "I1KG218160063.tif"
+        },
+        {
+          "filename" : "I1KG218160064.tif"
+        },
+        {
+          "filename" : "I1KG218160065.tif"
+        },
+        {
+          "filename" : "I1KG218160066.tif"
+        },
+        {
+          "filename" : "I1KG218160067.tif"
+        },
+        {
+          "filename" : "I1KG218160068.tif"
+        },
+        {
+          "filename" : "I1KG218160069.tif"
+        },
+        {
+          "filename" : "I1KG218160070.tif"
+        },
+        {
+          "filename" : "I1KG218160071.tif"
+        },
+        {
+          "filename" : "I1KG218160072.tif"
+        },
+        {
+          "filename" : "I1KG218160073.tif"
+        },
+        {
+          "filename" : "I1KG218160074.tif"
+        },
+        {
+          "filename" : "I1KG218160075.tif"
+        },
+        {
+          "filename" : "I1KG218160076.tif"
+        },
+        {
+          "filename" : "I1KG218160077.tif"
+        },
+        {
+          "filename" : "I1KG218160078.tif"
+        },
+        {
+          "filename" : "I1KG218160079.tif"
+        },
+        {
+          "filename" : "I1KG218160080.tif"
+        },
+        {
+          "filename" : "I1KG218160081.tif"
+        },
+        {
+          "filename" : "I1KG218160082.tif"
+        },
+        {
+          "filename" : "I1KG218160083.tif"
+        },
+        {
+          "filename" : "I1KG218160084.tif"
+        },
+        {
+          "filename" : "I1KG218160085.tif"
+        },
+        {
+          "filename" : "I1KG218160086.jpg"
+        }
+      ]
+    }
+  },
+  "pagination" : [
+    {
+      "id" : "pgfolios",
+      "type" : "folios"
+    }
+  ],
+  "viewing-direction" : "top-to-bottom",
+  "status" : "editing",
+  "appData" : {
+    "bvmt" : {
+      "metadata-for-bvmt-ver" : "0.1.0",
+      "default-ui-string-lang" : "en",
+      "default-vol-string-lang" : "bo",
+      "margin-indication-even" : "{pagenum:bo}",
+      "margin-volname" : "",
+      "margin-indication-odd" : "",
+      "preview-image-view" : {
+        "zoom" : 0,
+        "center" : {
+          "x" : null,
+          "y" : null
+        },
+        "rotation" : 0
+      }
+    }
+  }
+}
