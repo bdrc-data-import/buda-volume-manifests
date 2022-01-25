@@ -1,0 +1,5421 @@
+{
+ "appData":{
+  "bvmt":{
+   "default-vol-string-lang":"bo",
+   "metadata-for-bvmt-ver":"0.1.0"
+  }
+ },
+ "attribution":[
+  {
+   "@language":"en",
+   "@value":"Data provided by rKTs under the CC0 license"
+  }
+ ],
+ "changes":[
+  {
+   "message":{
+    "@language":"en",
+    "@value":"migration from rKTs data"
+   },
+   "time":"2020-10-03T11:35:30Z",
+   "user":"bdu:U1653882847"
+  }
+ ],
+ "default-view":"view1",
+ "imggroup":"bdr:I6378",
+ "pagination":[
+  {
+   "id":"pgfolios",
+   "type":"folios"
+  }
+ ],
+ "sections":[
+  {
+   "id":"khri brgyad stong pa",
+   "name":{
+    "@language":"bo-x-ewts",
+    "@value":"khri brgyad stong pa"
+   }
+  },
+  {
+   "id":"khri pa",
+   "name":{
+    "@language":"bo-x-ewts",
+    "@value":"khri pa"
+   }
+  }
+ ],
+ "spec-version":"0.1.0",
+ "status":"released",
+ "view":{
+  "view1":{
+   "imagelist":[
+    {
+     "filename":"63780001.tif",
+     "hidden":true,
+     "tags":[
+      "T0005"
+     ]
+    },
+    {
+     "filename":"63780002.tif",
+     "hidden":true,
+     "tags":[
+      "T0005"
+     ]
+    },
+    {
+     "filename":"63780003.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"1a"
+      }
+     }
+    },
+    {
+     "filename":"63780004.tif",
+     "hidden":true
+    },
+    {
+     "filename":"63780005.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"1b"
+      }
+     }
+    },
+    {
+     "filename":"63780006.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"2a"
+      }
+     }
+    },
+    {
+     "filename":"63780007.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"2b"
+      }
+     }
+    },
+    {
+     "filename":"63780008.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"3a"
+      }
+     }
+    },
+    {
+     "filename":"63780009.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"3b"
+      }
+     }
+    },
+    {
+     "filename":"63780010.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"4a"
+      }
+     }
+    },
+    {
+     "filename":"63780011.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"4b"
+      }
+     }
+    },
+    {
+     "filename":"63780012.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"5a"
+      }
+     }
+    },
+    {
+     "filename":"63780013.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"5b"
+      }
+     }
+    },
+    {
+     "filename":"63780014.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"6a"
+      }
+     }
+    },
+    {
+     "filename":"63780015.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"6b"
+      }
+     }
+    },
+    {
+     "filename":"63780016.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"7a"
+      }
+     }
+    },
+    {
+     "filename":"63780017.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"7b"
+      }
+     }
+    },
+    {
+     "filename":"63780018.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"8a"
+      }
+     }
+    },
+    {
+     "filename":"63780019.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"8b"
+      }
+     }
+    },
+    {
+     "filename":"63780020.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"9a"
+      }
+     }
+    },
+    {
+     "filename":"63780021.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"9b"
+      }
+     }
+    },
+    {
+     "filename":"63780022.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"10a"
+      }
+     }
+    },
+    {
+     "filename":"63780023.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"10b"
+      }
+     }
+    },
+    {
+     "filename":"63780024.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"11a"
+      }
+     }
+    },
+    {
+     "filename":"63780025.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"11b"
+      }
+     }
+    },
+    {
+     "filename":"63780026.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"12a"
+      }
+     }
+    },
+    {
+     "filename":"63780027.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"12b"
+      }
+     }
+    },
+    {
+     "filename":"63780028.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"13a"
+      }
+     }
+    },
+    {
+     "filename":"63780029.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"13b"
+      }
+     }
+    },
+    {
+     "filename":"63780030.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"14a"
+      }
+     }
+    },
+    {
+     "filename":"63780031.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"14b"
+      }
+     }
+    },
+    {
+     "filename":"63780032.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"15a"
+      }
+     }
+    },
+    {
+     "filename":"63780033.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"15b"
+      }
+     }
+    },
+    {
+     "filename":"63780034.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"16a"
+      }
+     }
+    },
+    {
+     "filename":"63780035.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"16b"
+      }
+     }
+    },
+    {
+     "filename":"63780036.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"17a"
+      }
+     }
+    },
+    {
+     "filename":"63780037.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"17b"
+      }
+     }
+    },
+    {
+     "filename":"63780038.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"18a"
+      }
+     }
+    },
+    {
+     "filename":"63780039.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"18b"
+      }
+     }
+    },
+    {
+     "filename":"63780040.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"19a"
+      }
+     }
+    },
+    {
+     "filename":"63780041.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"19b"
+      }
+     }
+    },
+    {
+     "filename":"63780042.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"20a"
+      }
+     }
+    },
+    {
+     "filename":"63780043.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"20b"
+      }
+     }
+    },
+    {
+     "filename":"63780044.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"21a"
+      }
+     }
+    },
+    {
+     "filename":"63780045.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"21b"
+      }
+     }
+    },
+    {
+     "filename":"63780046.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"22a"
+      }
+     }
+    },
+    {
+     "filename":"63780047.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"22b"
+      }
+     }
+    },
+    {
+     "filename":"63780048.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"23a"
+      }
+     }
+    },
+    {
+     "filename":"63780049.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"23b"
+      }
+     }
+    },
+    {
+     "filename":"63780050.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"24a"
+      }
+     }
+    },
+    {
+     "filename":"63780051.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"24b"
+      }
+     }
+    },
+    {
+     "filename":"63780052.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"25a"
+      }
+     }
+    },
+    {
+     "filename":"63780053.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"25b"
+      }
+     }
+    },
+    {
+     "filename":"63780054.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"26a"
+      }
+     }
+    },
+    {
+     "filename":"63780055.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"26b"
+      }
+     }
+    },
+    {
+     "filename":"63780056.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"27a"
+      }
+     }
+    },
+    {
+     "filename":"63780057.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"27b"
+      }
+     }
+    },
+    {
+     "filename":"63780058.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"28a"
+      }
+     }
+    },
+    {
+     "filename":"63780059.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"28b"
+      }
+     }
+    },
+    {
+     "filename":"63780060.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"29a"
+      }
+     }
+    },
+    {
+     "filename":"63780061.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"29b"
+      }
+     }
+    },
+    {
+     "filename":"63780062.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"30a"
+      }
+     }
+    },
+    {
+     "filename":"63780063.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"30b"
+      }
+     }
+    },
+    {
+     "filename":"63780064.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"31a"
+      }
+     }
+    },
+    {
+     "filename":"63780065.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"31b"
+      }
+     }
+    },
+    {
+     "filename":"63780066.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"32a"
+      }
+     }
+    },
+    {
+     "filename":"63780067.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"32b"
+      }
+     }
+    },
+    {
+     "filename":"63780068.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"33a"
+      }
+     }
+    },
+    {
+     "filename":"63780069.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"33b"
+      }
+     }
+    },
+    {
+     "filename":"63780070.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"34a"
+      }
+     }
+    },
+    {
+     "filename":"63780071.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"34b"
+      }
+     }
+    },
+    {
+     "filename":"63780072.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"35a"
+      }
+     }
+    },
+    {
+     "filename":"63780073.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"35b"
+      }
+     }
+    },
+    {
+     "filename":"63780074.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"36a"
+      }
+     }
+    },
+    {
+     "filename":"63780075.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"36b"
+      }
+     }
+    },
+    {
+     "filename":"63780076.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"37a"
+      }
+     }
+    },
+    {
+     "filename":"63780077.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"37b"
+      }
+     }
+    },
+    {
+     "filename":"63780078.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"38a"
+      }
+     }
+    },
+    {
+     "filename":"63780079.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"38b"
+      }
+     }
+    },
+    {
+     "filename":"63780080.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"39a"
+      }
+     }
+    },
+    {
+     "filename":"63780081.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"39b"
+      }
+     }
+    },
+    {
+     "filename":"63780082.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"40a"
+      }
+     }
+    },
+    {
+     "filename":"63780083.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"40b"
+      }
+     }
+    },
+    {
+     "filename":"63780084.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"41a"
+      }
+     }
+    },
+    {
+     "filename":"63780085.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"41b"
+      }
+     }
+    },
+    {
+     "filename":"63780086.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"42a"
+      }
+     }
+    },
+    {
+     "filename":"63780087.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"42b"
+      }
+     }
+    },
+    {
+     "filename":"63780088.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"43a"
+      }
+     }
+    },
+    {
+     "filename":"63780089.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"43b"
+      }
+     }
+    },
+    {
+     "filename":"63780090.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"44a"
+      }
+     }
+    },
+    {
+     "filename":"63780091.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"44b"
+      }
+     }
+    },
+    {
+     "filename":"63780092.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"45a"
+      }
+     }
+    },
+    {
+     "filename":"63780093.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"45b"
+      }
+     }
+    },
+    {
+     "filename":"63780094.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"46a"
+      }
+     }
+    },
+    {
+     "filename":"63780095.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"46b"
+      }
+     }
+    },
+    {
+     "filename":"63780096.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"47a"
+      }
+     }
+    },
+    {
+     "filename":"63780097.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"47b"
+      }
+     }
+    },
+    {
+     "filename":"63780098.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"48a"
+      }
+     }
+    },
+    {
+     "filename":"63780099.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"48b"
+      }
+     }
+    },
+    {
+     "filename":"63780100.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"49a"
+      }
+     }
+    },
+    {
+     "filename":"63780101.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"49b"
+      }
+     }
+    },
+    {
+     "filename":"63780102.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"50a"
+      }
+     }
+    },
+    {
+     "filename":"63780103.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"50b"
+      }
+     }
+    },
+    {
+     "filename":"63780104.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"51a"
+      }
+     }
+    },
+    {
+     "filename":"63780105.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"51b"
+      }
+     }
+    },
+    {
+     "filename":"63780106.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"52a"
+      }
+     }
+    },
+    {
+     "filename":"63780107.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"52b"
+      }
+     }
+    },
+    {
+     "filename":"63780108.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"53a"
+      }
+     }
+    },
+    {
+     "filename":"63780109.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"53b"
+      }
+     }
+    },
+    {
+     "filename":"63780110.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"54a"
+      }
+     }
+    },
+    {
+     "filename":"63780111.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"54b"
+      }
+     }
+    },
+    {
+     "filename":"63780112.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"55a"
+      }
+     }
+    },
+    {
+     "filename":"63780113.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"55b"
+      }
+     }
+    },
+    {
+     "filename":"63780114.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"56a"
+      }
+     }
+    },
+    {
+     "filename":"63780115.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"56b"
+      }
+     }
+    },
+    {
+     "filename":"63780116.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"57a"
+      }
+     }
+    },
+    {
+     "filename":"63780117.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"57b"
+      }
+     }
+    },
+    {
+     "filename":"63780118.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"58a"
+      }
+     }
+    },
+    {
+     "filename":"63780119.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"58b"
+      }
+     }
+    },
+    {
+     "filename":"63780120.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"59a"
+      }
+     }
+    },
+    {
+     "filename":"63780121.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"59b"
+      }
+     }
+    },
+    {
+     "filename":"63780122.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"60a"
+      }
+     }
+    },
+    {
+     "filename":"63780123.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"60b"
+      }
+     }
+    },
+    {
+     "filename":"63780124.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"61a"
+      }
+     }
+    },
+    {
+     "filename":"63780125.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"61b"
+      }
+     }
+    },
+    {
+     "filename":"63780126.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"62a"
+      }
+     }
+    },
+    {
+     "filename":"63780127.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"62b"
+      }
+     }
+    },
+    {
+     "filename":"63780128.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"63a"
+      }
+     }
+    },
+    {
+     "filename":"63780129.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"63b"
+      }
+     }
+    },
+    {
+     "filename":"63780130.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"64a"
+      }
+     }
+    },
+    {
+     "filename":"63780131.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"64b"
+      }
+     }
+    },
+    {
+     "filename":"63780132.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"65a"
+      }
+     }
+    },
+    {
+     "filename":"63780133.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"65b"
+      }
+     }
+    },
+    {
+     "filename":"63780134.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"66a"
+      }
+     }
+    },
+    {
+     "filename":"63780135.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"66b"
+      }
+     }
+    },
+    {
+     "filename":"63780136.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"67a"
+      }
+     }
+    },
+    {
+     "filename":"63780137.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"67b"
+      }
+     }
+    },
+    {
+     "filename":"63780138.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"68a"
+      }
+     }
+    },
+    {
+     "filename":"63780139.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"68b"
+      }
+     }
+    },
+    {
+     "filename":"63780140.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"69a"
+      }
+     }
+    },
+    {
+     "filename":"63780141.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"69b"
+      }
+     }
+    },
+    {
+     "filename":"63780142.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"70a"
+      }
+     }
+    },
+    {
+     "filename":"63780143.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"70b"
+      }
+     }
+    },
+    {
+     "filename":"63780144.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"71a"
+      }
+     }
+    },
+    {
+     "filename":"63780145.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"71b"
+      }
+     }
+    },
+    {
+     "filename":"63780146.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"72a"
+      }
+     }
+    },
+    {
+     "filename":"63780147.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"72b"
+      }
+     }
+    },
+    {
+     "filename":"63780148.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"73a"
+      }
+     }
+    },
+    {
+     "filename":"63780149.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"73b"
+      }
+     }
+    },
+    {
+     "filename":"63780150.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"74a"
+      }
+     }
+    },
+    {
+     "filename":"63780151.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"74b"
+      }
+     }
+    },
+    {
+     "filename":"63780152.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"75a"
+      }
+     }
+    },
+    {
+     "filename":"63780153.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"75b"
+      }
+     }
+    },
+    {
+     "filename":"63780154.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"76a"
+      }
+     }
+    },
+    {
+     "filename":"63780155.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"76b"
+      }
+     }
+    },
+    {
+     "filename":"63780156.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"77a"
+      }
+     }
+    },
+    {
+     "filename":"63780157.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"77b"
+      }
+     }
+    },
+    {
+     "filename":"63780158.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"78a"
+      }
+     }
+    },
+    {
+     "filename":"63780159.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"78b"
+      }
+     }
+    },
+    {
+     "filename":"63780160.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"79a"
+      }
+     }
+    },
+    {
+     "filename":"63780161.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"79b"
+      }
+     }
+    },
+    {
+     "filename":"63780162.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"80a"
+      }
+     }
+    },
+    {
+     "filename":"63780163.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"80b"
+      }
+     }
+    },
+    {
+     "filename":"63780164.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"81a"
+      }
+     }
+    },
+    {
+     "filename":"63780165.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"81b"
+      }
+     }
+    },
+    {
+     "filename":"63780166.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"82a"
+      }
+     }
+    },
+    {
+     "filename":"63780167.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"82b"
+      }
+     }
+    },
+    {
+     "filename":"63780168.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"83a"
+      }
+     }
+    },
+    {
+     "filename":"63780169.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"83b"
+      }
+     }
+    },
+    {
+     "filename":"63780170.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"84a"
+      }
+     }
+    },
+    {
+     "filename":"63780171.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"84b"
+      }
+     }
+    },
+    {
+     "filename":"63780172.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"85a"
+      }
+     }
+    },
+    {
+     "filename":"63780173.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"85b"
+      }
+     }
+    },
+    {
+     "filename":"63780174.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"86a"
+      }
+     }
+    },
+    {
+     "filename":"63780175.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"86b"
+      }
+     }
+    },
+    {
+     "filename":"63780176.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"87a"
+      }
+     }
+    },
+    {
+     "filename":"63780177.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"87b"
+      }
+     }
+    },
+    {
+     "filename":"63780178.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"88a"
+      }
+     }
+    },
+    {
+     "filename":"63780179.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"88b"
+      }
+     }
+    },
+    {
+     "filename":"63780180.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"89a"
+      }
+     }
+    },
+    {
+     "filename":"63780181.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"89b"
+      }
+     }
+    },
+    {
+     "filename":"63780182.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"90a"
+      }
+     }
+    },
+    {
+     "filename":"63780183.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"90b"
+      }
+     }
+    },
+    {
+     "filename":"63780184.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"91a"
+      }
+     }
+    },
+    {
+     "filename":"63780185.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"91b"
+      }
+     }
+    },
+    {
+     "filename":"63780186.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"92a"
+      }
+     }
+    },
+    {
+     "filename":"63780187.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"92b"
+      }
+     }
+    },
+    {
+     "filename":"63780188.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"93a"
+      }
+     }
+    },
+    {
+     "filename":"63780189.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"93b"
+      }
+     }
+    },
+    {
+     "filename":"63780190.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"94a"
+      }
+     }
+    },
+    {
+     "filename":"63780191.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"94b"
+      }
+     }
+    },
+    {
+     "filename":"63780192.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"95a"
+      }
+     }
+    },
+    {
+     "filename":"63780193.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"95b"
+      }
+     }
+    },
+    {
+     "filename":"63780194.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"96a"
+      }
+     }
+    },
+    {
+     "filename":"63780195.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"96b"
+      }
+     }
+    },
+    {
+     "filename":"63780196.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"97a"
+      }
+     }
+    },
+    {
+     "filename":"63780197.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"97b"
+      }
+     }
+    },
+    {
+     "filename":"63780198.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"98a"
+      }
+     }
+    },
+    {
+     "filename":"63780199.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"98b"
+      }
+     }
+    },
+    {
+     "filename":"63780200.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"99a"
+      }
+     }
+    },
+    {
+     "filename":"63780201.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"99b"
+      }
+     }
+    },
+    {
+     "filename":"63780202.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"100a"
+      }
+     }
+    },
+    {
+     "filename":"63780203.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"100b"
+      }
+     }
+    },
+    {
+     "filename":"63780204.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"101a"
+      }
+     }
+    },
+    {
+     "filename":"63780205.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"101b"
+      }
+     }
+    },
+    {
+     "filename":"63780206.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"102a"
+      }
+     }
+    },
+    {
+     "filename":"63780207.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"102b"
+      }
+     }
+    },
+    {
+     "filename":"63780208.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"103a"
+      }
+     }
+    },
+    {
+     "filename":"63780209.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"103b"
+      }
+     }
+    },
+    {
+     "filename":"63780210.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"104a"
+      }
+     }
+    },
+    {
+     "filename":"63780211.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"104b"
+      }
+     }
+    },
+    {
+     "filename":"63780212.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"105a"
+      }
+     }
+    },
+    {
+     "filename":"63780213.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"105b"
+      }
+     }
+    },
+    {
+     "filename":"63780214.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"106a"
+      }
+     }
+    },
+    {
+     "filename":"63780215.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"106b"
+      }
+     }
+    },
+    {
+     "filename":"63780216.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"107a"
+      }
+     }
+    },
+    {
+     "filename":"63780217.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"107b"
+      }
+     }
+    },
+    {
+     "filename":"63780218.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"108a"
+      }
+     }
+    },
+    {
+     "filename":"63780219.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"108b"
+      }
+     }
+    },
+    {
+     "filename":"63780220.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"109a"
+      }
+     }
+    },
+    {
+     "filename":"63780221.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"109b"
+      }
+     }
+    },
+    {
+     "filename":"63780222.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"110a"
+      }
+     }
+    },
+    {
+     "filename":"63780223.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"110b"
+      }
+     }
+    },
+    {
+     "filename":"63780224.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"111a"
+      }
+     }
+    },
+    {
+     "filename":"63780225.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"111b"
+      }
+     }
+    },
+    {
+     "filename":"63780226.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"112a"
+      }
+     }
+    },
+    {
+     "filename":"63780227.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"112b"
+      }
+     }
+    },
+    {
+     "filename":"63780228.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"113a"
+      }
+     }
+    },
+    {
+     "filename":"63780229.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"113b"
+      }
+     }
+    },
+    {
+     "filename":"63780230.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"114a"
+      }
+     }
+    },
+    {
+     "filename":"63780231.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"114b"
+      }
+     }
+    },
+    {
+     "filename":"63780232.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"115a"
+      }
+     }
+    },
+    {
+     "filename":"63780233.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"115b"
+      }
+     }
+    },
+    {
+     "filename":"63780234.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"116a"
+      }
+     }
+    },
+    {
+     "filename":"63780235.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"116b"
+      }
+     }
+    },
+    {
+     "filename":"63780236.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"117a"
+      }
+     }
+    },
+    {
+     "filename":"63780237.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"117b"
+      }
+     }
+    },
+    {
+     "filename":"63780238.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"118a"
+      }
+     }
+    },
+    {
+     "filename":"63780239.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"118b"
+      }
+     }
+    },
+    {
+     "filename":"63780240.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"119a"
+      }
+     }
+    },
+    {
+     "filename":"63780241.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"119b"
+      }
+     }
+    },
+    {
+     "filename":"63780242.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"120a"
+      }
+     }
+    },
+    {
+     "filename":"63780243.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"120b"
+      }
+     }
+    },
+    {
+     "filename":"63780244.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"121a"
+      }
+     }
+    },
+    {
+     "filename":"63780245.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"121b"
+      }
+     }
+    },
+    {
+     "filename":"63780246.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"122a"
+      }
+     }
+    },
+    {
+     "filename":"63780247.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"122b"
+      }
+     }
+    },
+    {
+     "filename":"63780248.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"123a"
+      }
+     }
+    },
+    {
+     "filename":"63780249.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"123b"
+      }
+     }
+    },
+    {
+     "filename":"63780250.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"124a"
+      }
+     }
+    },
+    {
+     "filename":"63780251.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"124b"
+      }
+     }
+    },
+    {
+     "filename":"63780252.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"125a"
+      }
+     }
+    },
+    {
+     "filename":"63780253.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"125b"
+      }
+     }
+    },
+    {
+     "filename":"63780254.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"126a"
+      }
+     }
+    },
+    {
+     "filename":"63780255.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"126b"
+      }
+     }
+    },
+    {
+     "filename":"63780256.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"127a"
+      }
+     }
+    },
+    {
+     "filename":"63780257.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"127b"
+      }
+     }
+    },
+    {
+     "filename":"63780258.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"128a"
+      }
+     }
+    },
+    {
+     "filename":"63780259.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"128b"
+      }
+     }
+    },
+    {
+     "filename":"63780260.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"129a"
+      }
+     }
+    },
+    {
+     "filename":"63780261.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"129b"
+      }
+     }
+    },
+    {
+     "filename":"63780262.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"130a"
+      }
+     }
+    },
+    {
+     "filename":"63780263.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"130b"
+      }
+     }
+    },
+    {
+     "filename":"63780264.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"131a"
+      }
+     }
+    },
+    {
+     "filename":"63780265.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"131b"
+      }
+     }
+    },
+    {
+     "filename":"63780266.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"132a"
+      }
+     }
+    },
+    {
+     "filename":"63780267.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"132b"
+      }
+     }
+    },
+    {
+     "filename":"63780268.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"133a"
+      }
+     }
+    },
+    {
+     "filename":"63780269.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"133b"
+      }
+     }
+    },
+    {
+     "filename":"63780270.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"134a"
+      }
+     }
+    },
+    {
+     "filename":"63780271.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"134b"
+      }
+     }
+    },
+    {
+     "filename":"63780272.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"135a"
+      }
+     }
+    },
+    {
+     "filename":"63780273.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"135b"
+      }
+     }
+    },
+    {
+     "filename":"63780274.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"136a"
+      }
+     }
+    },
+    {
+     "filename":"63780275.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"136b"
+      }
+     }
+    },
+    {
+     "filename":"63780276.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"137a"
+      }
+     }
+    },
+    {
+     "filename":"63780277.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"137b"
+      }
+     }
+    },
+    {
+     "filename":"63780278.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"138a"
+      }
+     }
+    },
+    {
+     "filename":"63780279.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"138b"
+      }
+     }
+    },
+    {
+     "filename":"63780280.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"139a"
+      }
+     }
+    },
+    {
+     "filename":"63780281.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"139b"
+      }
+     }
+    },
+    {
+     "filename":"63780282.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"140a"
+      }
+     }
+    },
+    {
+     "filename":"63780283.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"140b"
+      }
+     }
+    },
+    {
+     "filename":"63780284.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"141a"
+      }
+     }
+    },
+    {
+     "filename":"63780285.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"141b"
+      }
+     }
+    },
+    {
+     "filename":"63780286.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"142a"
+      }
+     }
+    },
+    {
+     "filename":"63780287.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"142b"
+      }
+     }
+    },
+    {
+     "filename":"63780288.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"143a"
+      }
+     }
+    },
+    {
+     "filename":"63780289.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"143b"
+      }
+     }
+    },
+    {
+     "filename":"63780290.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"144a"
+      }
+     }
+    },
+    {
+     "filename":"63780291.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"144b"
+      }
+     }
+    },
+    {
+     "filename":"63780292.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"145a"
+      }
+     }
+    },
+    {
+     "filename":"63780293.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"145b"
+      }
+     }
+    },
+    {
+     "filename":"63780294.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"146a"
+      }
+     }
+    },
+    {
+     "filename":"63780295.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"146b"
+      }
+     }
+    },
+    {
+     "filename":"63780296.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"147a"
+      }
+     }
+    },
+    {
+     "filename":"63780297.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"147b"
+      }
+     }
+    },
+    {
+     "filename":"63780298.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"148a"
+      }
+     }
+    },
+    {
+     "filename":"63780299.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"148b"
+      }
+     }
+    },
+    {
+     "filename":"63780300.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"149a"
+      }
+     }
+    },
+    {
+     "filename":"63780301.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"149b"
+      }
+     }
+    },
+    {
+     "filename":"63780302.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"150a"
+      }
+     }
+    },
+    {
+     "filename":"63780303.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"150b"
+      }
+     }
+    },
+    {
+     "filename":"63780304.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"151a"
+      }
+     }
+    },
+    {
+     "filename":"63780305.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"151b"
+      }
+     }
+    },
+    {
+     "filename":"63780306.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"152a"
+      }
+     }
+    },
+    {
+     "filename":"63780307.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"152b"
+      }
+     }
+    },
+    {
+     "filename":"63780308.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"153a"
+      }
+     }
+    },
+    {
+     "filename":"63780309.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"153b"
+      }
+     }
+    },
+    {
+     "filename":"63780310.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"154a"
+      }
+     }
+    },
+    {
+     "filename":"63780311.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"154b"
+      }
+     }
+    },
+    {
+     "filename":"63780312.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"155a"
+      }
+     }
+    },
+    {
+     "filename":"63780313.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"155b"
+      }
+     }
+    },
+    {
+     "filename":"63780314.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"156a"
+      }
+     }
+    },
+    {
+     "filename":"63780315.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"156b"
+      }
+     }
+    },
+    {
+     "filename":"63780316.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"157a"
+      }
+     }
+    },
+    {
+     "filename":"63780317.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"157b"
+      }
+     }
+    },
+    {
+     "filename":"63780318.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"158a"
+      }
+     }
+    },
+    {
+     "filename":"63780319.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"158b"
+      }
+     }
+    },
+    {
+     "filename":"63780320.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"159a"
+      }
+     }
+    },
+    {
+     "filename":"63780321.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"159b"
+      }
+     }
+    },
+    {
+     "filename":"63780322.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"160a"
+      }
+     }
+    },
+    {
+     "filename":"63780323.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"160b"
+      }
+     }
+    },
+    {
+     "filename":"63780324.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"161a"
+      }
+     }
+    },
+    {
+     "filename":"63780325.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"161b"
+      }
+     }
+    },
+    {
+     "filename":"63780326.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"162a"
+      }
+     }
+    },
+    {
+     "filename":"63780327.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"162b"
+      }
+     }
+    },
+    {
+     "filename":"63780328.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"163a"
+      }
+     }
+    },
+    {
+     "filename":"63780329.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"163b"
+      }
+     }
+    },
+    {
+     "filename":"63780330.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"164a"
+      }
+     }
+    },
+    {
+     "filename":"63780331.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"164b"
+      }
+     }
+    },
+    {
+     "filename":"63780332.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"165a"
+      }
+     }
+    },
+    {
+     "filename":"63780333.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"165b"
+      }
+     }
+    },
+    {
+     "filename":"63780334.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"166a"
+      }
+     }
+    },
+    {
+     "filename":"63780335.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"166b"
+      }
+     }
+    },
+    {
+     "filename":"63780336.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"167a"
+      }
+     }
+    },
+    {
+     "filename":"63780337.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"167b"
+      }
+     }
+    },
+    {
+     "filename":"63780338.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"168a"
+      }
+     }
+    },
+    {
+     "filename":"63780339.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"168b"
+      }
+     }
+    },
+    {
+     "filename":"63780340.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"169a"
+      }
+     }
+    },
+    {
+     "filename":"63780341.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"169b"
+      }
+     }
+    },
+    {
+     "filename":"63780342.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"170a"
+      }
+     }
+    },
+    {
+     "filename":"63780343.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"170b"
+      }
+     }
+    },
+    {
+     "filename":"63780344.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"171a"
+      }
+     }
+    },
+    {
+     "filename":"63780345.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"171b"
+      }
+     }
+    },
+    {
+     "filename":"63780346.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"172a"
+      }
+     }
+    },
+    {
+     "filename":"63780347.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"172b"
+      }
+     }
+    },
+    {
+     "filename":"63780348.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"173a"
+      }
+     }
+    },
+    {
+     "filename":"63780349.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"173b"
+      }
+     }
+    },
+    {
+     "filename":"63780350.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"174a"
+      }
+     }
+    },
+    {
+     "filename":"63780351.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"174b"
+      }
+     }
+    },
+    {
+     "filename":"63780352.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"175a"
+      }
+     }
+    },
+    {
+     "filename":"63780353.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"175b"
+      }
+     }
+    },
+    {
+     "filename":"63780354.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"176a"
+      }
+     }
+    },
+    {
+     "filename":"63780355.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"176b"
+      }
+     }
+    },
+    {
+     "filename":"63780356.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"177a"
+      }
+     }
+    },
+    {
+     "filename":"63780357.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"177b"
+      }
+     }
+    },
+    {
+     "filename":"63780358.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"178a"
+      }
+     }
+    },
+    {
+     "filename":"63780359.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"178b"
+      }
+     }
+    },
+    {
+     "filename":"63780360.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"179a"
+      }
+     }
+    },
+    {
+     "filename":"63780361.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"179b"
+      }
+     }
+    },
+    {
+     "filename":"63780362.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"180a"
+      }
+     }
+    },
+    {
+     "filename":"63780363.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"180b"
+      }
+     }
+    },
+    {
+     "filename":"63780364.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"181a"
+      }
+     }
+    },
+    {
+     "filename":"63780365.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"181b"
+      }
+     }
+    },
+    {
+     "filename":"63780366.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"182a"
+      }
+     }
+    },
+    {
+     "filename":"63780367.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"182b"
+      }
+     }
+    },
+    {
+     "filename":"63780368.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"183a"
+      }
+     }
+    },
+    {
+     "filename":"63780369.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"183b"
+      }
+     }
+    },
+    {
+     "filename":"63780370.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"184a"
+      }
+     }
+    },
+    {
+     "filename":"63780371.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"184b"
+      }
+     }
+    },
+    {
+     "filename":"63780372.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"185a"
+      }
+     }
+    },
+    {
+     "filename":"63780373.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"185b"
+      }
+     }
+    },
+    {
+     "filename":"63780374.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"186a"
+      }
+     }
+    },
+    {
+     "filename":"63780375.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"186b"
+      }
+     }
+    },
+    {
+     "filename":"63780376.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"187a"
+      }
+     }
+    },
+    {
+     "filename":"63780377.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"187b"
+      }
+     }
+    },
+    {
+     "filename":"63780378.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"188a"
+      }
+     }
+    },
+    {
+     "filename":"63780379.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"188b"
+      }
+     }
+    },
+    {
+     "filename":"63780380.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"189a"
+      }
+     }
+    },
+    {
+     "filename":"63780381.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"189b"
+      }
+     }
+    },
+    {
+     "filename":"63780382.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"190a"
+      }
+     }
+    },
+    {
+     "filename":"63780383.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"190b"
+      }
+     }
+    },
+    {
+     "filename":"63780384.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"191a"
+      }
+     }
+    },
+    {
+     "filename":"63780385.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"191b"
+      }
+     }
+    },
+    {
+     "filename":"63780386.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"192a"
+      }
+     }
+    },
+    {
+     "filename":"63780387.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"192b"
+      }
+     }
+    },
+    {
+     "filename":"63780388.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"193a"
+      }
+     }
+    },
+    {
+     "filename":"63780389.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"193b"
+      }
+     }
+    },
+    {
+     "filename":"63780390.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"194a"
+      }
+     }
+    },
+    {
+     "filename":"63780391.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"194b"
+      }
+     }
+    },
+    {
+     "filename":"63780392.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"195a"
+      }
+     }
+    },
+    {
+     "filename":"63780393.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"195b"
+      }
+     }
+    },
+    {
+     "filename":"63780394.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"196a"
+      }
+     }
+    },
+    {
+     "filename":"63780395.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"196b"
+      }
+     }
+    },
+    {
+     "filename":"63780396.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"197a"
+      }
+     }
+    },
+    {
+     "filename":"63780397.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"197b"
+      }
+     }
+    },
+    {
+     "filename":"63780398.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"198a"
+      }
+     }
+    },
+    {
+     "filename":"63780399.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"198b"
+      }
+     }
+    },
+    {
+     "filename":"63780400.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"199a"
+      }
+     }
+    },
+    {
+     "filename":"63780401.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"199b"
+      }
+     }
+    },
+    {
+     "filename":"63780402.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"200a"
+      }
+     }
+    },
+    {
+     "filename":"63780403.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"200b"
+      }
+     }
+    },
+    {
+     "filename":"63780404.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"201a"
+      }
+     }
+    },
+    {
+     "filename":"63780405.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"201b"
+      }
+     }
+    },
+    {
+     "filename":"63780406.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"202a"
+      }
+     }
+    },
+    {
+     "filename":"63780407.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"202b"
+      }
+     }
+    },
+    {
+     "filename":"63780408.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"203a"
+      }
+     }
+    },
+    {
+     "filename":"63780409.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"203b"
+      }
+     }
+    },
+    {
+     "filename":"63780410.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"204a"
+      }
+     }
+    },
+    {
+     "filename":"63780411.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"204b"
+      }
+     }
+    },
+    {
+     "filename":"63780412.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"205a"
+      }
+     }
+    },
+    {
+     "filename":"63780413.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"205b"
+      }
+     }
+    },
+    {
+     "filename":"63780414.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"206a"
+      }
+     }
+    },
+    {
+     "filename":"63780415.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri brgyad stong pa",
+       "value":"206b"
+      }
+     }
+    },
+    {
+     "filename":"63780416.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"1a"
+      }
+     }
+    },
+    {
+     "filename":"63780417.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"1b"
+      }
+     }
+    },
+    {
+     "filename":"63780418.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"2a"
+      }
+     }
+    },
+    {
+     "filename":"63780419.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"2b"
+      }
+     }
+    },
+    {
+     "filename":"63780420.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"3a"
+      }
+     }
+    },
+    {
+     "filename":"63780421.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"3b"
+      }
+     }
+    },
+    {
+     "filename":"63780422.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"4a"
+      }
+     }
+    },
+    {
+     "filename":"63780423.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"4b"
+      }
+     }
+    },
+    {
+     "filename":"63780424.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"5a"
+      }
+     }
+    },
+    {
+     "filename":"63780425.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"5b"
+      }
+     }
+    },
+    {
+     "filename":"63780426.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"6a"
+      }
+     }
+    },
+    {
+     "filename":"63780427.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"6b"
+      }
+     }
+    },
+    {
+     "filename":"63780428.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"7a"
+      }
+     }
+    },
+    {
+     "filename":"63780429.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"7b"
+      }
+     }
+    },
+    {
+     "filename":"63780430.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"8a"
+      }
+     }
+    },
+    {
+     "filename":"63780431.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"8b"
+      }
+     }
+    },
+    {
+     "filename":"63780432.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"9a"
+      }
+     }
+    },
+    {
+     "filename":"63780433.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"9b"
+      }
+     }
+    },
+    {
+     "filename":"63780434.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"10a"
+      }
+     }
+    },
+    {
+     "filename":"63780435.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"10b"
+      }
+     }
+    },
+    {
+     "filename":"63780436.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"11a"
+      }
+     }
+    },
+    {
+     "filename":"63780437.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"11b"
+      }
+     }
+    },
+    {
+     "filename":"63780438.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"12a"
+      }
+     }
+    },
+    {
+     "filename":"63780439.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"12b"
+      }
+     }
+    },
+    {
+     "filename":"63780440.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"13a"
+      }
+     }
+    },
+    {
+     "filename":"63780441.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"13b"
+      }
+     }
+    },
+    {
+     "filename":"63780442.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"14a"
+      }
+     }
+    },
+    {
+     "filename":"63780443.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"14b"
+      }
+     }
+    },
+    {
+     "filename":"63780444.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"15a"
+      }
+     }
+    },
+    {
+     "filename":"63780445.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"15b"
+      }
+     }
+    },
+    {
+     "filename":"63780446.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"16a"
+      }
+     }
+    },
+    {
+     "filename":"63780447.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"16b"
+      }
+     }
+    },
+    {
+     "filename":"63780448.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"17a"
+      }
+     }
+    },
+    {
+     "filename":"63780449.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"17b"
+      }
+     }
+    },
+    {
+     "filename":"63780450.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"18a"
+      }
+     }
+    },
+    {
+     "filename":"63780451.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"18b"
+      }
+     }
+    },
+    {
+     "filename":"63780452.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"19a"
+      }
+     }
+    },
+    {
+     "filename":"63780453.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"19b"
+      }
+     }
+    },
+    {
+     "filename":"63780454.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"20a"
+      }
+     }
+    },
+    {
+     "filename":"63780455.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"20b"
+      }
+     }
+    },
+    {
+     "filename":"63780456.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"21a"
+      }
+     }
+    },
+    {
+     "filename":"63780457.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"21b"
+      }
+     }
+    },
+    {
+     "filename":"63780458.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"22a"
+      }
+     }
+    },
+    {
+     "filename":"63780459.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"22b"
+      }
+     }
+    },
+    {
+     "filename":"63780460.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"23a"
+      }
+     }
+    },
+    {
+     "filename":"63780461.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"23b"
+      }
+     }
+    },
+    {
+     "filename":"63780462.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"24a"
+      }
+     }
+    },
+    {
+     "filename":"63780463.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"24b"
+      }
+     }
+    },
+    {
+     "filename":"63780464.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"25a"
+      }
+     }
+    },
+    {
+     "filename":"63780465.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"25b"
+      }
+     }
+    },
+    {
+     "filename":"63780466.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"26a"
+      }
+     }
+    },
+    {
+     "filename":"63780467.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"26b"
+      }
+     }
+    },
+    {
+     "filename":"63780468.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"27a"
+      }
+     }
+    },
+    {
+     "filename":"63780469.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"27b"
+      }
+     }
+    },
+    {
+     "filename":"63780470.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"28a"
+      }
+     }
+    },
+    {
+     "filename":"63780471.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"28b"
+      }
+     }
+    },
+    {
+     "filename":"63780472.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"29a"
+      }
+     }
+    },
+    {
+     "filename":"63780473.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"29b"
+      }
+     }
+    },
+    {
+     "filename":"63780474.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"30a"
+      }
+     }
+    },
+    {
+     "filename":"63780475.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"30b"
+      }
+     }
+    },
+    {
+     "filename":"63780476.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"31a"
+      }
+     }
+    },
+    {
+     "filename":"63780477.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"31b"
+      }
+     }
+    },
+    {
+     "filename":"63780478.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"32a"
+      }
+     }
+    },
+    {
+     "filename":"63780479.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"32b"
+      }
+     }
+    },
+    {
+     "filename":"63780480.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"33a"
+      }
+     }
+    },
+    {
+     "filename":"63780481.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"33b"
+      }
+     }
+    },
+    {
+     "filename":"63780482.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"34a"
+      }
+     }
+    },
+    {
+     "filename":"63780483.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"34b"
+      }
+     }
+    },
+    {
+     "filename":"63780484.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"35a"
+      }
+     }
+    },
+    {
+     "filename":"63780485.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"35b"
+      }
+     }
+    },
+    {
+     "filename":"63780486.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"36a"
+      }
+     }
+    },
+    {
+     "filename":"63780487.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"36b"
+      }
+     }
+    },
+    {
+     "filename":"63780488.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"37a"
+      }
+     }
+    },
+    {
+     "filename":"63780489.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"37b"
+      }
+     }
+    },
+    {
+     "filename":"63780490.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"38a"
+      }
+     }
+    },
+    {
+     "filename":"63780491.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"38b"
+      }
+     }
+    },
+    {
+     "filename":"63780492.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"39a"
+      }
+     }
+    },
+    {
+     "filename":"63780493.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"39b"
+      }
+     }
+    },
+    {
+     "filename":"63780494.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"40a"
+      }
+     }
+    },
+    {
+     "filename":"63780495.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"40b"
+      }
+     }
+    },
+    {
+     "filename":"63780496.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"41a"
+      }
+     }
+    },
+    {
+     "filename":"63780497.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"41b"
+      }
+     }
+    },
+    {
+     "filename":"63780498.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"42a"
+      }
+     }
+    },
+    {
+     "filename":"63780499.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"42b"
+      }
+     }
+    },
+    {
+     "filename":"63780500.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"43a"
+      }
+     }
+    },
+    {
+     "filename":"63780501.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"43b"
+      }
+     }
+    },
+    {
+     "filename":"63780502.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"44a"
+      }
+     }
+    },
+    {
+     "filename":"63780503.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"44b"
+      }
+     }
+    },
+    {
+     "filename":"63780504.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"45a"
+      }
+     }
+    },
+    {
+     "filename":"63780505.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"45b"
+      }
+     }
+    },
+    {
+     "filename":"63780506.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"46a"
+      }
+     }
+    },
+    {
+     "filename":"63780507.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"46b"
+      }
+     }
+    },
+    {
+     "filename":"63780508.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"47a"
+      }
+     }
+    },
+    {
+     "filename":"63780509.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"47b"
+      }
+     }
+    },
+    {
+     "filename":"63780510.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"48a"
+      }
+     }
+    },
+    {
+     "filename":"63780511.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"48b"
+      }
+     }
+    },
+    {
+     "filename":"63780512.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"49a"
+      }
+     }
+    },
+    {
+     "filename":"63780513.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"49b"
+      }
+     }
+    },
+    {
+     "filename":"63780514.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"50a"
+      }
+     }
+    },
+    {
+     "filename":"63780515.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"50b"
+      }
+     }
+    },
+    {
+     "filename":"63780516.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"51a"
+      }
+     }
+    },
+    {
+     "filename":"63780517.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"51b"
+      }
+     }
+    },
+    {
+     "filename":"63780518.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"52a"
+      }
+     }
+    },
+    {
+     "filename":"63780519.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"52b"
+      }
+     }
+    },
+    {
+     "filename":"63780520.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"53a"
+      }
+     }
+    },
+    {
+     "filename":"63780521.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"53b"
+      }
+     }
+    },
+    {
+     "filename":"63780522.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"54a"
+      }
+     }
+    },
+    {
+     "filename":"63780523.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"54b"
+      }
+     }
+    },
+    {
+     "filename":"63780524.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"55a"
+      }
+     }
+    },
+    {
+     "filename":"63780525.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"55b"
+      }
+     }
+    },
+    {
+     "filename":"63780526.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"56a"
+      }
+     }
+    },
+    {
+     "filename":"63780527.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"56b"
+      }
+     }
+    },
+    {
+     "filename":"63780528.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"57a"
+      }
+     }
+    },
+    {
+     "filename":"63780529.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"57b"
+      }
+     }
+    },
+    {
+     "filename":"63780530.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"58a"
+      }
+     }
+    },
+    {
+     "filename":"63780531.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"58b"
+      }
+     }
+    },
+    {
+     "filename":"63780532.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"59a"
+      }
+     }
+    },
+    {
+     "filename":"63780533.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"59b"
+      }
+     }
+    },
+    {
+     "filename":"63780534.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"60a"
+      }
+     }
+    },
+    {
+     "filename":"63780535.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"60b"
+      }
+     }
+    },
+    {
+     "filename":"63780536.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"61a"
+      }
+     }
+    },
+    {
+     "filename":"63780537.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"61b"
+      }
+     }
+    },
+    {
+     "filename":"63780538.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"62a"
+      }
+     }
+    },
+    {
+     "filename":"63780539.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"62b"
+      }
+     }
+    },
+    {
+     "filename":"63780540.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"63a"
+      }
+     }
+    },
+    {
+     "filename":"63780541.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"63b"
+      }
+     }
+    },
+    {
+     "filename":"63780542.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"64a"
+      }
+     }
+    },
+    {
+     "filename":"63780543.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"64b"
+      }
+     }
+    },
+    {
+     "filename":"63780544.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"65a"
+      }
+     }
+    },
+    {
+     "filename":"63780545.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"65b"
+      }
+     }
+    },
+    {
+     "filename":"63780546.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"66a"
+      }
+     }
+    },
+    {
+     "filename":"63780547.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"66b"
+      }
+     }
+    },
+    {
+     "filename":"63780548.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"67a"
+      }
+     }
+    },
+    {
+     "filename":"63780549.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"67b"
+      }
+     }
+    },
+    {
+     "filename":"63780550.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"68a"
+      }
+     }
+    },
+    {
+     "filename":"63780551.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"68b"
+      }
+     }
+    },
+    {
+     "filename":"63780552.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"69a"
+      }
+     }
+    },
+    {
+     "filename":"63780553.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"69b"
+      }
+     }
+    },
+    {
+     "filename":"63780554.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"70a"
+      }
+     }
+    },
+    {
+     "filename":"63780555.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"70b"
+      }
+     }
+    },
+    {
+     "filename":"63780556.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"71a"
+      }
+     }
+    },
+    {
+     "filename":"63780557.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"71b"
+      }
+     }
+    },
+    {
+     "filename":"63780558.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"72a"
+      }
+     }
+    },
+    {
+     "filename":"63780559.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"72b"
+      }
+     }
+    },
+    {
+     "filename":"63780560.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"73a"
+      }
+     }
+    },
+    {
+     "filename":"63780561.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"73b"
+      }
+     }
+    },
+    {
+     "filename":"63780562.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"74a"
+      }
+     }
+    },
+    {
+     "filename":"63780563.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"74b"
+      }
+     }
+    },
+    {
+     "filename":"63780564.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"75a"
+      }
+     }
+    },
+    {
+     "filename":"63780565.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"75b"
+      }
+     }
+    },
+    {
+     "filename":"63780566.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"76a"
+      }
+     }
+    },
+    {
+     "filename":"63780567.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"76b"
+      }
+     }
+    },
+    {
+     "filename":"63780568.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"77a"
+      }
+     }
+    },
+    {
+     "filename":"63780569.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"77b"
+      }
+     }
+    },
+    {
+     "filename":"63780570.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"78a"
+      }
+     }
+    },
+    {
+     "filename":"63780571.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"78b"
+      }
+     }
+    },
+    {
+     "filename":"63780572.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"79a"
+      }
+     }
+    },
+    {
+     "filename":"63780573.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"79b"
+      }
+     }
+    },
+    {
+     "filename":"63780574.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"80a"
+      }
+     }
+    },
+    {
+     "filename":"63780575.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"80b"
+      }
+     }
+    },
+    {
+     "filename":"63780576.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"81a"
+      }
+     }
+    },
+    {
+     "filename":"63780577.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"81b"
+      }
+     }
+    },
+    {
+     "filename":"63780578.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"82a"
+      }
+     }
+    },
+    {
+     "filename":"63780579.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"82b"
+      }
+     }
+    },
+    {
+     "filename":"63780580.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"83a"
+      }
+     }
+    },
+    {
+     "filename":"63780581.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"83b"
+      }
+     }
+    },
+    {
+     "filename":"63780582.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"84a"
+      }
+     }
+    },
+    {
+     "filename":"63780583.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"84b"
+      }
+     }
+    },
+    {
+     "filename":"63780584.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"85a"
+      }
+     }
+    },
+    {
+     "filename":"63780585.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"85b"
+      }
+     }
+    },
+    {
+     "filename":"63780586.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"86a"
+      }
+     }
+    },
+    {
+     "filename":"63780587.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"86b"
+      }
+     }
+    },
+    {
+     "filename":"63780588.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"87a"
+      }
+     }
+    },
+    {
+     "filename":"63780589.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"87b"
+      }
+     }
+    },
+    {
+     "filename":"63780590.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"88a"
+      }
+     }
+    },
+    {
+     "filename":"63780591.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"88b"
+      }
+     }
+    },
+    {
+     "filename":"63780592.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"89a"
+      }
+     }
+    },
+    {
+     "filename":"63780593.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"89b"
+      }
+     }
+    },
+    {
+     "filename":"63780594.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"90a"
+      }
+     }
+    },
+    {
+     "filename":"63780595.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"90b"
+      }
+     }
+    },
+    {
+     "filename":"63780596.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"91a"
+      }
+     }
+    },
+    {
+     "filename":"63780597.tif",
+     "pagination":{
+      "pgfolios":{
+       "section":"khri pa",
+       "value":"91b"
+      }
+     }
+    }
+   ]
+  }
+ },
+ "viewing-direction":"top-to-bottom"
+}
