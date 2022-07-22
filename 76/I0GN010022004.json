@@ -1,0 +1,100 @@
+{
+    "appData": {
+        "bvmt": {
+            "default-vol-string-lang": "bo",
+            "metadata-for-bvmt-ver": "0.1.0"
+        }
+    },
+    "attribution": [
+        {
+            "@language": "en",
+            "@value": "Data created by Prakraś and BDRC"
+        }
+    ],
+    "changes": [
+        {
+            "message": {
+                "@language": "en",
+                "@value": "creation from gnd-pilot repository"
+            },
+            "time": "2022-07-21T11:35:30Z",
+            "user": "bdu:U1653882847"
+        }
+    ],
+    "default-view": "view1",
+    "imggroup": "bdr:I0GN010022004",
+    "pagination": [
+        {
+            "id": "pgfolios",
+            "type": "folios"
+        }
+    ],
+    "spec-version": "0.1.0",
+    "status": "released",
+    "view": {
+        "view1": {
+            "imagelist": [
+                {
+                    "filename": "I0GN010022004001.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/c3799-03.tif"
+                },
+                {
+                    "filename": "I0GN010022004002.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22.2rb.tif"
+                },
+                {
+                    "filename": "I0GN010022004003.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22.2r.tif"
+                },
+                {
+                    "filename": "I0GN010022004004.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22.2rt.tif"
+                },
+                {
+                    "filename": "I0GN010022004005.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22.2vb.tif"
+                },
+                {
+                    "filename": "I0GN010022004006.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22.2v.tif"
+                },
+                {
+                    "filename": "I0GN010022004007.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22.2vt.tif"
+                },
+                {
+                    "filename": "I0GN010022004008.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22arb.tif"
+                },
+                {
+                    "filename": "I0GN010022004009.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22art.tif"
+                },
+                {
+                    "filename": "I0GN010022004010.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22avb.tif"
+                },
+                {
+                    "filename": "I0GN010022004011.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22avt.tif"
+                },
+                {
+                    "filename": "I0GN010022004012.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22br.tif"
+                },
+                {
+                    "filename": "I0GN010022004013.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22bv.tif"
+                },
+                {
+                    "filename": "I0GN010022004014.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22cr.tif"
+                },
+                {
+                    "filename": "I0GN010022004015.jpg",
+                    "sourcePath": "Senior Images/RS22/MasterColour/sn22cv.tif"
+                }
+            ]
+        }
+    }
+}

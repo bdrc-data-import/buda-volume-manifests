@@ -1,0 +1,80 @@
+{
+    "appData": {
+        "bvmt": {
+            "default-vol-string-lang": "bo",
+            "metadata-for-bvmt-ver": "0.1.0"
+        }
+    },
+    "attribution": [
+        {
+            "@language": "en",
+            "@value": "Data created by Prakraś and BDRC"
+        }
+    ],
+    "changes": [
+        {
+            "message": {
+                "@language": "en",
+                "@value": "creation from gnd-pilot repository"
+            },
+            "time": "2022-07-21T11:35:30Z",
+            "user": "bdu:U1653882847"
+        }
+    ],
+    "default-view": "view1",
+    "imggroup": "bdr:I0GN010022003",
+    "pagination": [
+        {
+            "id": "pgfolios",
+            "type": "folios"
+        }
+    ],
+    "spec-version": "0.1.0",
+    "status": "released",
+    "view": {
+        "view1": {
+            "imagelist": [
+                {
+                    "filename": "I0GN010022003001.jpg",
+                    "sourcePath": "Senior Images/RS22/ConservationReference/RS22 C-01 recto 01 (sn22r1-lw).jpg"
+                },
+                {
+                    "filename": "I0GN010022003002.jpg",
+                    "sourcePath": "Senior Images/RS22/ConservationReference/sn22r2-lw.jpg"
+                },
+                {
+                    "filename": "I0GN010022003003.jpg",
+                    "sourcePath": "Senior Images/RS22/ConservationReference/sn22r3-lw.jpg"
+                },
+                {
+                    "filename": "I0GN010022003004.jpg",
+                    "sourcePath": "Senior Images/RS22/ConservationReference/sn22r4-lw.jpg"
+                },
+                {
+                    "filename": "I0GN010022003005.jpg",
+                    "sourcePath": "Senior Images/RS22/ConservationReference/sn22r5-lw.jpg"
+                },
+                {
+                    "filename": "I0GN010022003006.jpg",
+                    "sourcePath": "Senior Images/RS22/ConservationReference/sn22v1-lw.jpg"
+                },
+                {
+                    "filename": "I0GN010022003007.jpg",
+                    "sourcePath": "Senior Images/RS22/ConservationReference/sn22v2-lw.jpg"
+                },
+                {
+                    "filename": "I0GN010022003008.jpg",
+                    "sourcePath": "Senior Images/RS22/ConservationReference/sn22v3-lw.jpg"
+                },
+                {
+                    "filename": "I0GN010022003009.jpg",
+                    "sourcePath": "Senior Images/RS22/ConservationReference/sn22v4-lw.jpg"
+                },
+                {
+                    "filename": "I0GN010022003010.jpg",
+                    "sourcePath": "Senior Images/RS22/ConservationReference/sn22v5-lw.jpg"
+                }
+            ]
+        }
+    }
+}
