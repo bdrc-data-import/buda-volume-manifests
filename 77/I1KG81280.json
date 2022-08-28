@@ -29,6 +29,29 @@
    "type":"folios"
   }
  ],
+ "sections":[
+  {
+   "id":"1",
+   "name":{
+    "@language":"bo-x-ewts",
+    "@value":"1"
+   }
+  },
+  {
+   "id":"2",
+   "name":{
+    "@language":"bo-x-ewts",
+    "@value":"2"
+   }
+  },
+  {
+   "id":"3",
+   "name":{
+    "@language":"bo-x-ewts",
+    "@value":"3"
+   }
+  }
+ ],
  "spec-version":"0.1.0",
  "status":"released",
  "view":{
@@ -52,6 +75,7 @@
      "filename":"I1KG812800003.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"1a"
       }
      }
@@ -60,6 +84,7 @@
      "filename":"I1KG812800004.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"1b"
       }
      }
@@ -68,6 +93,7 @@
      "filename":"I1KG812800005.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"2a"
       }
      }
@@ -76,6 +102,7 @@
      "filename":"I1KG812800006.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"2b"
       }
      }
@@ -84,6 +111,7 @@
      "filename":"I1KG812800007.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"3a"
       }
      }
@@ -92,6 +120,7 @@
      "filename":"I1KG812800008.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"3b"
       }
      }
@@ -100,6 +129,7 @@
      "filename":"I1KG812800009.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"4a"
       }
      }
@@ -108,6 +138,7 @@
      "filename":"I1KG812800010.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"4b"
       }
      }
@@ -116,6 +147,7 @@
      "filename":"I1KG812800011.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"5a"
       }
      }
@@ -124,6 +156,7 @@
      "filename":"I1KG812800012.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"5b"
       }
      }
@@ -132,6 +165,7 @@
      "filename":"I1KG812800013.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"6a"
       }
      }
@@ -140,6 +174,7 @@
      "filename":"I1KG812800014.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"6b"
       }
      }
@@ -148,6 +183,7 @@
      "filename":"I1KG812800015.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"7a"
       }
      }
@@ -156,6 +192,7 @@
      "filename":"I1KG812800016.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"7b"
       }
      }
@@ -164,6 +201,7 @@
      "filename":"I1KG812800017.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"8a"
       }
      }
@@ -172,6 +210,7 @@
      "filename":"I1KG812800018.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"8b"
       }
      }
@@ -180,6 +219,7 @@
      "filename":"I1KG812800019.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"9a"
       }
      }
@@ -188,6 +228,7 @@
      "filename":"I1KG812800020.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"9b"
       }
      }
@@ -196,6 +237,7 @@
      "filename":"I1KG812800021.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"10a"
       }
      }
@@ -204,6 +246,7 @@
      "filename":"I1KG812800022.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"10b"
       }
      }
@@ -212,6 +255,7 @@
      "filename":"I1KG812800023.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"11a"
       }
      }
@@ -220,6 +264,7 @@
      "filename":"I1KG812800024.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"11b"
       }
      }
@@ -228,6 +273,7 @@
      "filename":"I1KG812800025.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"12a"
       }
      }
@@ -236,6 +282,7 @@
      "filename":"I1KG812800026.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"12b"
       }
      }
@@ -244,6 +291,7 @@
      "filename":"I1KG812800027.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"13a"
       }
      }
@@ -252,6 +300,7 @@
      "filename":"I1KG812800028.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"13b"
       }
      }
@@ -260,6 +309,7 @@
      "filename":"I1KG812800029.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"14a"
       }
      }
@@ -268,6 +318,7 @@
      "filename":"I1KG812800030.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"14b"
       }
      }
@@ -276,6 +327,7 @@
      "filename":"I1KG812800031.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"15a"
       }
      }
@@ -284,6 +336,7 @@
      "filename":"I1KG812800032.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"15b"
       }
      }
@@ -292,6 +345,7 @@
      "filename":"I1KG812800033.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"16a"
       }
      }
@@ -300,6 +354,7 @@
      "filename":"I1KG812800034.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"16b"
       }
      }
@@ -308,6 +363,7 @@
      "filename":"I1KG812800035.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"17a"
       }
      }
@@ -316,6 +372,7 @@
      "filename":"I1KG812800036.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"17b"
       }
      }
@@ -324,6 +381,7 @@
      "filename":"I1KG812800037.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"18a"
       }
      }
@@ -332,6 +390,7 @@
      "filename":"I1KG812800038.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"18b"
       }
      }
@@ -340,6 +399,7 @@
      "filename":"I1KG812800039.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"19a"
       }
      }
@@ -348,6 +408,7 @@
      "filename":"I1KG812800040.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"19b"
       }
      }
@@ -356,6 +417,7 @@
      "filename":"I1KG812800041.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"20a"
       }
      }
@@ -364,6 +426,7 @@
      "filename":"I1KG812800042.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"20b"
       }
      }
@@ -372,6 +435,7 @@
      "filename":"I1KG812800043.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"21a"
       }
      }
@@ -380,6 +444,7 @@
      "filename":"I1KG812800044.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"21b"
       }
      }
@@ -388,6 +453,7 @@
      "filename":"I1KG812800045.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"22a"
       }
      }
@@ -396,6 +462,7 @@
      "filename":"I1KG812800046.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"22b"
       }
      }
@@ -404,6 +471,7 @@
      "filename":"I1KG812800047.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"23a"
       }
      }
@@ -412,6 +480,7 @@
      "filename":"I1KG812800048.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"23b"
       }
      }
@@ -420,6 +489,7 @@
      "filename":"I1KG812800049.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"24a"
       }
      }
@@ -428,6 +498,7 @@
      "filename":"I1KG812800050.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"24b"
       }
      }
@@ -436,6 +507,7 @@
      "filename":"I1KG812800051.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"25a"
       }
      }
@@ -444,6 +516,7 @@
      "filename":"I1KG812800052.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"25b"
       }
      }
@@ -452,6 +525,7 @@
      "filename":"I1KG812800053.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"26a"
       }
      }
@@ -460,6 +534,7 @@
      "filename":"I1KG812800054.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"26b"
       }
      }
@@ -468,6 +543,7 @@
      "filename":"I1KG812800055.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"27a"
       }
      }
@@ -476,6 +552,7 @@
      "filename":"I1KG812800056.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"27b"
       }
      }
@@ -484,6 +561,7 @@
      "filename":"I1KG812800057.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"28a"
       }
      }
@@ -492,6 +570,7 @@
      "filename":"I1KG812800058.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"28b"
       }
      }
@@ -500,6 +579,7 @@
      "filename":"I1KG812800059.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"29a"
       }
      }
@@ -508,6 +588,7 @@
      "filename":"I1KG812800060.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"29b"
       }
      }
@@ -516,6 +597,7 @@
      "filename":"I1KG812800061.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"30a"
       }
      }
@@ -524,6 +606,7 @@
      "filename":"I1KG812800062.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"30b"
       }
      }
@@ -532,6 +615,7 @@
      "filename":"I1KG812800063.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"31a"
       }
      }
@@ -540,6 +624,7 @@
      "filename":"I1KG812800064.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"31b"
       }
      }
@@ -548,6 +633,7 @@
      "filename":"I1KG812800065.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"32a"
       }
      }
@@ -556,6 +642,7 @@
      "filename":"I1KG812800066.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"32b"
       }
      }
@@ -564,6 +651,7 @@
      "filename":"I1KG812800067.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"33a"
       }
      }
@@ -572,6 +660,7 @@
      "filename":"I1KG812800068.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"33b"
       }
      }
@@ -580,6 +669,7 @@
      "filename":"I1KG812800069.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"34a"
       }
      }
@@ -588,6 +678,7 @@
      "filename":"I1KG812800070.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"34b"
       }
      }
@@ -596,6 +687,7 @@
      "filename":"I1KG812800071.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"35a"
       }
      }
@@ -604,6 +696,7 @@
      "filename":"I1KG812800072.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"35b"
       }
      }
@@ -612,6 +705,7 @@
      "filename":"I1KG812800073.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"36a"
       }
      }
@@ -620,6 +714,7 @@
      "filename":"I1KG812800074.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"36b"
       }
      }
@@ -628,6 +723,7 @@
      "filename":"I1KG812800075.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"37a"
       }
      }
@@ -636,6 +732,7 @@
      "filename":"I1KG812800076.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"37b"
       }
      }
@@ -644,6 +741,7 @@
      "filename":"I1KG812800077.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"38a"
       }
      }
@@ -652,6 +750,7 @@
      "filename":"I1KG812800078.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"38b"
       }
      }
@@ -660,6 +759,7 @@
      "filename":"I1KG812800079.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"39a"
       }
      }
@@ -668,6 +768,7 @@
      "filename":"I1KG812800080.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"39b"
       }
      }
@@ -676,6 +777,7 @@
      "filename":"I1KG812800081.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"40a"
       }
      }
@@ -684,6 +786,7 @@
      "filename":"I1KG812800082.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"40b"
       }
      }
@@ -692,6 +795,7 @@
      "filename":"I1KG812800083.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"41a"
       }
      }
@@ -700,6 +804,7 @@
      "filename":"I1KG812800084.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"41b"
       }
      }
@@ -708,6 +813,7 @@
      "filename":"I1KG812800085.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"42a"
       }
      }
@@ -716,6 +822,7 @@
      "filename":"I1KG812800086.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"42b"
       }
      }
@@ -724,6 +831,7 @@
      "filename":"I1KG812800087.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"43a"
       }
      }
@@ -732,6 +840,7 @@
      "filename":"I1KG812800088.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"43b"
       }
      }
@@ -740,6 +849,7 @@
      "filename":"I1KG812800089.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"44a"
       }
      }
@@ -748,6 +858,7 @@
      "filename":"I1KG812800090.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"44b"
       }
      }
@@ -756,6 +867,7 @@
      "filename":"I1KG812800091.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"45a"
       }
      }
@@ -764,6 +876,7 @@
      "filename":"I1KG812800092.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"45b"
       }
      }
@@ -772,6 +885,7 @@
      "filename":"I1KG812800093.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"46a"
       }
      }
@@ -780,6 +894,7 @@
      "filename":"I1KG812800094.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"46b"
       }
      }
@@ -788,6 +903,7 @@
      "filename":"I1KG812800095.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"47a"
       }
      }
@@ -796,6 +912,7 @@
      "filename":"I1KG812800096.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"47b"
       }
      }
@@ -804,6 +921,7 @@
      "filename":"I1KG812800097.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"48a"
       }
      }
@@ -812,6 +930,7 @@
      "filename":"I1KG812800098.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"48b"
       }
      }
@@ -820,6 +939,7 @@
      "filename":"I1KG812800099.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"49a"
       }
      }
@@ -828,6 +948,7 @@
      "filename":"I1KG812800100.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"49b"
       }
      }
@@ -836,6 +957,7 @@
      "filename":"I1KG812800101.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"50a"
       }
      }
@@ -844,6 +966,7 @@
      "filename":"I1KG812800102.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"50b"
       }
      }
@@ -852,6 +975,7 @@
      "filename":"I1KG812800103.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"51a"
       }
      }
@@ -860,6 +984,7 @@
      "filename":"I1KG812800104.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"51b"
       }
      }
@@ -868,6 +993,7 @@
      "filename":"I1KG812800105.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"52a"
       }
      }
@@ -876,6 +1002,7 @@
      "filename":"I1KG812800106.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"52b"
       }
      }
@@ -884,6 +1011,7 @@
      "filename":"I1KG812800107.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"53a"
       }
      }
@@ -892,6 +1020,7 @@
      "filename":"I1KG812800108.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"53b"
       }
      }
@@ -900,6 +1029,7 @@
      "filename":"I1KG812800109.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"54a"
       }
      }
@@ -908,6 +1038,7 @@
      "filename":"I1KG812800110.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"54b"
       }
      }
@@ -916,6 +1047,7 @@
      "filename":"I1KG812800111.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"55a"
       }
      }
@@ -924,6 +1056,7 @@
      "filename":"I1KG812800112.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"55b"
       }
      }
@@ -932,6 +1065,7 @@
      "filename":"I1KG812800113.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"56a"
       }
      }
@@ -940,6 +1074,7 @@
      "filename":"I1KG812800114.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"56b"
       }
      }
@@ -948,6 +1083,7 @@
      "filename":"I1KG812800115.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"57a"
       }
      }
@@ -956,6 +1092,7 @@
      "filename":"I1KG812800116.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"57b"
       }
      }
@@ -964,6 +1101,7 @@
      "filename":"I1KG812800117.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"58a"
       }
      }
@@ -972,6 +1110,7 @@
      "filename":"I1KG812800118.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"58b"
       }
      }
@@ -980,6 +1119,7 @@
      "filename":"I1KG812800119.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"59a"
       }
      }
@@ -988,6 +1128,7 @@
      "filename":"I1KG812800120.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"59b"
       }
      }
@@ -996,6 +1137,7 @@
      "filename":"I1KG812800121.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"60a"
       }
      }
@@ -1004,6 +1146,7 @@
      "filename":"I1KG812800122.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"60b"
       }
      }
@@ -1012,6 +1155,7 @@
      "filename":"I1KG812800123.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"61a"
       }
      }
@@ -1020,6 +1164,7 @@
      "filename":"I1KG812800124.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"61b"
       }
      }
@@ -1028,6 +1173,7 @@
      "filename":"I1KG812800125.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"62a"
       }
      }
@@ -1036,6 +1182,7 @@
      "filename":"I1KG812800126.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"62b"
       }
      }
@@ -1044,6 +1191,7 @@
      "filename":"I1KG812800127.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"63a"
       }
      }
@@ -1052,6 +1200,7 @@
      "filename":"I1KG812800128.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"63b"
       }
      }
@@ -1060,6 +1209,7 @@
      "filename":"I1KG812800129.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"64a"
       }
      }
@@ -1068,6 +1218,7 @@
      "filename":"I1KG812800130.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"64b"
       }
      }
@@ -1076,7 +1227,8 @@
      "filename":"I1KG812800131.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"65a"
+       "section":"1",
+       "value":"66a"
       }
      }
     },
@@ -1084,7 +1236,8 @@
      "filename":"I1KG812800132.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"65b"
+       "section":"1",
+       "value":"66b"
       }
      }
     },
@@ -1092,7 +1245,8 @@
      "filename":"I1KG812800133.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"66a"
+       "section":"1",
+       "value":"67a"
       }
      }
     },
@@ -1100,7 +1254,8 @@
      "filename":"I1KG812800134.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"66b"
+       "section":"1",
+       "value":"67b"
       }
      }
     },
@@ -1108,7 +1263,8 @@
      "filename":"I1KG812800135.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"67a"
+       "section":"1",
+       "value":"68a"
       }
      }
     },
@@ -1116,7 +1272,8 @@
      "filename":"I1KG812800136.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"67b"
+       "section":"1",
+       "value":"68b"
       }
      }
     },
@@ -1124,7 +1281,8 @@
      "filename":"I1KG812800137.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"68a"
+       "section":"1",
+       "value":"68'a"
       }
      }
     },
@@ -1132,7 +1290,8 @@
      "filename":"I1KG812800138.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"68b"
+       "section":"1",
+       "value":"68'b"
       }
      }
     },
@@ -1140,6 +1299,7 @@
      "filename":"I1KG812800139.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"69a"
       }
      }
@@ -1148,6 +1308,7 @@
      "filename":"I1KG812800140.jpg",
      "pagination":{
       "pgfolios":{
+       "section":"1",
        "value":"69b"
       }
      }
@@ -1156,7 +1317,8 @@
      "filename":"I1KG812800141.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"70a"
+       "section":"1",
+       "value":"69'a"
       }
      }
     },
@@ -1164,7 +1326,8 @@
      "filename":"I1KG812800142.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"70b"
+       "section":"1",
+       "value":"69'b"
       }
      }
     },
@@ -1172,7 +1335,8 @@
      "filename":"I1KG812800143.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"71a"
+       "section":"1",
+       "value":"70a"
       }
      }
     },
@@ -1180,7 +1344,8 @@
      "filename":"I1KG812800144.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"71b"
+       "section":"1",
+       "value":"70b"
       }
      }
     },
@@ -1188,7 +1353,8 @@
      "filename":"I1KG812800145.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"72a"
+       "section":"1",
+       "value":"71a"
       }
      }
     },
@@ -1196,7 +1362,8 @@
      "filename":"I1KG812800146.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"72b"
+       "section":"1",
+       "value":"71b"
       }
      }
     },
@@ -1204,7 +1371,8 @@
      "filename":"I1KG812800147.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"73a"
+       "section":"1",
+       "value":"72a"
       }
      }
     },
@@ -1212,7 +1380,8 @@
      "filename":"I1KG812800148.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"73b"
+       "section":"1",
+       "value":"72b"
       }
      }
     },
@@ -1220,7 +1389,8 @@
      "filename":"I1KG812800149.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"74a"
+       "section":"1",
+       "value":"73a"
       }
      }
     },
@@ -1228,7 +1398,8 @@
      "filename":"I1KG812800150.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"74b"
+       "section":"1",
+       "value":"73b"
       }
      }
     },
@@ -1236,7 +1407,8 @@
      "filename":"I1KG812800151.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"75a"
+       "section":"1",
+       "value":"74a"
       }
      }
     },
@@ -1244,7 +1416,8 @@
      "filename":"I1KG812800152.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"75b"
+       "section":"1",
+       "value":"74b"
       }
      }
     },
@@ -1252,7 +1425,8 @@
      "filename":"I1KG812800153.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"76a"
+       "section":"1",
+       "value":"75a"
       }
      }
     },
@@ -1260,7 +1434,8 @@
      "filename":"I1KG812800154.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"76b"
+       "section":"1",
+       "value":"75b"
       }
      }
     },
@@ -1268,7 +1443,8 @@
      "filename":"I1KG812800155.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"77a"
+       "section":"1",
+       "value":"76a"
       }
      }
     },
@@ -1276,7 +1452,8 @@
      "filename":"I1KG812800156.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"77b"
+       "section":"1",
+       "value":"76b"
       }
      }
     },
@@ -1284,7 +1461,8 @@
      "filename":"I1KG812800157.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"78a"
+       "section":"1",
+       "value":"77a"
       }
      }
     },
@@ -1292,7 +1470,8 @@
      "filename":"I1KG812800158.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"78b"
+       "section":"1",
+       "value":"77b"
       }
      }
     },
@@ -1300,7 +1479,8 @@
      "filename":"I1KG812800159.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"79a"
+       "section":"1",
+       "value":"78a"
       }
      }
     },
@@ -1308,7 +1488,8 @@
      "filename":"I1KG812800160.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"79b"
+       "section":"1",
+       "value":"78b"
       }
      }
     },
@@ -1316,7 +1497,8 @@
      "filename":"I1KG812800161.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"80a"
+       "section":"1",
+       "value":"79a"
       }
      }
     },
@@ -1324,7 +1506,8 @@
      "filename":"I1KG812800162.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"80b"
+       "section":"1",
+       "value":"79b"
       }
      }
     },
@@ -1332,7 +1515,8 @@
      "filename":"I1KG812800163.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"81a"
+       "section":"1",
+       "value":"80a"
       }
      }
     },
@@ -1340,7 +1524,8 @@
      "filename":"I1KG812800164.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"81b"
+       "section":"1",
+       "value":"80b"
       }
      }
     },
@@ -1348,7 +1533,8 @@
      "filename":"I1KG812800165.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"82a"
+       "section":"1",
+       "value":"81a"
       }
      }
     },
@@ -1356,7 +1542,8 @@
      "filename":"I1KG812800166.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"82b"
+       "section":"1",
+       "value":"81b"
       }
      }
     },
@@ -1364,7 +1551,8 @@
      "filename":"I1KG812800167.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"83a"
+       "section":"2",
+       "value":"1a"
       }
      }
     },
@@ -1372,7 +1560,8 @@
      "filename":"I1KG812800168.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"83b"
+       "section":"2",
+       "value":"1b"
       }
      }
     },
@@ -1380,7 +1569,8 @@
      "filename":"I1KG812800169.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"84a"
+       "section":"2",
+       "value":"2a"
       }
      }
     },
@@ -1388,7 +1578,8 @@
      "filename":"I1KG812800170.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"84b"
+       "section":"2",
+       "value":"2b"
       }
      }
     },
@@ -1396,7 +1587,8 @@
      "filename":"I1KG812800171.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"85a"
+       "section":"2",
+       "value":"3a"
       }
      }
     },
@@ -1404,7 +1596,8 @@
      "filename":"I1KG812800172.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"85b"
+       "section":"2",
+       "value":"3b"
       }
      }
     },
@@ -1412,7 +1605,8 @@
      "filename":"I1KG812800173.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"86a"
+       "section":"2",
+       "value":"4a"
       }
      }
     },
@@ -1420,7 +1614,8 @@
      "filename":"I1KG812800174.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"86b"
+       "section":"2",
+       "value":"4b"
       }
      }
     },
@@ -1428,7 +1623,8 @@
      "filename":"I1KG812800175.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"87a"
+       "section":"2",
+       "value":"5a"
       }
      }
     },
@@ -1436,7 +1632,8 @@
      "filename":"I1KG812800176.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"87b"
+       "section":"2",
+       "value":"5b"
       }
      }
     },
@@ -1444,7 +1641,8 @@
      "filename":"I1KG812800177.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"88a"
+       "section":"2",
+       "value":"6a"
       }
      }
     },
@@ -1452,7 +1650,8 @@
      "filename":"I1KG812800178.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"88b"
+       "section":"2",
+       "value":"6b"
       }
      }
     },
@@ -1460,7 +1659,8 @@
      "filename":"I1KG812800179.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"89a"
+       "section":"2",
+       "value":"7a"
       }
      }
     },
@@ -1468,7 +1668,8 @@
      "filename":"I1KG812800180.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"89b"
+       "section":"2",
+       "value":"7b"
       }
      }
     },
@@ -1476,7 +1677,8 @@
      "filename":"I1KG812800181.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"90a"
+       "section":"2",
+       "value":"8a"
       }
      }
     },
@@ -1484,7 +1686,8 @@
      "filename":"I1KG812800182.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"90b"
+       "section":"2",
+       "value":"8b"
       }
      }
     },
@@ -1492,7 +1695,8 @@
      "filename":"I1KG812800183.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"91a"
+       "section":"2",
+       "value":"9a"
       }
      }
     },
@@ -1500,7 +1704,8 @@
      "filename":"I1KG812800184.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"91b"
+       "section":"2",
+       "value":"9b"
       }
      }
     },
@@ -1508,7 +1713,8 @@
      "filename":"I1KG812800185.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"92a"
+       "section":"2",
+       "value":"10a"
       }
      }
     },
@@ -1516,7 +1722,8 @@
      "filename":"I1KG812800186.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"92b"
+       "section":"2",
+       "value":"10b"
       }
      }
     },
@@ -1524,7 +1731,8 @@
      "filename":"I1KG812800187.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"93a"
+       "section":"2",
+       "value":"11a"
       }
      }
     },
@@ -1532,7 +1740,8 @@
      "filename":"I1KG812800188.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"93b"
+       "section":"2",
+       "value":"11b"
       }
      }
     },
@@ -1540,7 +1749,8 @@
      "filename":"I1KG812800189.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"94a"
+       "section":"2",
+       "value":"12a"
       }
      }
     },
@@ -1548,7 +1758,8 @@
      "filename":"I1KG812800190.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"94b"
+       "section":"2",
+       "value":"12b"
       }
      }
     },
@@ -1556,7 +1767,8 @@
      "filename":"I1KG812800191.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"95a"
+       "section":"2",
+       "value":"13a"
       }
      }
     },
@@ -1564,7 +1776,8 @@
      "filename":"I1KG812800192.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"95b"
+       "section":"2",
+       "value":"13b"
       }
      }
     },
@@ -1572,7 +1785,8 @@
      "filename":"I1KG812800193.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"96a"
+       "section":"2",
+       "value":"14a"
       }
      }
     },
@@ -1580,7 +1794,8 @@
      "filename":"I1KG812800194.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"96b"
+       "section":"2",
+       "value":"14b"
       }
      }
     },
@@ -1588,7 +1803,8 @@
      "filename":"I1KG812800195.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"97a"
+       "section":"2",
+       "value":"15a"
       }
      }
     },
@@ -1596,7 +1812,8 @@
      "filename":"I1KG812800196.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"97b"
+       "section":"2",
+       "value":"15b"
       }
      }
     },
@@ -1604,7 +1821,8 @@
      "filename":"I1KG812800197.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"98a"
+       "section":"2",
+       "value":"16a"
       }
      }
     },
@@ -1612,7 +1830,8 @@
      "filename":"I1KG812800198.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"98b"
+       "section":"2",
+       "value":"16b"
       }
      }
     },
@@ -1620,7 +1839,8 @@
      "filename":"I1KG812800199.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"99a"
+       "section":"2",
+       "value":"17a"
       }
      }
     },
@@ -1628,7 +1848,8 @@
      "filename":"I1KG812800200.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"99b"
+       "section":"2",
+       "value":"17b"
       }
      }
     },
@@ -1636,7 +1857,8 @@
      "filename":"I1KG812800201.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"100a"
+       "section":"2",
+       "value":"18a"
       }
      }
     },
@@ -1644,7 +1866,8 @@
      "filename":"I1KG812800202.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"100b"
+       "section":"2",
+       "value":"18b"
       }
      }
     },
@@ -1652,7 +1875,8 @@
      "filename":"I1KG812800203.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"101a"
+       "section":"2",
+       "value":"19a"
       }
      }
     },
@@ -1660,7 +1884,8 @@
      "filename":"I1KG812800204.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"101b"
+       "section":"2",
+       "value":"19b"
       }
      }
     },
@@ -1668,7 +1893,8 @@
      "filename":"I1KG812800205.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"102a"
+       "section":"2",
+       "value":"20a"
       }
      }
     },
@@ -1676,7 +1902,8 @@
      "filename":"I1KG812800206.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"102b"
+       "section":"2",
+       "value":"20b"
       }
      }
     },
@@ -1684,7 +1911,8 @@
      "filename":"I1KG812800207.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"103a"
+       "section":"2",
+       "value":"21a"
       }
      }
     },
@@ -1692,7 +1920,8 @@
      "filename":"I1KG812800208.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"103b"
+       "section":"2",
+       "value":"21b"
       }
      }
     },
@@ -1700,7 +1929,8 @@
      "filename":"I1KG812800209.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"104a"
+       "section":"2",
+       "value":"22a"
       }
      }
     },
@@ -1708,7 +1938,8 @@
      "filename":"I1KG812800210.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"104b"
+       "section":"2",
+       "value":"22b"
       }
      }
     },
@@ -1716,7 +1947,8 @@
      "filename":"I1KG812800211.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"105a"
+       "section":"2",
+       "value":"23a"
       }
      }
     },
@@ -1724,7 +1956,8 @@
      "filename":"I1KG812800212.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"105b"
+       "section":"2",
+       "value":"23b"
       }
      }
     },
@@ -1732,7 +1965,8 @@
      "filename":"I1KG812800213.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"106a"
+       "section":"2",
+       "value":"24a"
       }
      }
     },
@@ -1740,7 +1974,8 @@
      "filename":"I1KG812800214.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"106b"
+       "section":"2",
+       "value":"24b"
       }
      }
     },
@@ -1748,7 +1983,8 @@
      "filename":"I1KG812800215.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"107a"
+       "section":"2",
+       "value":"25a"
       }
      }
     },
@@ -1756,7 +1992,8 @@
      "filename":"I1KG812800216.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"107b"
+       "section":"2",
+       "value":"25b"
       }
      }
     },
@@ -1764,7 +2001,8 @@
      "filename":"I1KG812800217.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"108a"
+       "section":"2",
+       "value":"26a"
       }
      }
     },
@@ -1772,7 +2010,8 @@
      "filename":"I1KG812800218.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"108b"
+       "section":"2",
+       "value":"26b"
       }
      }
     },
@@ -1780,7 +2019,8 @@
      "filename":"I1KG812800219.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"109a"
+       "section":"2",
+       "value":"27a"
       }
      }
     },
@@ -1788,7 +2028,8 @@
      "filename":"I1KG812800220.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"109b"
+       "section":"2",
+       "value":"27b"
       }
      }
     },
@@ -1796,7 +2037,8 @@
      "filename":"I1KG812800221.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"110a"
+       "section":"2",
+       "value":"28a"
       }
      }
     },
@@ -1804,7 +2046,8 @@
      "filename":"I1KG812800222.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"110b"
+       "section":"2",
+       "value":"28b"
       }
      }
     },
@@ -1812,7 +2055,8 @@
      "filename":"I1KG812800223.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"111a"
+       "section":"2",
+       "value":"29a"
       }
      }
     },
@@ -1820,7 +2064,8 @@
      "filename":"I1KG812800224.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"111b"
+       "section":"2",
+       "value":"29b"
       }
      }
     },
@@ -1828,7 +2073,8 @@
      "filename":"I1KG812800225.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"112a"
+       "section":"2",
+       "value":"30a"
       }
      }
     },
@@ -1836,7 +2082,8 @@
      "filename":"I1KG812800226.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"112b"
+       "section":"2",
+       "value":"30b"
       }
      }
     },
@@ -1844,7 +2091,8 @@
      "filename":"I1KG812800227.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"113a"
+       "section":"2",
+       "value":"31a"
       }
      }
     },
@@ -1852,7 +2100,8 @@
      "filename":"I1KG812800228.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"113b"
+       "section":"2",
+       "value":"31b"
       }
      }
     },
@@ -1860,7 +2109,8 @@
      "filename":"I1KG812800229.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"114a"
+       "section":"2",
+       "value":"32a"
       }
      }
     },
@@ -1868,7 +2118,8 @@
      "filename":"I1KG812800230.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"114b"
+       "section":"2",
+       "value":"32b"
       }
      }
     },
@@ -1876,7 +2127,8 @@
      "filename":"I1KG812800231.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"115a"
+       "section":"2",
+       "value":"33a"
       }
      }
     },
@@ -1884,7 +2136,8 @@
      "filename":"I1KG812800232.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"115b"
+       "section":"2",
+       "value":"33b"
       }
      }
     },
@@ -1892,7 +2145,8 @@
      "filename":"I1KG812800233.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"116a"
+       "section":"2",
+       "value":"34a"
       }
      }
     },
@@ -1900,7 +2154,8 @@
      "filename":"I1KG812800234.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"116b"
+       "section":"2",
+       "value":"34b"
       }
      }
     },
@@ -1908,7 +2163,8 @@
      "filename":"I1KG812800235.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"117a"
+       "section":"2",
+       "value":"35a"
       }
      }
     },
@@ -1916,7 +2172,8 @@
      "filename":"I1KG812800236.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"117b"
+       "section":"2",
+       "value":"35b"
       }
      }
     },
@@ -1924,7 +2181,8 @@
      "filename":"I1KG812800237.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"118a"
+       "section":"2",
+       "value":"36a"
       }
      }
     },
@@ -1932,7 +2190,8 @@
      "filename":"I1KG812800238.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"118b"
+       "section":"2",
+       "value":"36b"
       }
      }
     },
@@ -1940,7 +2199,8 @@
      "filename":"I1KG812800239.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"119a"
+       "section":"2",
+       "value":"37a"
       }
      }
     },
@@ -1948,7 +2208,8 @@
      "filename":"I1KG812800240.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"119b"
+       "section":"2",
+       "value":"37b"
       }
      }
     },
@@ -1956,7 +2217,8 @@
      "filename":"I1KG812800241.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"120a"
+       "section":"2",
+       "value":"38a"
       }
      }
     },
@@ -1964,7 +2226,8 @@
      "filename":"I1KG812800242.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"120b"
+       "section":"2",
+       "value":"38b"
       }
      }
     },
@@ -1972,7 +2235,8 @@
      "filename":"I1KG812800243.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"121a"
+       "section":"2",
+       "value":"39a"
       }
      }
     },
@@ -1980,7 +2244,8 @@
      "filename":"I1KG812800244.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"121b"
+       "section":"2",
+       "value":"39b"
       }
      }
     },
@@ -1988,7 +2253,8 @@
      "filename":"I1KG812800245.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"122a"
+       "section":"2",
+       "value":"40a"
       }
      }
     },
@@ -1996,7 +2262,8 @@
      "filename":"I1KG812800246.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"122b"
+       "section":"2",
+       "value":"40b"
       }
      }
     },
@@ -2004,7 +2271,8 @@
      "filename":"I1KG812800247.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"123a"
+       "section":"2",
+       "value":"41a"
       }
      }
     },
@@ -2012,7 +2280,8 @@
      "filename":"I1KG812800248.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"123b"
+       "section":"2",
+       "value":"41b"
       }
      }
     },
@@ -2020,7 +2289,8 @@
      "filename":"I1KG812800249.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"124a"
+       "section":"2",
+       "value":"42a"
       }
      }
     },
@@ -2028,7 +2298,8 @@
      "filename":"I1KG812800250.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"124b"
+       "section":"2",
+       "value":"42b"
       }
      }
     },
@@ -2036,7 +2307,8 @@
      "filename":"I1KG812800251.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"125a"
+       "section":"2",
+       "value":"43a"
       }
      }
     },
@@ -2044,7 +2316,8 @@
      "filename":"I1KG812800252.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"125b"
+       "section":"2",
+       "value":"43b"
       }
      }
     },
@@ -2052,7 +2325,8 @@
      "filename":"I1KG812800253.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"126a"
+       "section":"2",
+       "value":"44a"
       }
      }
     },
@@ -2060,7 +2334,8 @@
      "filename":"I1KG812800254.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"126b"
+       "section":"2",
+       "value":"44b"
       }
      }
     },
@@ -2068,7 +2343,8 @@
      "filename":"I1KG812800255.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"127a"
+       "section":"2",
+       "value":"45a"
       }
      }
     },
@@ -2076,7 +2352,8 @@
      "filename":"I1KG812800256.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"127b"
+       "section":"2",
+       "value":"45b"
       }
      }
     },
@@ -2084,7 +2361,8 @@
      "filename":"I1KG812800257.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"128a"
+       "section":"2",
+       "value":"46a"
       }
      }
     },
@@ -2092,7 +2370,8 @@
      "filename":"I1KG812800258.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"128b"
+       "section":"2",
+       "value":"46b"
       }
      }
     },
@@ -2100,7 +2379,8 @@
      "filename":"I1KG812800259.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"129a"
+       "section":"2",
+       "value":"47a"
       }
      }
     },
@@ -2108,7 +2388,8 @@
      "filename":"I1KG812800260.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"129b"
+       "section":"2",
+       "value":"47b"
       }
      }
     },
@@ -2116,7 +2397,8 @@
      "filename":"I1KG812800261.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"130a"
+       "section":"2",
+       "value":"48a"
       }
      }
     },
@@ -2124,7 +2406,8 @@
      "filename":"I1KG812800262.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"130b"
+       "section":"2",
+       "value":"48b"
       }
      }
     },
@@ -2132,7 +2415,8 @@
      "filename":"I1KG812800263.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"131a"
+       "section":"2",
+       "value":"49a"
       }
      }
     },
@@ -2140,7 +2424,8 @@
      "filename":"I1KG812800264.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"131b"
+       "section":"2",
+       "value":"49b"
       }
      }
     },
@@ -2148,7 +2433,8 @@
      "filename":"I1KG812800265.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"132a"
+       "section":"2",
+       "value":"50a"
       }
      }
     },
@@ -2156,7 +2442,8 @@
      "filename":"I1KG812800266.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"132b"
+       "section":"2",
+       "value":"50b"
       }
      }
     },
@@ -2164,7 +2451,8 @@
      "filename":"I1KG812800267.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"133a"
+       "section":"2",
+       "value":"51a"
       }
      }
     },
@@ -2172,7 +2460,8 @@
      "filename":"I1KG812800268.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"133b"
+       "section":"2",
+       "value":"51b"
       }
      }
     },
@@ -2180,7 +2469,8 @@
      "filename":"I1KG812800269.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"134a"
+       "section":"2",
+       "value":"52a"
       }
      }
     },
@@ -2188,7 +2478,8 @@
      "filename":"I1KG812800270.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"134b"
+       "section":"2",
+       "value":"52b"
       }
      }
     },
@@ -2196,7 +2487,8 @@
      "filename":"I1KG812800271.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"135a"
+       "section":"2",
+       "value":"53a"
       }
      }
     },
@@ -2204,7 +2496,8 @@
      "filename":"I1KG812800272.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"135b"
+       "section":"2",
+       "value":"53b"
       }
      }
     },
@@ -2212,7 +2505,8 @@
      "filename":"I1KG812800273.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"136a"
+       "section":"2",
+       "value":"54a"
       }
      }
     },
@@ -2220,7 +2514,8 @@
      "filename":"I1KG812800274.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"136b"
+       "section":"2",
+       "value":"54b"
       }
      }
     },
@@ -2228,7 +2523,8 @@
      "filename":"I1KG812800275.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"137a"
+       "section":"2",
+       "value":"55a"
       }
      }
     },
@@ -2236,7 +2532,8 @@
      "filename":"I1KG812800276.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"137b"
+       "section":"2",
+       "value":"55b"
       }
      }
     },
@@ -2244,7 +2541,8 @@
      "filename":"I1KG812800277.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"138a"
+       "section":"2",
+       "value":"56a"
       }
      }
     },
@@ -2252,7 +2550,8 @@
      "filename":"I1KG812800278.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"138b"
+       "section":"2",
+       "value":"56b"
       }
      }
     },
@@ -2260,7 +2559,8 @@
      "filename":"I1KG812800279.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"139a"
+       "section":"2",
+       "value":"57a"
       }
      }
     },
@@ -2268,7 +2568,8 @@
      "filename":"I1KG812800280.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"139b"
+       "section":"2",
+       "value":"57b"
       }
      }
     },
@@ -2276,7 +2577,8 @@
      "filename":"I1KG812800281.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"140a"
+       "section":"2",
+       "value":"58a"
       }
      }
     },
@@ -2284,7 +2586,8 @@
      "filename":"I1KG812800282.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"140b"
+       "section":"2",
+       "value":"58b"
       }
      }
     },
@@ -2292,7 +2595,8 @@
      "filename":"I1KG812800283.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"141a"
+       "section":"2",
+       "value":"59a"
       }
      }
     },
@@ -2300,7 +2604,8 @@
      "filename":"I1KG812800284.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"141b"
+       "section":"2",
+       "value":"59b"
       }
      }
     },
@@ -2308,7 +2613,8 @@
      "filename":"I1KG812800285.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"142a"
+       "section":"2",
+       "value":"60a"
       }
      }
     },
@@ -2316,7 +2622,8 @@
      "filename":"I1KG812800286.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"142b"
+       "section":"2",
+       "value":"60b"
       }
      }
     },
@@ -2324,7 +2631,8 @@
      "filename":"I1KG812800287.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"143a"
+       "section":"2",
+       "value":"61a"
       }
      }
     },
@@ -2332,7 +2640,8 @@
      "filename":"I1KG812800288.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"143b"
+       "section":"2",
+       "value":"61b"
       }
      }
     },
@@ -2340,7 +2649,8 @@
      "filename":"I1KG812800289.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"144a"
+       "section":"2",
+       "value":"62a"
       }
      }
     },
@@ -2348,7 +2658,8 @@
      "filename":"I1KG812800290.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"144b"
+       "section":"2",
+       "value":"62b"
       }
      }
     },
@@ -2356,7 +2667,8 @@
      "filename":"I1KG812800291.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"145a"
+       "section":"2",
+       "value":"63a"
       }
      }
     },
@@ -2364,7 +2676,8 @@
      "filename":"I1KG812800292.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"145b"
+       "section":"2",
+       "value":"63b"
       }
      }
     },
@@ -2372,7 +2685,8 @@
      "filename":"I1KG812800293.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"146a"
+       "section":"2",
+       "value":"64a"
       }
      }
     },
@@ -2380,7 +2694,8 @@
      "filename":"I1KG812800294.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"146b"
+       "section":"2",
+       "value":"64b"
       }
      }
     },
@@ -2388,7 +2703,8 @@
      "filename":"I1KG812800295.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"147a"
+       "section":"2",
+       "value":"65a"
       }
      }
     },
@@ -2396,7 +2712,8 @@
      "filename":"I1KG812800296.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"147b"
+       "section":"2",
+       "value":"65b"
       }
      }
     },
@@ -2404,7 +2721,8 @@
      "filename":"I1KG812800297.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"148a"
+       "section":"2",
+       "value":"66a"
       }
      }
     },
@@ -2412,7 +2730,8 @@
      "filename":"I1KG812800298.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"148b"
+       "section":"2",
+       "value":"66b"
       }
      }
     },
@@ -2420,7 +2739,8 @@
      "filename":"I1KG812800299.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"149a"
+       "section":"2",
+       "value":"67a"
       }
      }
     },
@@ -2428,7 +2748,8 @@
      "filename":"I1KG812800300.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"149b"
+       "section":"2",
+       "value":"67b"
       }
      }
     },
@@ -2436,7 +2757,8 @@
      "filename":"I1KG812800301.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"150a"
+       "section":"2",
+       "value":"68a"
       }
      }
     },
@@ -2444,7 +2766,8 @@
      "filename":"I1KG812800302.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"150b"
+       "section":"2",
+       "value":"68b"
       }
      }
     },
@@ -2452,7 +2775,8 @@
      "filename":"I1KG812800303.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"151a"
+       "section":"2",
+       "value":"69a"
       }
      }
     },
@@ -2460,7 +2784,8 @@
      "filename":"I1KG812800304.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"151b"
+       "section":"2",
+       "value":"69b"
       }
      }
     },
@@ -2468,7 +2793,8 @@
      "filename":"I1KG812800305.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"152a"
+       "section":"2",
+       "value":"70a"
       }
      }
     },
@@ -2476,7 +2802,8 @@
      "filename":"I1KG812800306.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"152b"
+       "section":"2",
+       "value":"70b"
       }
      }
     },
@@ -2484,7 +2811,8 @@
      "filename":"I1KG812800307.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"153a"
+       "section":"2",
+       "value":"71a"
       }
      }
     },
@@ -2492,7 +2820,8 @@
      "filename":"I1KG812800308.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"153b"
+       "section":"2",
+       "value":"71b"
       }
      }
     },
@@ -2500,7 +2829,8 @@
      "filename":"I1KG812800309.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"154a"
+       "section":"2",
+       "value":"72a"
       }
      }
     },
@@ -2508,7 +2838,8 @@
      "filename":"I1KG812800310.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"154b"
+       "section":"2",
+       "value":"72b"
       }
      }
     },
@@ -2516,7 +2847,8 @@
      "filename":"I1KG812800311.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"155a"
+       "section":"2",
+       "value":"73a"
       }
      }
     },
@@ -2524,7 +2856,8 @@
      "filename":"I1KG812800312.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"155b"
+       "section":"2",
+       "value":"73b"
       }
      }
     },
@@ -2532,7 +2865,8 @@
      "filename":"I1KG812800313.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"156a"
+       "section":"2",
+       "value":"74a"
       }
      }
     },
@@ -2540,7 +2874,8 @@
      "filename":"I1KG812800314.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"156b"
+       "section":"2",
+       "value":"74b"
       }
      }
     },
@@ -2548,7 +2883,8 @@
      "filename":"I1KG812800315.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"157a"
+       "section":"2",
+       "value":"75a"
       }
      }
     },
@@ -2556,7 +2892,8 @@
      "filename":"I1KG812800316.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"157b"
+       "section":"2",
+       "value":"75b"
       }
      }
     },
@@ -2564,7 +2901,8 @@
      "filename":"I1KG812800317.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"158a"
+       "section":"2",
+       "value":"76a"
       }
      }
     },
@@ -2572,7 +2910,8 @@
      "filename":"I1KG812800318.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"158b"
+       "section":"2",
+       "value":"76b"
       }
      }
     },
@@ -2580,7 +2919,8 @@
      "filename":"I1KG812800319.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"159a"
+       "section":"2",
+       "value":"77a"
       }
      }
     },
@@ -2588,7 +2928,8 @@
      "filename":"I1KG812800320.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"159b"
+       "section":"2",
+       "value":"77b"
       }
      }
     },
@@ -2596,7 +2937,8 @@
      "filename":"I1KG812800321.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"160a"
+       "section":"2",
+       "value":"78a"
       }
      }
     },
@@ -2604,7 +2946,8 @@
      "filename":"I1KG812800322.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"160b"
+       "section":"2",
+       "value":"78b"
       }
      }
     },
@@ -2612,7 +2955,8 @@
      "filename":"I1KG812800323.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"161a"
+       "section":"2",
+       "value":"79a"
       }
      }
     },
@@ -2620,7 +2964,8 @@
      "filename":"I1KG812800324.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"161b"
+       "section":"2",
+       "value":"79b"
       }
      }
     },
@@ -2628,7 +2973,8 @@
      "filename":"I1KG812800325.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"162a"
+       "section":"2",
+       "value":"80a"
       }
      }
     },
@@ -2636,7 +2982,8 @@
      "filename":"I1KG812800326.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"162b"
+       "section":"2",
+       "value":"80b"
       }
      }
     },
@@ -2644,7 +2991,8 @@
      "filename":"I1KG812800327.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"163a"
+       "section":"2",
+       "value":"81a"
       }
      }
     },
@@ -2652,7 +3000,8 @@
      "filename":"I1KG812800328.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"163b"
+       "section":"2",
+       "value":"81b"
       }
      }
     },
@@ -2660,7 +3009,8 @@
      "filename":"I1KG812800329.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"164a"
+       "section":"2",
+       "value":"82a"
       }
      }
     },
@@ -2668,7 +3018,8 @@
      "filename":"I1KG812800330.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"164b"
+       "section":"2",
+       "value":"82b"
       }
      }
     },
@@ -2676,7 +3027,8 @@
      "filename":"I1KG812800331.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"165a"
+       "section":"2",
+       "value":"83a"
       }
      }
     },
@@ -2684,7 +3036,8 @@
      "filename":"I1KG812800332.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"165b"
+       "section":"2",
+       "value":"83b"
       }
      }
     },
@@ -2692,7 +3045,8 @@
      "filename":"I1KG812800333.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"166a"
+       "section":"2",
+       "value":"84a"
       }
      }
     },
@@ -2700,7 +3054,8 @@
      "filename":"I1KG812800334.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"166b"
+       "section":"2",
+       "value":"84b"
       }
      }
     },
@@ -2708,7 +3063,8 @@
      "filename":"I1KG812800335.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"167a"
+       "section":"2",
+       "value":"85a"
       }
      }
     },
@@ -2716,7 +3072,8 @@
      "filename":"I1KG812800336.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"167b"
+       "section":"2",
+       "value":"85b"
       }
      }
     },
@@ -2724,7 +3081,8 @@
      "filename":"I1KG812800337.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"168a"
+       "section":"2",
+       "value":"86a"
       }
      }
     },
@@ -2732,7 +3090,8 @@
      "filename":"I1KG812800338.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"168b"
+       "section":"2",
+       "value":"86b"
       }
      }
     },
@@ -2740,7 +3099,8 @@
      "filename":"I1KG812800339.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"169a"
+       "section":"2",
+       "value":"87a"
       }
      }
     },
@@ -2748,7 +3108,8 @@
      "filename":"I1KG812800340.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"169b"
+       "section":"2",
+       "value":"87b"
       }
      }
     },
@@ -2756,7 +3117,8 @@
      "filename":"I1KG812800341.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"170a"
+       "section":"2",
+       "value":"88a"
       }
      }
     },
@@ -2764,7 +3126,8 @@
      "filename":"I1KG812800342.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"170b"
+       "section":"2",
+       "value":"88b"
       }
      }
     },
@@ -2772,7 +3135,8 @@
      "filename":"I1KG812800343.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"171a"
+       "section":"2",
+       "value":"89a"
       }
      }
     },
@@ -2780,7 +3144,8 @@
      "filename":"I1KG812800344.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"171b"
+       "section":"2",
+       "value":"89b"
       }
      }
     },
@@ -2788,7 +3153,8 @@
      "filename":"I1KG812800345.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"172a"
+       "section":"2",
+       "value":"90a"
       }
      }
     },
@@ -2796,7 +3162,8 @@
      "filename":"I1KG812800346.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"172b"
+       "section":"2",
+       "value":"90b"
       }
      }
     },
@@ -2804,7 +3171,8 @@
      "filename":"I1KG812800347.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"173a"
+       "section":"2",
+       "value":"91a"
       }
      }
     },
@@ -2812,7 +3180,8 @@
      "filename":"I1KG812800348.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"173b"
+       "section":"2",
+       "value":"91b"
       }
      }
     },
@@ -2820,7 +3189,8 @@
      "filename":"I1KG812800349.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"174a"
+       "section":"2",
+       "value":"92a"
       }
      }
     },
@@ -2828,7 +3198,8 @@
      "filename":"I1KG812800350.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"174b"
+       "section":"2",
+       "value":"92b"
       }
      }
     },
@@ -2836,7 +3207,8 @@
      "filename":"I1KG812800351.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"175a"
+       "section":"2",
+       "value":"92'a"
       }
      }
     },
@@ -2844,7 +3216,8 @@
      "filename":"I1KG812800352.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"175b"
+       "section":"2",
+       "value":"92'b"
       }
      }
     },
@@ -2852,7 +3225,8 @@
      "filename":"I1KG812800353.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"176a"
+       "section":"2",
+       "value":"93a"
       }
      }
     },
@@ -2860,7 +3234,8 @@
      "filename":"I1KG812800354.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"176b"
+       "section":"2",
+       "value":"93b"
       }
      }
     },
@@ -2868,7 +3243,8 @@
      "filename":"I1KG812800355.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"177a"
+       "section":"2",
+       "value":"94a"
       }
      }
     },
@@ -2876,7 +3252,8 @@
      "filename":"I1KG812800356.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"177b"
+       "section":"2",
+       "value":"94b"
       }
      }
     },
@@ -2884,7 +3261,8 @@
      "filename":"I1KG812800357.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"178a"
+       "section":"2",
+       "value":"95a"
       }
      }
     },
@@ -2892,7 +3270,8 @@
      "filename":"I1KG812800358.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"178b"
+       "section":"2",
+       "value":"95b"
       }
      }
     },
@@ -2900,7 +3279,8 @@
      "filename":"I1KG812800359.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"179a"
+       "section":"2",
+       "value":"96a"
       }
      }
     },
@@ -2908,7 +3288,8 @@
      "filename":"I1KG812800360.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"179b"
+       "section":"2",
+       "value":"96b"
       }
      }
     },
@@ -2916,7 +3297,8 @@
      "filename":"I1KG812800361.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"180a"
+       "section":"2",
+       "value":"97a"
       }
      }
     },
@@ -2924,7 +3306,8 @@
      "filename":"I1KG812800362.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"180b"
+       "section":"2",
+       "value":"97b"
       }
      }
     },
@@ -2932,7 +3315,8 @@
      "filename":"I1KG812800363.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"181a"
+       "section":"2",
+       "value":"98a"
       }
      }
     },
@@ -2940,7 +3324,8 @@
      "filename":"I1KG812800364.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"181b"
+       "section":"2",
+       "value":"98b"
       }
      }
     },
@@ -2948,7 +3333,8 @@
      "filename":"I1KG812800365.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"182a"
+       "section":"2",
+       "value":"99a"
       }
      }
     },
@@ -2956,7 +3342,8 @@
      "filename":"I1KG812800366.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"182b"
+       "section":"2",
+       "value":"99b"
       }
      }
     },
@@ -2964,7 +3351,8 @@
      "filename":"I1KG812800367.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"183a"
+       "section":"2",
+       "value":"100a"
       }
      }
     },
@@ -2972,7 +3360,8 @@
      "filename":"I1KG812800368.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"183b"
+       "section":"2",
+       "value":"100b"
       }
      }
     },
@@ -2980,7 +3369,8 @@
      "filename":"I1KG812800369.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"184a"
+       "section":"2",
+       "value":"101a"
       }
      }
     },
@@ -2988,15 +3378,39 @@
      "filename":"I1KG812800370.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"184b"
+       "section":"2",
+       "value":"101b"
       }
      }
+    },
+    {
+     "pagination":{
+      "pgfolios":{
+       "section":"2",
+       "value":"102a"
+      }
+     },
+     "tags":[
+      "T0020"
+     ]
+    },
+    {
+     "pagination":{
+      "pgfolios":{
+       "section":"2",
+       "value":"102b"
+      }
+     },
+     "tags":[
+      "T0020"
+     ]
     },
     {
      "filename":"I1KG812800371.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"185a"
+       "section":"2",
+       "value":"103a"
       }
      }
     },
@@ -3004,7 +3418,8 @@
      "filename":"I1KG812800372.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"185b"
+       "section":"2",
+       "value":"103b"
       }
      }
     },
@@ -3012,7 +3427,8 @@
      "filename":"I1KG812800373.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"186a"
+       "section":"2",
+       "value":"104a"
       }
      }
     },
@@ -3020,7 +3436,8 @@
      "filename":"I1KG812800374.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"186b"
+       "section":"2",
+       "value":"104b"
       }
      }
     },
@@ -3028,7 +3445,8 @@
      "filename":"I1KG812800375.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"187a"
+       "section":"2",
+       "value":"105a"
       }
      }
     },
@@ -3036,7 +3454,8 @@
      "filename":"I1KG812800376.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"187b"
+       "section":"2",
+       "value":"105b"
       }
      }
     },
@@ -3044,7 +3463,8 @@
      "filename":"I1KG812800377.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"188a"
+       "section":"2",
+       "value":"106a"
       }
      }
     },
@@ -3052,7 +3472,8 @@
      "filename":"I1KG812800378.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"188b"
+       "section":"2",
+       "value":"106b"
       }
      }
     },
@@ -3060,7 +3481,8 @@
      "filename":"I1KG812800379.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"189a"
+       "section":"2",
+       "value":"107a"
       }
      }
     },
@@ -3068,7 +3490,8 @@
      "filename":"I1KG812800380.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"189b"
+       "section":"2",
+       "value":"107b"
       }
      }
     },
@@ -3076,7 +3499,8 @@
      "filename":"I1KG812800381.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"190a"
+       "section":"2",
+       "value":"108a"
       }
      }
     },
@@ -3084,7 +3508,8 @@
      "filename":"I1KG812800382.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"190b"
+       "section":"2",
+       "value":"108b"
       }
      }
     },
@@ -3092,7 +3517,8 @@
      "filename":"I1KG812800383.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"191a"
+       "section":"2",
+       "value":"109a"
       }
      }
     },
@@ -3100,7 +3526,8 @@
      "filename":"I1KG812800384.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"191b"
+       "section":"2",
+       "value":"109b"
       }
      }
     },
@@ -3108,7 +3535,8 @@
      "filename":"I1KG812800385.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"192a"
+       "section":"2",
+       "value":"110a"
       }
      }
     },
@@ -3116,7 +3544,8 @@
      "filename":"I1KG812800386.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"192b"
+       "section":"2",
+       "value":"110b"
       }
      }
     },
@@ -3124,7 +3553,8 @@
      "filename":"I1KG812800387.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"193a"
+       "section":"2",
+       "value":"111a"
       }
      }
     },
@@ -3132,7 +3562,8 @@
      "filename":"I1KG812800388.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"193b"
+       "section":"2",
+       "value":"111b"
       }
      }
     },
@@ -3140,7 +3571,8 @@
      "filename":"I1KG812800389.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"194a"
+       "section":"2",
+       "value":"112a"
       }
      }
     },
@@ -3148,7 +3580,8 @@
      "filename":"I1KG812800390.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"194b"
+       "section":"2",
+       "value":"112b"
       }
      }
     },
@@ -3156,7 +3589,8 @@
      "filename":"I1KG812800391.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"195a"
+       "section":"2",
+       "value":"113a"
       }
      }
     },
@@ -3164,7 +3598,8 @@
      "filename":"I1KG812800392.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"195b"
+       "section":"2",
+       "value":"113b"
       }
      }
     },
@@ -3172,7 +3607,8 @@
      "filename":"I1KG812800393.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"196a"
+       "section":"2",
+       "value":"114a"
       }
      }
     },
@@ -3180,7 +3616,8 @@
      "filename":"I1KG812800394.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"196b"
+       "section":"2",
+       "value":"114b"
       }
      }
     },
@@ -3188,7 +3625,8 @@
      "filename":"I1KG812800395.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"197a"
+       "section":"2",
+       "value":"115a"
       }
      }
     },
@@ -3196,7 +3634,8 @@
      "filename":"I1KG812800396.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"197b"
+       "section":"2",
+       "value":"115b"
       }
      }
     },
@@ -3204,7 +3643,8 @@
      "filename":"I1KG812800397.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"198a"
+       "section":"2",
+       "value":"116a"
       }
      }
     },
@@ -3212,7 +3652,8 @@
      "filename":"I1KG812800398.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"198b"
+       "section":"2",
+       "value":"116b"
       }
      }
     },
@@ -3220,7 +3661,8 @@
      "filename":"I1KG812800399.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"199a"
+       "section":"2",
+       "value":"117a"
       }
      }
     },
@@ -3228,7 +3670,8 @@
      "filename":"I1KG812800400.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"199b"
+       "section":"2",
+       "value":"117b"
       }
      }
     },
@@ -3236,7 +3679,8 @@
      "filename":"I1KG812800401.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"200a"
+       "section":"2",
+       "value":"118a"
       }
      }
     },
@@ -3244,7 +3688,8 @@
      "filename":"I1KG812800402.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"200b"
+       "section":"2",
+       "value":"118b"
       }
      }
     },
@@ -3252,7 +3697,8 @@
      "filename":"I1KG812800403.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"201a"
+       "section":"2",
+       "value":"119a"
       }
      }
     },
@@ -3260,7 +3706,8 @@
      "filename":"I1KG812800404.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"201b"
+       "section":"2",
+       "value":"119b"
       }
      }
     },
@@ -3268,7 +3715,8 @@
      "filename":"I1KG812800405.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"202a"
+       "section":"2",
+       "value":"120a"
       }
      }
     },
@@ -3276,7 +3724,8 @@
      "filename":"I1KG812800406.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"202b"
+       "section":"2",
+       "value":"120b"
       }
      }
     },
@@ -3284,7 +3733,8 @@
      "filename":"I1KG812800407.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"203a"
+       "section":"2",
+       "value":"121a"
       }
      }
     },
@@ -3292,7 +3742,8 @@
      "filename":"I1KG812800408.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"203b"
+       "section":"2",
+       "value":"121b"
       }
      }
     },
@@ -3300,7 +3751,8 @@
      "filename":"I1KG812800409.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"204a"
+       "section":"2",
+       "value":"122a"
       }
      }
     },
@@ -3308,7 +3760,8 @@
      "filename":"I1KG812800410.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"204b"
+       "section":"2",
+       "value":"122b"
       }
      }
     },
@@ -3316,7 +3769,8 @@
      "filename":"I1KG812800411.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"205a"
+       "section":"2",
+       "value":"123a"
       }
      }
     },
@@ -3324,7 +3778,8 @@
      "filename":"I1KG812800412.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"205b"
+       "section":"2",
+       "value":"123b"
       }
      }
     },
@@ -3332,7 +3787,8 @@
      "filename":"I1KG812800413.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"206a"
+       "section":"2",
+       "value":"124a"
       }
      }
     },
@@ -3340,7 +3796,8 @@
      "filename":"I1KG812800414.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"206b"
+       "section":"2",
+       "value":"124b"
       }
      }
     },
@@ -3348,7 +3805,8 @@
      "filename":"I1KG812800415.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"207a"
+       "section":"2",
+       "value":"125a"
       }
      }
     },
@@ -3356,7 +3814,8 @@
      "filename":"I1KG812800416.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"207b"
+       "section":"2",
+       "value":"125b"
       }
      }
     },
@@ -3364,7 +3823,8 @@
      "filename":"I1KG812800417.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"208a"
+       "section":"2",
+       "value":"126a"
       }
      }
     },
@@ -3372,7 +3832,8 @@
      "filename":"I1KG812800418.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"208b"
+       "section":"2",
+       "value":"126b"
       }
      }
     },
@@ -3380,7 +3841,8 @@
      "filename":"I1KG812800419.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"209a"
+       "section":"3",
+       "value":"1a"
       }
      }
     },
@@ -3388,7 +3850,8 @@
      "filename":"I1KG812800420.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"209b"
+       "section":"3",
+       "value":"1b"
       }
      }
     },
@@ -3396,7 +3859,8 @@
      "filename":"I1KG812800421.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"210a"
+       "section":"3",
+       "value":"2a"
       }
      }
     },
@@ -3404,7 +3868,8 @@
      "filename":"I1KG812800422.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"210b"
+       "section":"3",
+       "value":"2b"
       }
      }
     },
@@ -3412,7 +3877,8 @@
      "filename":"I1KG812800423.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"211a"
+       "section":"3",
+       "value":"3a"
       }
      }
     },
@@ -3420,7 +3886,8 @@
      "filename":"I1KG812800424.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"211b"
+       "section":"3",
+       "value":"3b"
       }
      }
     },
@@ -3428,7 +3895,8 @@
      "filename":"I1KG812800425.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"212a"
+       "section":"3",
+       "value":"4a"
       }
      }
     },
@@ -3436,7 +3904,8 @@
      "filename":"I1KG812800426.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"212b"
+       "section":"3",
+       "value":"4b"
       }
      }
     },
@@ -3444,7 +3913,8 @@
      "filename":"I1KG812800427.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"213a"
+       "section":"3",
+       "value":"5a"
       }
      }
     },
@@ -3452,7 +3922,8 @@
      "filename":"I1KG812800428.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"213b"
+       "section":"3",
+       "value":"5b"
       }
      }
     },
@@ -3460,7 +3931,8 @@
      "filename":"I1KG812800429.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"214a"
+       "section":"3",
+       "value":"6a"
       }
      }
     },
@@ -3468,7 +3940,8 @@
      "filename":"I1KG812800430.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"214b"
+       "section":"3",
+       "value":"6b"
       }
      }
     },
@@ -3476,7 +3949,8 @@
      "filename":"I1KG812800431.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"215a"
+       "section":"3",
+       "value":"7a"
       }
      }
     },
@@ -3484,7 +3958,8 @@
      "filename":"I1KG812800432.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"215b"
+       "section":"3",
+       "value":"7b"
       }
      }
     },
@@ -3492,7 +3967,8 @@
      "filename":"I1KG812800433.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"216a"
+       "section":"3",
+       "value":"8a"
       }
      }
     },
@@ -3500,7 +3976,8 @@
      "filename":"I1KG812800434.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"216b"
+       "section":"3",
+       "value":"8b"
       }
      }
     },
@@ -3508,7 +3985,8 @@
      "filename":"I1KG812800435.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"217a"
+       "section":"3",
+       "value":"9a"
       }
      }
     },
@@ -3516,7 +3994,8 @@
      "filename":"I1KG812800436.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"217b"
+       "section":"3",
+       "value":"9b"
       }
      }
     },
@@ -3524,7 +4003,8 @@
      "filename":"I1KG812800437.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"218a"
+       "section":"3",
+       "value":"10a"
       }
      }
     },
@@ -3532,7 +4012,8 @@
      "filename":"I1KG812800438.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"218b"
+       "section":"3",
+       "value":"10b"
       }
      }
     },
@@ -3540,7 +4021,8 @@
      "filename":"I1KG812800439.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"219a"
+       "section":"3",
+       "value":"11a"
       }
      }
     },
@@ -3548,7 +4030,8 @@
      "filename":"I1KG812800440.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"219b"
+       "section":"3",
+       "value":"11b"
       }
      }
     },
@@ -3556,7 +4039,8 @@
      "filename":"I1KG812800441.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"220a"
+       "section":"3",
+       "value":"12a"
       }
      }
     },
@@ -3564,7 +4048,8 @@
      "filename":"I1KG812800442.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"220b"
+       "section":"3",
+       "value":"12b"
       }
      }
     },
@@ -3572,7 +4057,8 @@
      "filename":"I1KG812800443.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"221a"
+       "section":"3",
+       "value":"13a"
       }
      }
     },
@@ -3580,7 +4066,8 @@
      "filename":"I1KG812800444.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"221b"
+       "section":"3",
+       "value":"13b"
       }
      }
     },
@@ -3588,7 +4075,8 @@
      "filename":"I1KG812800445.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"222a"
+       "section":"3",
+       "value":"14a"
       }
      }
     },
@@ -3596,7 +4084,8 @@
      "filename":"I1KG812800446.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"222b"
+       "section":"3",
+       "value":"14b"
       }
      }
     },
@@ -3604,7 +4093,8 @@
      "filename":"I1KG812800447.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"223a"
+       "section":"3",
+       "value":"15a"
       }
      }
     },
@@ -3612,7 +4102,8 @@
      "filename":"I1KG812800448.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"223b"
+       "section":"3",
+       "value":"15b"
       }
      }
     },
@@ -3620,7 +4111,8 @@
      "filename":"I1KG812800449.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"224a"
+       "section":"3",
+       "value":"16a"
       }
      }
     },
@@ -3628,7 +4120,8 @@
      "filename":"I1KG812800450.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"224b"
+       "section":"3",
+       "value":"16b"
       }
      }
     },
@@ -3636,7 +4129,8 @@
      "filename":"I1KG812800451.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"225a"
+       "section":"3",
+       "value":"17a"
       }
      }
     },
@@ -3644,7 +4138,8 @@
      "filename":"I1KG812800452.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"225b"
+       "section":"3",
+       "value":"17b"
       }
      }
     },
@@ -3652,7 +4147,8 @@
      "filename":"I1KG812800453.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"226a"
+       "section":"3",
+       "value":"18a"
       }
      }
     },
@@ -3660,7 +4156,8 @@
      "filename":"I1KG812800454.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"226b"
+       "section":"3",
+       "value":"18b"
       }
      }
     },
@@ -3668,7 +4165,8 @@
      "filename":"I1KG812800455.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"227a"
+       "section":"3",
+       "value":"19a"
       }
      }
     },
@@ -3676,7 +4174,8 @@
      "filename":"I1KG812800456.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"227b"
+       "section":"3",
+       "value":"19b"
       }
      }
     },
@@ -3684,7 +4183,8 @@
      "filename":"I1KG812800457.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"228a"
+       "section":"3",
+       "value":"20a"
       }
      }
     },
@@ -3692,7 +4192,8 @@
      "filename":"I1KG812800458.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"228b"
+       "section":"3",
+       "value":"20b"
       }
      }
     },
@@ -3700,7 +4201,8 @@
      "filename":"I1KG812800459.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"229a"
+       "section":"3",
+       "value":"21a"
       }
      }
     },
@@ -3708,7 +4210,8 @@
      "filename":"I1KG812800460.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"229b"
+       "section":"3",
+       "value":"21b"
       }
      }
     },
@@ -3716,7 +4219,8 @@
      "filename":"I1KG812800461.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"230a"
+       "section":"3",
+       "value":"22a"
       }
      }
     },
@@ -3724,7 +4228,8 @@
      "filename":"I1KG812800462.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"230b"
+       "section":"3",
+       "value":"22b"
       }
      }
     },
@@ -3732,31 +4237,25 @@
      "filename":"I1KG812800463.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"231a"
+       "section":"3",
+       "value":"23a"
       }
      }
     },
     {
      "filename":"I1KG812800464.jpg",
-     "pagination":{
-      "pgfolios":{
-       "value":"231b"
-      }
-     }
+     "hidden":true
     },
     {
      "filename":"I1KG812800465.jpg",
-     "pagination":{
-      "pgfolios":{
-       "value":"232a"
-      }
-     }
+     "hidden":true
     },
     {
      "filename":"I1KG812800466.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"232b"
+       "section":"3",
+       "value":"24b"
       }
      }
     }
