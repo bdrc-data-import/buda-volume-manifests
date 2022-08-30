@@ -7570,21 +7570,15 @@
     },
     {
      "filename":"64490943.tif",
-     "hidden":true
-    },
-    {
-     "filename":"64490944.tif",
-     "hidden":true
-    },
-    {
      "pagination":{
       "pgfolios":{
        "value":"469a"
       }
-     },
-     "tags":[
-      "T0020"
-     ]
+     }
+    },
+    {
+     "filename":"64490944.tif",
+     "hidden":true
     }
    ]
   }
