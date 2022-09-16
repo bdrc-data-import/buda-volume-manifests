@@ -22,7 +22,7 @@
         }
     ],
     "default-view": "view1",
-    "imggroup": "bdr:I0GN010020002",
+    "imggroup": "bdr:I0GN020020001",
     "pagination": [
         {
             "id": "pgfolios",
@@ -35,20 +35,12 @@
         "view1": {
             "imagelist": [
                 {
-                    "filename": "I0GN010020002001.jpg",
-                    "sourcePath": "Senior images/RS20/MasterInfrared/SN20RB_IR.tif"
+                    "filename": "I0GN020020001001.jpg",
+                    "sourcePath": "Published Manuscripts/RS20/RSF20-01-recto.jpg"
                 },
                 {
-                    "filename": "I0GN010020002002.jpg",
-                    "sourcePath": "Senior images/RS20/MasterInfrared/SN20RT_IR.tif"
-                },
-                {
-                    "filename": "I0GN010020002003.jpg",
-                    "sourcePath": "Senior images/RS20/MasterInfrared/SN20VB_IR.tif"
-                },
-                {
-                    "filename": "I0GN010020002004.jpg",
-                    "sourcePath": "Senior images/RS20/MasterInfrared/SN20VT_IR.tif"
+                    "filename": "I0GN020020001002.jpg",
+                    "sourcePath": "Published Manuscripts/RS20/RSF20-01-verso.jpg"
                 }
             ]
         }
