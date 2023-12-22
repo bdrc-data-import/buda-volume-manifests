@@ -26,7 +26,7 @@
  "pagination":[
   {
    "id":"pgfolios",
-   "type":"folios"
+   "type":"simple"
   }
  ],
  "spec-version":"0.1.0",
@@ -38,7 +38,7 @@
      "filename":"I1ER3710001.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"x1a"
+       "value":"1"
       }
      }
     },
@@ -46,7 +46,7 @@
      "filename":"I1ER3710002.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"x1b"
+       "value":"2"
       }
      }
     },
@@ -54,7 +54,7 @@
      "filename":"I1ER3710003.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"x2a"
+       "value":"3"
       }
      }
     },
@@ -62,7 +62,7 @@
      "filename":"I1ER3710004.jpg",
      "pagination":{
       "pgfolios":{
-       "value":"x2b"
+       "value":"4"
       }
      }
     },

@@ -5842,59 +5842,7 @@
     },
     {
      "filename":"37610734.tif",
-     "pagination":{
-      "pgfolios":{
-       "value":"360b"
-      }
-     }
-    },
-    {
-     "filename":"37610735.tif",
-     "pagination":{
-      "pgfolios":{
-       "value":"361a"
-      }
-     }
-    },
-    {
-     "filename":"37610736.tif",
-     "pagination":{
-      "pgfolios":{
-       "value":"361b"
-      }
-     }
-    },
-    {
-     "filename":"37610737.tif",
-     "pagination":{
-      "pgfolios":{
-       "value":"362a"
-      }
-     }
-    },
-    {
-     "filename":"37610738.tif",
-     "pagination":{
-      "pgfolios":{
-       "value":"362b"
-      }
-     }
-    },
-    {
-     "filename":"37610739.tif",
-     "pagination":{
-      "pgfolios":{
-       "value":"363a"
-      }
-     }
-    },
-    {
-     "filename":"37610740.tif",
-     "pagination":{
-      "pgfolios":{
-       "value":"363b"
-      }
-     }
+     "hidden":true
     }
    ]
   }

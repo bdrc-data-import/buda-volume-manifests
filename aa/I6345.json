@@ -578,10 +578,6 @@
     },
     {
      "filename":"63450069..jpg",
-     "hidden":true
-    },
-    {
-     "filename":"63450069.jpg",
      "pagination":{
       "pgfolios":{
        "value":"34a"
@@ -606,10 +602,6 @@
     },
     {
      "filename":"63450072..jpg",
-     "hidden":true
-    },
-    {
-     "filename":"63450072.jpg",
      "pagination":{
       "pgfolios":{
        "value":"35b"
@@ -2026,34 +2018,6 @@
     },
     {
      "filename":"63450249..jpg",
-     "hidden":true
-    },
-    {
-     "filename":"63450250..jpg",
-     "hidden":true
-    },
-    {
-     "filename":"63450251..jpg",
-     "hidden":true
-    },
-    {
-     "filename":"63450252..jpg",
-     "hidden":true
-    },
-    {
-     "filename":"63450253..jpg",
-     "hidden":true
-    },
-    {
-     "filename":"63450254..jpg",
-     "hidden":true
-    },
-    {
-     "filename":"63450255..jpg",
-     "hidden":true
-    },
-    {
-     "filename":"63450249.jpg",
      "pagination":{
       "pgfolios":{
        "value":"124a"
@@ -2061,7 +2025,7 @@
      }
     },
     {
-     "filename":"63450250.jpg",
+     "filename":"63450250..jpg",
      "pagination":{
       "pgfolios":{
        "value":"124b"
@@ -2069,7 +2033,7 @@
      }
     },
     {
-     "filename":"63450251.jpg",
+     "filename":"63450251..jpg",
      "pagination":{
       "pgfolios":{
        "value":"125a"
@@ -2077,7 +2041,7 @@
      }
     },
     {
-     "filename":"63450252.jpg",
+     "filename":"63450252..jpg",
      "pagination":{
       "pgfolios":{
        "value":"125b"
@@ -2085,7 +2049,7 @@
      }
     },
     {
-     "filename":"63450253.jpg",
+     "filename":"63450253..jpg",
      "pagination":{
       "pgfolios":{
        "value":"126a"
@@ -2093,7 +2057,7 @@
      }
     },
     {
-     "filename":"63450254.jpg",
+     "filename":"63450254..jpg",
      "pagination":{
       "pgfolios":{
        "value":"126b"
@@ -2101,7 +2065,7 @@
      }
     },
     {
-     "filename":"63450255.jpg",
+     "filename":"63450255..jpg",
      "pagination":{
       "pgfolios":{
        "value":"127a"
@@ -4694,14 +4658,6 @@
     },
     {
      "filename":"63450579..jpg",
-     "hidden":true
-    },
-    {
-     "filename":"63450580..jpg",
-     "hidden":true
-    },
-    {
-     "filename":"63450579.jpg",
      "pagination":{
       "pgfolios":{
        "value":"289a"
@@ -4709,7 +4665,7 @@
      }
     },
     {
-     "filename":"63450580.jpg",
+     "filename":"63450580..jpg",
      "pagination":{
       "pgfolios":{
        "value":"289b"

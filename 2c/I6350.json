@@ -4767,20 +4767,24 @@
      }
     },
     {
-     "filename":"63500589.tif",
      "pagination":{
       "pgfolios":{
        "value":"294a"
       }
-     }
+     },
+     "tags":[
+      "T0020"
+     ]
     },
     {
-     "filename":"63500590.tif",
      "pagination":{
       "pgfolios":{
        "value":"294b"
       }
-     }
+     },
+     "tags":[
+      "T0020"
+     ]
     }
    ]
   }

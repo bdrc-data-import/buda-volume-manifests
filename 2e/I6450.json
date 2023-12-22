@@ -2785,20 +2785,24 @@
      }
     },
     {
-     "filename":"64500345.tif",
      "pagination":{
       "pgfolios":{
        "value":"172a"
       }
-     }
+     },
+     "tags":[
+      "T0020"
+     ]
     },
     {
-     "filename":"64500346.tif",
      "pagination":{
       "pgfolios":{
        "value":"172b"
       }
-     }
+     },
+     "tags":[
+      "T0020"
+     ]
     }
    ]
   }
